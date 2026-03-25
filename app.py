@@ -147,11 +147,11 @@ header, [data-testid="stHeader"], [data-testid="stToolbar"], [data-testid="stSid
   justify-content:space-between;padding:0 2.5rem;height:60px;
   background:rgba(14, 77, 0,0.92);backdrop-filter:blur(16px);
   border-bottom:3px solid rgba(120, 20, 128,0.2)}
-.nav-logo{font-size:1.1rem;font-weight:900;color:#2FFF00;text-decoration:none;letter-spacing:.5px}
+.nav-logo{font-size:1.4rem;font-weight:900;color:#2FFF00;text-decoration:none;letter-spacing:.5px}
 .nav-logo span{color:#fff}
 .nav-links{display:flex;gap:1.6rem;list-style:none}
-.nav-links a{color:#bbb;text-decoration:none;font-size:1.6rem;font-weight:500;
-  padding:5px 12px;border-radius:6px;transition:color .2s,background .2s}
+.nav-links a{color:#fff;text-decoration:none;font-size:1.6rem;font-weight:900;
+  padding:5px 12px;border-radius:12px;transition:color .2s,background .2s}
 .nav-links a:hover{color:#2FFF00;background:rgba(237, 64, 64,0.08)}
 
 /* SECTION WRAPPERS */

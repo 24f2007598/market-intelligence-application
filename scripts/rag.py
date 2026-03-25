@@ -42,7 +42,7 @@ def retrieve_context(query, k=5):
 
     return qdrant_context + "\n\n" + postgres_context
 
-def ask(query):
+def generate_answer(query:str):
     context = retrieve_context(query)
 
     prompt = f"""
@@ -65,10 +65,10 @@ Give a clear, concise answer with insights.
     return response.text
 
 
-if __name__ == "__main__":
-    while True:
-        q = input("\nAsk: ")
-        print("\nAnswer:\n", ask(q))
+# if __name__ == "__main__":
+#     while True:
+#         q = input("\nAsk: ")
+#         print("\nAnswer:\n", ask(q))
 
 
 # from qdrant_client import QdrantClient

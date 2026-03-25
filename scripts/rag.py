@@ -81,6 +81,62 @@ Give a clear, concise answer with insights.
 
     return response.text
 
+
+def retrieve_company_context(company_name, k=10):
+    from qdrant_client.http.models import Filter, FieldCondition, MatchValue
+    vector = embed_model.encode(f"features pricing strategy changes for {company_name}").tolist()
+    
+    query_filter = Filter(
+        must=[
+            FieldCondition(
+                key="brand",
+                match=MatchValue(value=company_name)
+            )
+        ]
+    )
+    
+    results = client.query_points(
+        collection_name=COLLECTION_NAME,
+        query=vector,
+        query_filter=query_filter,
+        limit=k
+    )
+    
+    hits = results.points if hasattr(results, "points") else results
+    return "\n\n".join([h.payload["text"] for h in hits[:k]])
+
+
+def generate_whitespace_analysis(company1: str, company2: str, query: str):
+    ctx1 = retrieve_company_context(company1)
+    ctx2 = retrieve_company_context(company2)
+    
+    prompt = f"""
+You are an expert market intelligence analyst. 
+Conduct a Whitespace Detection and Competitive Recommendation Analysis comparing two companies based on the provided datasets and previous trends.
+
+Company 1: {company1}
+Dataset/Trends: 
+{ctx1}
+
+Company 2: {company2}
+Dataset/Trends:
+{ctx2}
+
+User Focus Area: {query}
+
+Instructions:
+1. Identify the 'whitespace' (market gaps, missing features, or missing price tiers).
+2. Compare the datasets and previous trends of both companies.
+3. Provide strategic recommendations on where each company can catch up or outmaneuver the other.
+4. Format your output clearly with markdown headers and bullet points.
+"""
+
+    response = client_gemini.models.generate_content(
+        model="gemini-flash-latest",
+        contents=prompt
+    )
+    return response.text
+
 # def run_rag(query, llm):
 #     rag_output = your_existing_rag_logic(query)
 

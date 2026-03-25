@@ -145,29 +145,29 @@ header, [data-testid="stHeader"], [data-testid="stToolbar"], [data-testid="stSid
 /* NAV BAR */
 .nav-bar{position:fixed;top:0;left:0;right:0;z-index:9999;display:flex;align-items:center;
   justify-content:space-between;padding:0 2.5rem;height:60px;
-  background:rgba(14, 77, 0,0.92);backdrop-filter:blur(16px);
+  background:rgba(69, 20, 0,0.92);backdrop-filter:blur(16px);
   border-bottom:3px solid rgba(120, 20, 128,0.2)}
-.nav-logo{font-size:1.4rem;font-weight:900;color:#2FFF00;text-decoration:none;letter-spacing:.5px}
+.nav-logo{font-size:1.4rem;font-weight:900;color:#FF003B;text-decoration:none;letter-spacing:.5px}
 .nav-logo span{color:#fff}
 .nav-links{display:flex;gap:1.6rem;list-style:none}
 .nav-links a{color:#fff;text-decoration:none;font-size:1.6rem;font-weight:900;
   padding:5px 12px;border-radius:12px;transition:color .2s,background .2s}
-.nav-links a:hover{color:#2FFF00;background:rgba(237, 64, 64,0.08)}
+.nav-links a:hover{color:#FF003B;background:rgba(237, 64, 64,0.08)}
 
 /* SECTION WRAPPERS */
 .sec-wrap{padding:4rem 6vw 2rem;max-width:1400px;margin:0 auto}
 .eyebrow{font-size:.7rem;font-weight:700;text-transform:uppercase;
-  letter-spacing:3px;color:#2FFF00;margin-bottom:.4rem}
+  letter-spacing:3px;color:#FF003B;margin-bottom:.4rem}
 .sec-title{font-size:clamp(1.6rem,3vw,2.4rem);font-weight:900;color:#fff;margin-bottom:.3rem}
-.gold-line{width:52px;height:3px;background:#2FFF00;border-radius:2px;margin:.8rem 0 1.8rem}
+.gold-line{width:52px;height:3px;background:#FF003B;border-radius:2px;margin:.8rem 0 1.8rem}
 
 /* FEATURE CARDS */
 .f-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1.2rem;margin-top:1.5rem}
 .f-card{background:#111;border:1px solid rgba(237, 64, 64,0.12);border-radius:14px;padding:1.6rem;
   transition:border-color .2s,transform .2s,box-shadow .2s}
-.f-card:hover{border-color:#2FFF00;transform:translateY(-4px);box-shadow:0 12px 36px rgba(237, 64, 64,0.1)}
+.f-card:hover{border-color:#FF003B;transform:translateY(-4px);box-shadow:0 12px 36px rgba(237, 64, 64,0.1)}
 .f-card .fi{font-size:1.8rem;margin-bottom:.8rem}
-.f-card h3{font-size:.92rem;font-weight:700;color:#2FFF00;margin-bottom:.3rem}
+.f-card h3{font-size:.92rem;font-weight:700;color:#FF003B;margin-bottom:.3rem}
 .f-card p{font-size:.82rem;color:#888;line-height:1.6}
 
 /* QUERY CARD */
@@ -175,7 +175,7 @@ header, [data-testid="stHeader"], [data-testid="stToolbar"], [data-testid="stSid
 .q-card{background:rgba(237, 64, 64,0.03);border:1.5px solid rgba(237, 64, 64,0.25);
   border-radius:18px;padding:3rem 2.5rem;max-width:820px;margin:0 auto;
   box-shadow:0 0 60px rgba(237, 64, 64,0.05);text-align:center}
-.q-card h2{font-size:1.6rem;font-weight:900;color:#2FFF00;margin-bottom:.4rem}
+.q-card h2{font-size:1.6rem;font-weight:900;color:#FF003B;margin-bottom:.4rem}
 .q-card p{color:#777;font-size:.9rem;margin-bottom:1.5rem}
 
 /* STATS BAR */
@@ -183,36 +183,36 @@ header, [data-testid="stHeader"], [data-testid="stToolbar"], [data-testid="stSid
   padding:2.5rem 6vw;background:#0e0e0e;
   border-top:1px solid rgba(237, 64, 64,0.1);border-bottom:1px solid rgba(237, 64, 64,0.1)}
 .stat-item{text-align:center;min-width:110px}
-.stat-num{font-size:2rem;font-weight:900;color:#2FFF00}
+.stat-num{font-size:2rem;font-weight:900;color:#FF003B}
 .stat-label{font-size:.7rem;color:#666;text-transform:uppercase;letter-spacing:1px;margin-top:3px}
 
 /* STREAMLIT WIDGET OVERRIDES */
 [data-testid="stTextInput"] input{
   background:#1a1a1a!important;border:1.5px solid rgba(237, 64, 64,0.4)!important;
-  border-radius:10px!important;color:#2FFF00!important;font-size:1.1rem!important;
+  border-radius:10px!important;color:#FF003B!important;font-size:1.1rem!important;
   transition:border-color .2s,box-shadow .2s}
 [data-testid="stTextInput"] input:focus{
-  border-color:#2FFF00!important;box-shadow:0 0 16px rgba(237, 64, 64,0.2)!important;outline:none!important}
-[data-testid="stTextInput"] label{color:#2FFF00!important;font-weight:600!important}
+  border-color:#FF003B!important;box-shadow:0 0 16px rgba(237, 64, 64,0.2)!important;outline:none!important}
+[data-testid="stTextInput"] label{color:#FF003B!important;font-weight:600!important}
 [data-testid="stButton"] button{
-  background:#2FFF00!important;color:#0a0a0a!important;font-weight:800!important;
+  background:#FF003B!important;color:#0a0a0a!important;font-weight:800!important;
   border:none!important;border-radius:10px!important;
   transition:transform .15s,box-shadow .2s!important}
 [data-testid="stButton"] button:hover{transform:translateY(-2px)!important;
   box-shadow:0 8px 24px rgba(237, 64, 64,0.35)!important}
 [data-testid="stDataFrame"]{border:1px solid rgba(237, 64, 64,0.2)!important;border-radius:10px!important}
 [data-testid="stTabs"] button{color:#666!important;font-weight:10000!important}
-[data-testid="stTabs"] button[aria-selected="true"]{color:#2FFF00!important;border-bottom:2px solid #2FFF00!important}
+[data-testid="stTabs"] button[aria-selected="true"]{color:#FF003B!important;border-bottom:2px solid #FF003B!important}
 [data-testid="stMetric"]{background:#111!important;border:1px solid rgba(237, 64, 64,0.2)!important;
   border-radius:12px!important;padding:1.1rem!important}
-[data-testid="stMetricLabel"]{color:#2FFF00!important}
+[data-testid="stMetricLabel"]{color:#FF003B!important}
 [data-testid="stMetricValue"]{color:#fff!important;font-weight:800!important}
 [data-testid="stMetricDelta"]{color:#00e676!important}
-h1,h2,h3,h4{color:#2FFF00!important}
+h1,h2,h3,h4{color:#FF003B!important}
 hr{border-color:rgba(237, 64, 64,0.2)!important}
 ::-webkit-scrollbar{width:4px}
 ::-webkit-scrollbar-track{background:#0a0a0a}
-::-webkit-scrollbar-thumb{background:#2FFF00;border-radius:4px}
+::-webkit-scrollbar-thumb{background:#FF003B;border-radius:4px}
 
 /* iframe zero padding */
 iframe{border:none!important;display:block}
@@ -225,6 +225,7 @@ st.markdown(
     '<a class="nav-logo" href="#hero">Vector<span>Transformers</span></a>'
     '<ul class="nav-links">'
     '<li><a href="#query">Query Engine</a></li>'
+    '<li><a href="#whitespace">Whitespace Analysis</a></li>'
     '<li><a href="#insights">Insights &amp; Tables</a></li>'
     '<li><a href="#datasources">Data Sources</a></li>'
     '</ul></div>',
@@ -261,20 +262,20 @@ body{background:#0a0a0a;overflow:hidden;font-family:'Inter',sans-serif}
 .s3{background:radial-gradient(ellipse at 20% 80%,#0d0018 0%,#0a0a0a 70%)}
 .s4{background:radial-gradient(ellipse at 80% 30%,#001018 0%,#0a0a0a 70%)}
 .glow{position:absolute;width:400px;height:400px;border-radius:50%;filter:blur(110px);opacity:.2;pointer-events:none}
-.g1{background:#2FFF00;top:-100px;left:-100px}
+.g1{background:#FF003B;top:-100px;left:-100px}
 .g2{background:#00e676;bottom:-80px;right:-80px}
 .g3{background:#aa00ff;top:-60px;right:-80px}
 .g4{background:#0088ff;bottom:-60px;left:-60px}
 .icon{font-size:4rem;margin-bottom:1.2rem;filter:drop-shadow(0 0 18px rgba(237, 64, 64,.4));position:relative;z-index:1}
 .tag{font-size:.65rem;font-weight:700;text-transform:uppercase;letter-spacing:2.5px;
-  color:#2FFF00;background:rgba(237, 64, 64,.1);border:1px solid rgba(237, 64, 64,.3);
+  color:#FF003B;background:rgba(237, 64, 64,.1);border:1px solid rgba(237, 64, 64,.3);
   border-radius:20px;padding:4px 14px;margin-bottom:1rem;display:inline-block;position:relative;z-index:1}
 .title{font-size:clamp(1.6rem,3.5vw,2.8rem);font-weight:900;color:#fff;
   line-height:1.2;margin-bottom:.9rem;position:relative;z-index:1}
-.title .g{color:#2FFF00}
+.title .g{color:#FF003B}
 .sub{font-size:.9rem;color:#999;max-width:480px;line-height:1.7;
   margin-bottom:2rem;position:relative;z-index:1}
-.cta{display:inline-block;background:#2FFF00;color:#0a0a0a;font-weight:800;
+.cta{display:inline-block;background:#FF003B;color:#0a0a0a;font-weight:800;
   font-size:.85rem;padding:11px 28px;border-radius:8px;text-decoration:none;
   transition:transform .2s,box-shadow .2s;position:relative;z-index:1}
 .cta:hover{transform:translateY(-2px);box-shadow:0 10px 32px rgba(237, 64, 64,.4)}
@@ -334,7 +335,7 @@ body{background:#0a0a0a;overflow:hidden;font-family:'Inter',sans-serif}
 const dots = document.querySelectorAll('.dots span');
 let cur = 0;
 function highlight(){
-  dots.forEach((d,i)=> d.style.background = i===cur ? '#2FFF00' : 'rgba(255,255,255,.2)');
+  dots.forEach((d,i)=> d.style.background = i===cur ? '#FF003B' : 'rgba(255,255,255,.2)');
   cur = (cur+1) % 4;
 }
 highlight();
@@ -448,6 +449,54 @@ if run_query:
             else:
                 st.markdown(response)
 
+# ─── WHITESPACE DETECTION SECTION ──────────────────────────────────────────────
+st.markdown('<div id="whitespace" style="scroll-margin-top:64px;"></div>', unsafe_allow_html=True)
+st.markdown(
+    '<div class="sec-wrap" style="padding-top:2rem;">'
+    '<div class="eyebrow">Strategic Analysis</div>'
+    '<div class="sec-title">Market Whitespace Detection</div>'
+    '<div class="gold-line"></div>'
+    '</div>',
+    unsafe_allow_html=True
+)
+
+c_ws1, c_ws2, c_ws3 = st.columns([1, 8, 1])
+with c_ws2:
+    st.markdown("<p style='color:#bbb;'>Compare two companies to identify market gaps, dataset trends, and competitive catch-up recommendations.</p>", unsafe_allow_html=True)
+    with st.form("whitespace_form"):
+        col_w1, col_w2 = st.columns(2)
+        with col_w1:
+            comp1 = st.text_input("Competitor 1", value="samsung")
+        with col_w2:
+            comp2 = st.text_input("Competitor 2", value="oppo")
+        
+        ws_query = st.text_input("Custom Analysis Focus (Optional)", placeholder="e.g., Focus on pricing and AI features")
+        
+        submit_ws = st.form_submit_button("Detect Market Whitespace ⚡")
+
+if submit_ws and comp1 and comp2:
+    with st.spinner(f"Analyzing datasets and previous trends for {comp1} and {comp2}..."):
+        try:
+            payload = {"company1": comp1, "company2": comp2, "query": ws_query if ws_query else "General whitespace and feature gaps"}
+            res = requests.post("http://localhost:8000/whitespace", json=payload)
+            if res.status_code == 200:
+                ws_response = res.json().get("answer", "")
+                st.markdown(
+                    '<div class="sec-wrap" style="padding-top:2rem;padding-bottom:1rem;">'
+                    '<div class="eyebrow">Comparison Results</div>'
+                    '<div class="sec-title">Whitespace Recommendations</div>'
+                    '<div class="gold-line"></div>'
+                    '</div>',
+                    unsafe_allow_html=True
+                )
+                c_lw, c_mw, c_rw = st.columns([0.5, 9, 0.5])
+                with c_mw:
+                    st.markdown(f'<div style="padding:0 4vw;font-size:1.1rem;line-height:1.8;color:#ddd;">\n\n{ws_response}\n\n</div>', unsafe_allow_html=True)
+            else:
+                st.error(f"Error from backend: {res.status_code}")
+        except Exception:
+            st.error("Backend not connected. Ensure FastAPI is running on port 8000.")
+
 # ─── DATA SOURCES METRICS ────────────────────────────────────────────────────
 st.markdown('<div id="datasources" style="scroll-margin-top:64px;"></div>', unsafe_allow_html=True)
 st.markdown(
@@ -469,7 +518,7 @@ d5.metric("Accuracy Rate",     "98%",   "+2%")
 st.markdown(
     '<div style="background:#050505;border-top:1px solid rgba(237, 64, 64,.1);'
     'padding:1.8rem 6vw;display:flex;justify-content:space-between;flex-wrap:wrap;gap:.8rem;">'
-    '<p style="font-size:.75rem;color:#3a3a3a;">&#169; 2026 <span style="color:#2FFF00;">VectorTransformers</span>. All rights reserved.</p>'
+    '<p style="font-size:.75rem;color:#3a3a3a;">&#169; 2026 <span style="color:#FF003B;">VectorTransformers</span>. All rights reserved.</p>'
     '<p style="font-size:.75rem;color:#3a3a3a;">Powered by RAG &bull; NLP &bull; Agentic Crawlers</p>'
     '</div>',
     unsafe_allow_html=True

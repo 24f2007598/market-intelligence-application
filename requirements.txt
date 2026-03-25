@@ -6,3 +6,8 @@ chromadb
 sentence-transformers
 playwright
 python-dateutil
+psycopg2-binary
+sqlalchemy
+qdrant-client
+sentence-transformers
+python-dotenv

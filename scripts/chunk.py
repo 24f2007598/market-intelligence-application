@@ -1,37 +1,24 @@
 import json
-from tqdm import tqdm
 
-CHUNK_SIZE = 300  # words
-OVERLAP = 50
-
-def chunk_text(text, chunk_size=120, overlap=30):
+def chunk_text(text, size=300):
     words = text.split()
+    return [" ".join(words[i:i+size]) for i in range(0, len(words), size)]
+
+def run():
+    with open("data/processed/cleaned_docs.json") as f:
+        docs = json.load(f)
+
     chunks = []
 
-    for i in range(0, len(words), chunk_size - overlap):
-        chunk = words[i:i + chunk_size]
-        chunks.append(" ".join(chunk))
+    for d in docs:
+        for c in chunk_text(d["cleaned_text"]):
+            chunks.append({
+                "brand": d["brand"],
+                "chunk": c
+            })
 
-    return chunks
-    
-# load raw data
-with open("data/raw_docs.json", "r") as f:
-    docs = json.load(f)
+    with open("data/processed/chunks.json", "w") as f:
+        json.dump(chunks, f, indent=2)
 
-all_chunks = []
-
-for doc in tqdm(docs):
-    chunks = chunk_text(doc["text"])
-
-    for i, chunk in enumerate(chunks):
-        all_chunks.append({
-            "id": f"{doc['url']}_{i}",
-            "text": chunk,
-            "source": doc["url"]
-        })
-
-# save chunks
-with open("data/chunks.json", "w") as f:
-    json.dump(all_chunks, f, indent=2)
-
-print("Saved to data/chunks.json")
+if __name__ == "__main__":
+    run()

@@ -1,0 +1,105 @@
+from sqlalchemy import create_engine, text
+from utils.config import POSTGRES_URI
+
+engine = create_engine(POSTGRES_URI)
+
+
+def insert_competitor(name):
+    with engine.connect() as conn:
+        res = conn.execute(
+            text("INSERT INTO competitors (name) VALUES (:name) RETURNING id"),
+            {"name": name}
+        )
+        conn.commit()
+        return res.fetchone()[0]
+
+
+def insert_page(cid, url, ptype, snapshot):
+    with engine.connect() as conn:
+        res = conn.execute(
+            text("""
+                INSERT INTO pages (competitor_id, url, page_type, snapshot_date)
+                VALUES (:cid, :url, :ptype, :snap)
+                RETURNING id
+            """),
+            {"cid": cid, "url": url, "ptype": ptype, "snap": snapshot}
+        )
+        conn.commit()
+        return res.fetchone()[0]
+
+
+def insert_document(pid, raw, clean):
+    with engine.connect() as conn:
+        conn.execute(
+            text("""
+                INSERT INTO documents (page_id, raw_text, cleaned_text)
+                VALUES (:pid, :raw, :clean)
+            """),
+            {"pid": pid, "raw": raw, "clean": clean}
+        )
+        conn.commit()
+
+
+def insert_review(source, company, review_text):
+    with engine.connect() as conn:
+        conn.execute(
+            text("""
+                INSERT INTO reviews (source, company, review_text)
+                VALUES (:s, :c, :r)
+            """),
+            {"s": source, "c": company, "r": review_text}
+        )
+        conn.commit()
+
+
+# from sqlalchemy import create_engine, text
+# from utils.config import POSTGRES_URI
+
+# engine = create_engine(POSTGRES_URI)
+
+# def insert_competitor(name):
+#     with engine.connect() as conn:
+#         res = conn.execute(
+#             text("INSERT INTO competitors (name) VALUES (:name) RETURNING id"),
+#             {"name": name}
+#         )
+#         conn.commit()
+#         return res.fetchone()[0]
+
+
+# def insert_page(competitor_id, url, page_type, snapshot):
+#     with engine.connect() as conn:
+#         res = conn.execute(
+#             text("""
+#                 INSERT INTO pages (competitor_id, url, page_type, snapshot_date)
+#                 VALUES (:cid, :url, :ptype, :snap)
+#                 RETURNING id
+#             """),
+#             {"cid": competitor_id, "url": url, "ptype": page_type, "snap": snapshot}
+#         )
+#         conn.commit()
+#         return res.fetchone()[0]
+
+
+# def insert_document(page_id, raw_text, cleaned_text):
+#     with engine.connect() as conn:
+#         conn.execute(
+#             text("""
+#                 INSERT INTO documents (page_id, raw_text, cleaned_text)
+#                 VALUES (:pid, :raw, :clean)
+#             """),
+#             {"pid": page_id, "raw": raw_text, "clean": cleaned_text}
+#         )
+#         conn.commit()
+
+
+# def insert_review(source, company, review_text):
+#     with engine.connect() as conn:
+#         conn.execute(
+#             text("""
+#                 INSERT INTO reviews (source, company, review_text)
+#                 VALUES (:s, :c, :r)
+#             """),
+#             {"s": source, "c": company, "r": review_text}
+#         )
+#         conn.commit()

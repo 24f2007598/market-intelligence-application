@@ -1,53 +1,84 @@
-import json
-import chromadb
+from qdrant_client import QdrantClient
 from sentence_transformers import SentenceTransformer
+import json
+from utils.config import COLLECTION_NAME
 
-# ----------------------------
-# INIT
-# ----------------------------
+client = QdrantClient("localhost", port=6333)
 model = SentenceTransformer("all-MiniLM-L6-v2")
 
-client = chromadb.PersistentClient(
-    path="chroma_db"
-)
 
-collection = client.get_or_create_collection(name="competitor_data")
+def run():
+    with open("data/processed/chunks.json") as f:
+        chunks = json.load(f)
 
-# ----------------------------
-# LOAD CHUNKS
-# ----------------------------
-with open("data/chunks.json", "r") as f:
-    chunks = json.load(f)
+    vectors = []
+    payloads = []
+    ids = []
 
-# ----------------------------
-# PREPARE DATA
-# ----------------------------
-documents = []
-metadatas = []
-ids = []
+    for i, c in enumerate(chunks):
+        emb = model.encode(c["chunk"]).tolist()
 
-for i, chunk in enumerate(chunks):
-    documents.append(chunk["text"])
-    metadatas.append({"source": chunk["source"]})
-    ids.append(f"{chunk['id']}_{i}")
+        vectors.append(emb)
+        payloads.append({
+            "text": c["chunk"],
+            "brand": c["brand"]
+        })
+        ids.append(i)
 
-# ----------------------------
-# GENERATE EMBEDDINGS
-# ----------------------------
-print("Generating embeddings...")
-embeddings = model.encode(documents, show_progress_bar=True)
+    # recreate collection
+    client.recreate_collection(
+        collection_name=COLLECTION_NAME,
+        vectors_config={"size": 384, "distance": "Cosine"}
+    )
 
-# ----------------------------
-# STORE IN CHROMA
-# ----------------------------
-print("Storing in ChromaDB...")
-collection.add(
-    documents=documents,
-    embeddings=embeddings.tolist(),
-    metadatas=metadatas,
-    ids=ids
-)
+    client.upload_collection(
+        collection_name=COLLECTION_NAME,
+        vectors=vectors,
+        payload=payloads,
+        ids=ids
+    )
+
+    print(f"✅ Uploaded {len(vectors)} vectors to Qdrant")
 
 
+if __name__ == "__main__":
+    run()
 
-print("✅ Embeddings stored successfully!")
+# from qdrant_client import QdrantClient
+# from sentence_transformers import SentenceTransformer
+# import json
+# from utils.config import COLLECTION_NAME
+
+# client = QdrantClient("localhost", port=6333)
+# model = SentenceTransformer("all-MiniLM-L6-v2")
+
+# def run():
+#     with open("data/processed/chunks.json") as f:
+#         chunks = json.load(f)
+
+#     vectors = []
+#     payloads = []
+
+#     for i, c in enumerate(chunks):
+#         emb = model.encode(c["chunk"]).tolist()
+
+#         vectors.append((i, emb))
+#         payloads.append({
+#             "text": c["chunk"],
+#             "brand": c["brand"]
+#         })
+
+#     client.recreate_collection(
+#         collection_name=COLLECTION_NAME,
+#         vectors_config={"size": 384, "distance": "Cosine"}
+#     )
+
+#     client.upload_collection(
+#         collection_name=COLLECTION_NAME,
+#         vectors=[v[1] for v in vectors],
+#         payload=payloads,
+#         ids=[v[0] for v in vectors]
+#     )
+
+# if __name__ == "__main__":
+#     run()

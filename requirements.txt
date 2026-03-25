@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+tqdm
+nltk
+chromadb
+sentence-transformers
+playwright
+python-dateutil

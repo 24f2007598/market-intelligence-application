@@ -436,26 +436,27 @@ if run_query:
                     json={"query": user_query}
                 )
                 if res.status_code == 200:
-                    response = res.json().get("answer", "No answer found in response.")
+                    st.session_state.rag_response = res.json().get("answer", "No answer found in response.")
                 else:
-                    response = f"Error from backend: {res.status_code}"
+                    st.session_state.rag_response = f"Error from backend: {res.status_code}"
             except Exception:
-                response = "Backend not connected. Make sure FastAPI server is running on port 8000."
+                st.session_state.rag_response = "Backend not connected. Make sure FastAPI server is running on port 8000."
 
-        st.markdown(
-            '<div class="sec-wrap" style="padding-top:2rem;padding-bottom:1rem;">'
-            '<div class="eyebrow">Generative AI Engine</div>'
-            '<div class="sec-title">Strategic Insight</div>'
-            '<div class="gold-line"></div>'
-            '</div>',
-            unsafe_allow_html=True
-        )
-        c_left, c_mid, c_right = st.columns([0.5, 9, 0.5])
-        with c_mid:
-            if "Backend not connected" in response:
-                st.error(response)
-            else:
-                st.markdown(response)
+if "rag_response" in st.session_state:
+    st.markdown(
+        '<div class="sec-wrap" style="padding-top:2rem;padding-bottom:1rem;">'
+        '<div class="eyebrow">Generative AI Engine</div>'
+        '<div class="sec-title">Strategic Insight</div>'
+        '<div class="gold-line"></div>'
+        '</div>',
+        unsafe_allow_html=True
+    )
+    c_left, c_mid, c_right = st.columns([0.5, 9, 0.5])
+    with c_mid:
+        if "Backend not connected" in st.session_state.rag_response:
+            st.error(st.session_state.rag_response)
+        else:
+            st.markdown(st.session_state.rag_response)
 
 # ─── WHITESPACE DETECTION SECTION ──────────────────────────────────────────────
 st.markdown('<div id="whitespace" style="scroll-margin-top:64px;"></div>', unsafe_allow_html=True)
@@ -488,22 +489,27 @@ if submit_ws and comp1 and comp2:
             payload = {"company1": comp1, "company2": comp2, "query": ws_query if ws_query else "General whitespace and feature gaps"}
             res = requests.post("http://localhost:8000/whitespace", json=payload)
             if res.status_code == 200:
-                ws_response = res.json().get("answer", "")
-                st.markdown(
-                    '<div class="sec-wrap" style="padding-top:2rem;padding-bottom:1rem;">'
-                    '<div class="eyebrow">Comparison Results</div>'
-                    '<div class="sec-title">Whitespace Recommendations</div>'
-                    '<div class="gold-line"></div>'
-                    '</div>',
-                    unsafe_allow_html=True
-                )
-                c_lw, c_mw, c_rw = st.columns([0.5, 9, 0.5])
-                with c_mw:
-                    st.markdown(f'<div style="padding:0 4vw;font-size:1.1rem;line-height:1.8;color:#ddd;">\n\n{ws_response}\n\n</div>', unsafe_allow_html=True)
+                st.session_state.ws_response = res.json().get("answer", "")
             else:
-                st.error(f"Error from backend: {res.status_code}")
+                st.session_state.ws_response = f"Error from backend: {res.status_code}"
         except Exception:
-            st.error("Backend not connected. Ensure FastAPI is running on port 8000.")
+            st.session_state.ws_response = "Backend not connected. Ensure FastAPI is running on port 8000."
+
+if "ws_response" in st.session_state:
+    st.markdown(
+        '<div class="sec-wrap" style="padding-top:2rem;padding-bottom:1rem;">'
+        '<div class="eyebrow">Comparison Results</div>'
+        '<div class="sec-title">Whitespace Recommendations</div>'
+        '<div class="gold-line"></div>'
+        '</div>',
+        unsafe_allow_html=True
+    )
+    c_lw, c_mw, c_rw = st.columns([0.5, 9, 0.5])
+    with c_mw:
+        if "Backend not connected" in st.session_state.ws_response or "Error from backend" in st.session_state.ws_response:
+            st.error(st.session_state.ws_response)
+        else:
+            st.markdown(f'<div style="padding:0 4vw;font-size:1.1rem;line-height:1.8;color:#ddd;">\n\n{st.session_state.ws_response}\n\n</div>', unsafe_allow_html=True)
 
 # ─── DATA SOURCES METRICS ────────────────────────────────────────────────────
 st.markdown('<div id="datasources" style="scroll-margin-top:64px;"></div>', unsafe_allow_html=True)

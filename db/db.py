@@ -52,6 +52,35 @@ def insert_review(source, company, review_text):
         conn.commit()
 
 
+def get_unlabeled_reviews(limit=500):
+    with engine.connect() as conn:
+        res = conn.execute(
+            text("""
+                SELECT id, review_text 
+                FROM reviews 
+                WHERE review_text IS NOT NULL AND sentiment_label IS NULL 
+                LIMIT :limit
+            """),
+            {"limit": limit}
+        ).fetchall()
+        return [{"id": r[0], "text": r[1]} for r in res]
+
+def update_review_sentiment(review_id, label, score):
+    from datetime import datetime
+    with engine.connect() as conn:
+        conn.execute(
+            text("""
+                UPDATE reviews 
+                SET sentiment_label = :label, 
+                    sentiment_score = :score, 
+                    sentiment_updated_at = :updated_at 
+                WHERE id = :id
+            """),
+            {"label": label, "score": score, "updated_at": datetime.now(), "id": review_id}
+        )
+        conn.commit()
+
+
 def insert_change(url, snapshot_date, old_text, new_text, change_type, confidence):
     with engine.connect() as conn:
         conn.execute(

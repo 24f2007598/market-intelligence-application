@@ -12,6 +12,9 @@ def run():
     print("Step 3: Cleaning...")
     os.system(f"PYTHONPATH=. {executable} scripts/clean.py")
 
+    print("Step 3.2: Sentiment Analysis...")
+    os.system(f"PYTHONPATH=. {executable} scripts/run_sentiment.py")
+
     print("Step 3.5: ML Change Classification...")
     os.system(f"PYTHONPATH=. {executable} scripts/run_ml.py")
 

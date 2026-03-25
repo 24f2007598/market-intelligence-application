@@ -1,0 +1,18 @@
+nohup: ignoring input
+Loading weights:   0%|          | 0/103 [00:00<?, ?it/s]Loading weights: 100%|██████████| 103/103 [00:00<00:00, 3493.84it/s]
+[1mBertModel LOAD REPORT[0m from: sentence-transformers/all-MiniLM-L6-v2
+Key                     | Status     |  | 
+------------------------+------------+--+-
+embeddings.position_ids | UNEXPECTED |  | 
+
+[3mNotes:
+- UNEXPECTED[3m	:can be ignored when loading from different task/architecture; not ok if you expect identical arch.[0m
+INFO:     Started server process [218107]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:52112 - "POST /rag HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38144 - "POST /whitespace HTTP/1.1" 200 OK
+INFO:     127.0.0.1:38150 - "POST /whitespace HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52062 - "POST /rag HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50616 - "POST /whitespace HTTP/1.1" 200 OK

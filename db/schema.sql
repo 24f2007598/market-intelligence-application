@@ -24,7 +24,10 @@ CREATE TABLE reviews (
     company TEXT,
     review_text TEXT,
     rating FLOAT,
-    date TIMESTAMP
+    date TIMESTAMP,
+    sentiment_label TEXT,
+    sentiment_score FLOAT,
+    sentiment_updated_at TIMESTAMP
 );
 
 CREATE TABLE changes (

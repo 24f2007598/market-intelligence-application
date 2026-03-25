@@ -2,6 +2,8 @@ from qdrant_client import QdrantClient
 from sentence_transformers import SentenceTransformer
 from google import genai
 import os
+from dotenv import load_dotenv
+load_dotenv(override=True)
 # from scripts.structured_extraction import extract_structured_data
 # from scripts.csv_writer import save_to_csv
 from utils.config import COLLECTION_NAME
@@ -74,12 +76,16 @@ Question:
 Give a clear, concise answer with insights.
 """
 
-    response = client_gemini.models.generate_content(
-        model="gemini-flash-latest",
-        contents=prompt
-    )
-
-    return response.text
+    try:
+        response = client_gemini.models.generate_content(
+            model="gemini-flash-latest",
+            contents=prompt
+        )
+        return response.text
+    except Exception as e:
+        if "429" in str(e) or "RESOURCE_EXHAUSTED" in str(e):
+            return "⏳ API Quota Exceeded (Free Tier). Please wait 60 seconds and try again."
+        return f"⚠️ Generate API Error: {str(e)}"
 
 
 def retrieve_company_context(company_name, k=10):
@@ -131,11 +137,16 @@ Instructions:
 4. Format your output clearly with markdown headers and bullet points.
 """
 
-    response = client_gemini.models.generate_content(
-        model="gemini-flash-latest",
-        contents=prompt
-    )
-    return response.text
+    try:
+        response = client_gemini.models.generate_content(
+            model="gemini-flash-latest",
+            contents=prompt
+        )
+        return response.text
+    except Exception as e:
+        if "429" in str(e) or "RESOURCE_EXHAUSTED" in str(e):
+            return "⏳ LLM API Quota Exceeded. The system is temporarily rate-limited. Please wait a minute."
+        return f"⚠️ LLM Inference Error: {str(e)}"
 
 # def run_rag(query, llm):
 #     rag_output = your_existing_rag_logic(query)

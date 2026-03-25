@@ -1,1 +1,602 @@
-[]
+[
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-01-01",
+    "cleaned_text": "SAMSUNG Special offer: cashback up to \u20b911977 with exchange benefits."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-01-02",
+    "cleaned_text": "OPPO Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-01-03",
+    "cleaned_text": "OPPO Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-01-04",
+    "cleaned_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-01-05",
+    "cleaned_text": "SAMSUNG Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-01-06",
+    "cleaned_text": "SAMSUNG Mid-range device available at \u20b9103854 offering great battery life and display."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-01-07",
+    "cleaned_text": "SAMSUNG Special offer: cashback up to \u20b912997 with exchange benefits."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-01-08",
+    "cleaned_text": "OPPO Mid-range device available at \u20b997388 offering great battery life and display."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-01-09",
+    "cleaned_text": "SAMSUNG Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-01-10",
+    "cleaned_text": "SAMSUNG Special offer: cashback up to \u20b910739 with exchange benefits."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-01-11",
+    "cleaned_text": "SAMSUNG Flagship smartphone priced at \u20b962737 with premium camera and performance features."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-01-12",
+    "cleaned_text": "SAMSUNG Special offer: cashback up to \u20b91127 with exchange benefits."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-01-13",
+    "cleaned_text": "OPPO Mid-range device available at \u20b935333 offering great battery life and display."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-01-14",
+    "cleaned_text": "OPPO AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-01-15",
+    "cleaned_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-01-16",
+    "cleaned_text": "OPPO AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-01-17",
+    "cleaned_text": "SAMSUNG Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-01-18",
+    "cleaned_text": "OPPO Flagship smartphone priced at \u20b948140 with premium camera and performance features."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-01-19",
+    "cleaned_text": "SAMSUNG Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-01-20",
+    "cleaned_text": "OPPO Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-01-21",
+    "cleaned_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-01-22",
+    "cleaned_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-01-23",
+    "cleaned_text": "OPPO Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-01-24",
+    "cleaned_text": "OPPO Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-01-25",
+    "cleaned_text": "OPPO Special offer: cashback up to \u20b95350 with exchange benefits."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-01-26",
+    "cleaned_text": "SAMSUNG Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-01-27",
+    "cleaned_text": "OPPO Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-01-28",
+    "cleaned_text": "OPPO AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-01-29",
+    "cleaned_text": "OPPO Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-01-30",
+    "cleaned_text": "OPPO Mid-range device available at \u20b967330 offering great battery life and display."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-01-31",
+    "cleaned_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-02-01",
+    "cleaned_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-02-02",
+    "cleaned_text": "SAMSUNG Flagship smartphone priced at \u20b9113993 with premium camera and performance features."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-02-03",
+    "cleaned_text": "SAMSUNG Mid-range device available at \u20b968612 offering great battery life and display."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-02-04",
+    "cleaned_text": "OPPO Special offer: cashback up to \u20b911914 with exchange benefits."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-02-05",
+    "cleaned_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-02-06",
+    "cleaned_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-02-07",
+    "cleaned_text": "OPPO Special offer: cashback up to \u20b92172 with exchange benefits."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-02-08",
+    "cleaned_text": "OPPO Mid-range device available at \u20b9109391 offering great battery life and display."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-02-09",
+    "cleaned_text": "SAMSUNG Special offer: cashback up to \u20b911177 with exchange benefits."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-02-10",
+    "cleaned_text": "OPPO Mid-range device available at \u20b9102930 offering great battery life and display."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-02-11",
+    "cleaned_text": "OPPO Flagship smartphone priced at \u20b977669 with premium camera and performance features."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-02-12",
+    "cleaned_text": "SAMSUNG Mid-range device available at \u20b951752 offering great battery life and display."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-02-13",
+    "cleaned_text": "SAMSUNG Special offer: cashback up to \u20b913079 with exchange benefits."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-02-14",
+    "cleaned_text": "OPPO Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-02-15",
+    "cleaned_text": "SAMSUNG Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-02-16",
+    "cleaned_text": "OPPO Mid-range device available at \u20b982318 offering great battery life and display."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-02-17",
+    "cleaned_text": "OPPO Special offer: cashback up to \u20b92105 with exchange benefits."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-02-18",
+    "cleaned_text": "OPPO AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-02-19",
+    "cleaned_text": "SAMSUNG Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-02-20",
+    "cleaned_text": "SAMSUNG Special offer: cashback up to \u20b95710 with exchange benefits."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-02-21",
+    "cleaned_text": "SAMSUNG Special offer: cashback up to \u20b99626 with exchange benefits."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-02-22",
+    "cleaned_text": "OPPO Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-02-23",
+    "cleaned_text": "SAMSUNG Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-02-24",
+    "cleaned_text": "OPPO Mid-range device available at \u20b943236 offering great battery life and display."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-02-25",
+    "cleaned_text": "SAMSUNG Special offer: cashback up to \u20b97347 with exchange benefits."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-02-26",
+    "cleaned_text": "OPPO Mid-range device available at \u20b974773 offering great battery life and display."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-02-27",
+    "cleaned_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-02-28",
+    "cleaned_text": "OPPO Special offer: cashback up to \u20b97437 with exchange benefits."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-02-29",
+    "cleaned_text": "SAMSUNG Flagship smartphone priced at \u20b990154 with premium camera and performance features."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-03-01",
+    "cleaned_text": "OPPO Special offer: cashback up to \u20b93413 with exchange benefits."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-03-02",
+    "cleaned_text": "SAMSUNG Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-03-03",
+    "cleaned_text": "OPPO Mid-range device available at \u20b976391 offering great battery life and display."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-03-04",
+    "cleaned_text": "OPPO Mid-range device available at \u20b9115142 offering great battery life and display."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-03-05",
+    "cleaned_text": "SAMSUNG Special offer: cashback up to \u20b94690 with exchange benefits."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-03-06",
+    "cleaned_text": "SAMSUNG Special offer: cashback up to \u20b95655 with exchange benefits."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-03-07",
+    "cleaned_text": "SAMSUNG Mid-range device available at \u20b9110831 offering great battery life and display."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-03-08",
+    "cleaned_text": "OPPO Mid-range device available at \u20b9118736 offering great battery life and display."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-03-09",
+    "cleaned_text": "OPPO AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-03-10",
+    "cleaned_text": "SAMSUNG Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-03-11",
+    "cleaned_text": "OPPO Special offer: cashback up to \u20b94071 with exchange benefits."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-03-12",
+    "cleaned_text": "SAMSUNG Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-03-13",
+    "cleaned_text": "OPPO Flagship smartphone priced at \u20b9108889 with premium camera and performance features."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-03-14",
+    "cleaned_text": "SAMSUNG Flagship smartphone priced at \u20b983375 with premium camera and performance features."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-03-15",
+    "cleaned_text": "SAMSUNG Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-03-16",
+    "cleaned_text": "OPPO Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-03-17",
+    "cleaned_text": "SAMSUNG Mid-range device available at \u20b973288 offering great battery life and display."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-03-18",
+    "cleaned_text": "OPPO Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-03-19",
+    "cleaned_text": "OPPO AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-03-20",
+    "cleaned_text": "OPPO AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-03-21",
+    "cleaned_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-03-22",
+    "cleaned_text": "SAMSUNG Flagship smartphone priced at \u20b963473 with premium camera and performance features."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-03-23",
+    "cleaned_text": "OPPO Flagship smartphone priced at \u20b957381 with premium camera and performance features."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-03-24",
+    "cleaned_text": "OPPO Mid-range device available at \u20b990025 offering great battery life and display."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-03-25",
+    "cleaned_text": "SAMSUNG Flagship smartphone priced at \u20b920987 with premium camera and performance features."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-03-26",
+    "cleaned_text": "SAMSUNG Flagship smartphone priced at \u20b990816 with premium camera and performance features."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-03-27",
+    "cleaned_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-03-28",
+    "cleaned_text": "SAMSUNG Flagship smartphone priced at \u20b919072 with premium camera and performance features."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-03-29",
+    "cleaned_text": "OPPO Flagship smartphone priced at \u20b972873 with premium camera and performance features."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-03-30",
+    "cleaned_text": "OPPO Special offer: cashback up to \u20b92860 with exchange benefits."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-03-31",
+    "cleaned_text": "SAMSUNG Mid-range device available at \u20b9100597 offering great battery life and display."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-04-01",
+    "cleaned_text": "SAMSUNG Special offer: cashback up to \u20b99027 with exchange benefits."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-04-02",
+    "cleaned_text": "OPPO Mid-range device available at \u20b922606 offering great battery life and display."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-04-03",
+    "cleaned_text": "OPPO AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-04-04",
+    "cleaned_text": "OPPO Special offer: cashback up to \u20b910827 with exchange benefits."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-04-05",
+    "cleaned_text": "SAMSUNG Mid-range device available at \u20b988682 offering great battery life and display."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-04-06",
+    "cleaned_text": "SAMSUNG Flagship smartphone priced at \u20b924253 with premium camera and performance features."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-04-07",
+    "cleaned_text": "OPPO Special offer: cashback up to \u20b97625 with exchange benefits."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-04-08",
+    "cleaned_text": "SAMSUNG Flagship smartphone priced at \u20b940732 with premium camera and performance features."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-04-09",
+    "cleaned_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive."
+  }
+]

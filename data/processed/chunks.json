@@ -1,402 +1,702 @@
 [
   {
-    "brand": "oppo",
-    "chunk": "Oppo festive sale includes discount of \u20b92696 and bundled accessories. Strong competition in pricing segment."
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-01-01",
+    "change_type": "no_change",
+    "chunk": "SAMSUNG Special offer: cashback up to \u20b911977 with exchange benefits."
   },
   {
     "brand": "oppo",
-    "chunk": "Oppo offers fast charging technology and stylish design. Competitive pricing at \u20b9106063 attracts mid-range buyers."
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-01-02",
+    "change_type": "no_change",
+    "chunk": "OPPO Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-01-03",
+    "change_type": "no_change",
+    "chunk": "OPPO Strong focus on design, performance, and user experience."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung smartphones emphasize battery optimization and smooth performance at \u20b970611."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo offers fast charging technology and stylish design. Competitive pricing at \u20b998649 attracts mid-range buyers."
-  },
-  {
-    "brand": "samsung",
-    "chunk": "Samsung focuses on camera innovation and performance. Device priced at \u20b915370 with premium features and modern UI."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo offers fast charging technology and stylish design. Competitive pricing at \u20b9113189 attracts mid-range buyers."
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-01-04",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG AI-powered camera and fast charging make this device highly competitive."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung mid-range device at \u20b968003 featuring long battery life, fast charging, and sleek design. Popular among young users."
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-01-05",
+    "change_type": "no_change",
+    "chunk": "SAMSUNG Strong focus on design, performance, and user experience."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung flagship smartphone priced at \u20b965686 with premium camera, AMOLED display, and Snapdragon processor. Offers include cashback up to \u20b95728 and exchange bonuses."
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-01-06",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Mid-range device available at \u20b9103854 offering great battery life and display."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung premium lineup includes flagship devices with cutting-edge hardware priced at \u20b989530."
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-01-07",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Special offer: cashback up to \u20b912997 with exchange benefits."
   },
   {
     "brand": "oppo",
-    "chunk": "Oppo festive sale includes discount of \u20b910991 and bundled accessories. Strong competition in pricing segment."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo offers fast charging technology and stylish design. Competitive pricing at \u20b928299 attracts mid-range buyers."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo marketing highlights camera quality and design aesthetics. Pricing around \u20b999194 with seasonal offers."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo marketing highlights camera quality and design aesthetics. Pricing around \u20b926125 with seasonal offers."
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-01-08",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Mid-range device available at \u20b997388 offering great battery life and display."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung flagship smartphone priced at \u20b970655 with premium camera, AMOLED display, and Snapdragon processor. Offers include cashback up to \u20b94356 and exchange bonuses."
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-01-09",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Strong focus on design, performance, and user experience."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung premium lineup includes flagship devices with cutting-edge hardware priced at \u20b9104685."
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-01-10",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Special offer: cashback up to \u20b910739 with exchange benefits."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung mid-range device at \u20b920805 featuring long battery life, fast charging, and sleek design. Popular among young users."
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-01-11",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Flagship smartphone priced at \u20b962737 with premium camera and performance features."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung mid-range device at \u20b942048 featuring long battery life, fast charging, and sleek design. Popular among young users."
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-01-12",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Special offer: cashback up to \u20b91127 with exchange benefits."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-01-13",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Mid-range device available at \u20b935333 offering great battery life and display."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-01-14",
+    "change_type": "pricing_change",
+    "chunk": "OPPO AI-powered camera and fast charging make this device highly competitive."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung festive sale includes discount of \u20b98393 and bundled accessories. Strong competition in pricing segment."
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-01-15",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-01-16",
+    "change_type": "pricing_change",
+    "chunk": "OPPO AI-powered camera and fast charging make this device highly competitive."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung premium lineup includes flagship devices with cutting-edge hardware priced at \u20b974635."
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-01-17",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-01-18",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Flagship smartphone priced at \u20b948140 with premium camera and performance features."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung offers fast charging technology and stylish design. Competitive pricing at \u20b962621 attracts mid-range buyers."
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-01-19",
+    "change_type": "no_change",
+    "chunk": "SAMSUNG Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-01-20",
+    "change_type": "feature_change",
+    "chunk": "OPPO Strong focus on design, performance, and user experience."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung focuses on camera innovation and performance. Device priced at \u20b9106550 with premium features and modern UI."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo focuses on camera innovation and performance. Device priced at \u20b943436 with premium features and modern UI."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo flagship smartphone priced at \u20b979314 with premium camera, AMOLED display, and Snapdragon processor. Offers include cashback up to \u20b914289 and exchange bonuses."
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-01-21",
+    "change_type": "feature_change",
+    "chunk": "SAMSUNG AI-powered camera and fast charging make this device highly competitive."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung smartphones emphasize battery optimization and smooth performance at \u20b9101217."
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-01-22",
+    "change_type": "no_change",
+    "chunk": "SAMSUNG AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-01-23",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-01-24",
+    "change_type": "no_change",
+    "chunk": "OPPO Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-01-25",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Special offer: cashback up to \u20b95350 with exchange benefits."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung product strategy targets both premium and budget segments with prices ranging near \u20b974274."
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-01-26",
+    "change_type": "feature_change",
+    "chunk": "SAMSUNG Strong focus on design, performance, and user experience."
   },
   {
     "brand": "oppo",
-    "chunk": "Oppo premium lineup includes flagship devices with cutting-edge hardware priced at \u20b995534."
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-01-27",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-01-28",
+    "change_type": "feature_change",
+    "chunk": "OPPO AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-01-29",
+    "change_type": "feature_change",
+    "chunk": "OPPO Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-01-30",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Mid-range device available at \u20b967330 offering great battery life and display."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung smartphones emphasize battery optimization and smooth performance at \u20b944382."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo mid-range device at \u20b973343 featuring long battery life, fast charging, and sleek design. Popular among young users."
-  },
-  {
-    "brand": "samsung",
-    "chunk": "Samsung offers fast charging technology and stylish design. Competitive pricing at \u20b9102080 attracts mid-range buyers."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo introduces AI-powered photography and improved night mode. Pricing starts at \u20b986042 with EMI options available."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo festive sale includes discount of \u20b96184 and bundled accessories. Strong competition in pricing segment."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo marketing highlights camera quality and design aesthetics. Pricing around \u20b918642 with seasonal offers."
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-01-31",
+    "change_type": "no_change",
+    "chunk": "SAMSUNG AI-powered camera and fast charging make this device highly competitive."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung introduces AI-powered photography and improved night mode. Pricing starts at \u20b995865 with EMI options available."
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-02-01",
+    "change_type": "no_change",
+    "chunk": "SAMSUNG AI-powered camera and fast charging make this device highly competitive."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung product strategy targets both premium and budget segments with prices ranging near \u20b947742."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo flagship smartphone priced at \u20b948955 with premium camera, AMOLED display, and Snapdragon processor. Offers include cashback up to \u20b98514 and exchange bonuses."
-  },
-  {
-    "brand": "samsung",
-    "chunk": "Samsung mid-range device at \u20b949820 featuring long battery life, fast charging, and sleek design. Popular among young users."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo focuses on camera innovation and performance. Device priced at \u20b966407 with premium features and modern UI."
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-02-02",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Flagship smartphone priced at \u20b9113993 with premium camera and performance features."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung product strategy targets both premium and budget segments with prices ranging near \u20b945073."
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-02-03",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Mid-range device available at \u20b968612 offering great battery life and display."
   },
   {
     "brand": "oppo",
-    "chunk": "Oppo offers fast charging technology and stylish design. Competitive pricing at \u20b933605 attracts mid-range buyers."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo mid-range device at \u20b928460 featuring long battery life, fast charging, and sleek design. Popular among young users."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo flagship smartphone priced at \u20b924977 with premium camera, AMOLED display, and Snapdragon processor. Offers include cashback up to \u20b93270 and exchange bonuses."
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-02-04",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Special offer: cashback up to \u20b911914 with exchange benefits."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung offers fast charging technology and stylish design. Competitive pricing at \u20b962213 attracts mid-range buyers."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo offers fast charging technology and stylish design. Competitive pricing at \u20b9116281 attracts mid-range buyers."
-  },
-  {
-    "brand": "samsung",
-    "chunk": "Samsung mid-range device at \u20b967806 featuring long battery life, fast charging, and sleek design. Popular among young users."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo flagship smartphone priced at \u20b980391 with premium camera, AMOLED display, and Snapdragon processor. Offers include cashback up to \u20b95993 and exchange bonuses."
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-02-05",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG AI-powered camera and fast charging make this device highly competitive."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung festive sale includes discount of \u20b913649 and bundled accessories. Strong competition in pricing segment."
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-02-06",
+    "change_type": "feature_change",
+    "chunk": "SAMSUNG AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-02-07",
+    "change_type": "no_change",
+    "chunk": "OPPO Special offer: cashback up to \u20b92172 with exchange benefits."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-02-08",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Mid-range device available at \u20b9109391 offering great battery life and display."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung premium lineup includes flagship devices with cutting-edge hardware priced at \u20b993664."
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-02-09",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Special offer: cashback up to \u20b911177 with exchange benefits."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-02-10",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Mid-range device available at \u20b9102930 offering great battery life and display."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-02-11",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Flagship smartphone priced at \u20b977669 with premium camera and performance features."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung flagship smartphone priced at \u20b919157 with premium camera, AMOLED display, and Snapdragon processor. Offers include cashback up to \u20b913017 and exchange bonuses."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo mid-range device at \u20b918423 featuring long battery life, fast charging, and sleek design. Popular among young users."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo smartphones emphasize battery optimization and smooth performance at \u20b980540."
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-02-12",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Mid-range device available at \u20b951752 offering great battery life and display."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung premium lineup includes flagship devices with cutting-edge hardware priced at \u20b961521."
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-02-13",
+    "change_type": "no_change",
+    "chunk": "SAMSUNG Special offer: cashback up to \u20b913079 with exchange benefits."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-02-14",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Strong focus on design, performance, and user experience."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung offers fast charging technology and stylish design. Competitive pricing at \u20b959136 attracts mid-range buyers."
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-02-15",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Strong focus on design, performance, and user experience."
   },
   {
     "brand": "oppo",
-    "chunk": "Oppo introduces AI-powered photography and improved night mode. Pricing starts at \u20b966613 with EMI options available."
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-02-16",
+    "change_type": "no_change",
+    "chunk": "OPPO Mid-range device available at \u20b982318 offering great battery life and display."
   },
   {
     "brand": "oppo",
-    "chunk": "Oppo flagship smartphone priced at \u20b9117690 with premium camera, AMOLED display, and Snapdragon processor. Offers include cashback up to \u20b95402 and exchange bonuses."
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-02-17",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Special offer: cashback up to \u20b92105 with exchange benefits."
   },
   {
     "brand": "oppo",
-    "chunk": "Oppo introduces AI-powered photography and improved night mode. Pricing starts at \u20b931042 with EMI options available."
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-02-18",
+    "change_type": "feature_change",
+    "chunk": "OPPO AI-powered camera and fast charging make this device highly competitive."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung focuses on camera innovation and performance. Device priced at \u20b980761 with premium features and modern UI."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo offers fast charging technology and stylish design. Competitive pricing at \u20b915830 attracts mid-range buyers."
-  },
-  {
-    "brand": "samsung",
-    "chunk": "Samsung focuses on camera innovation and performance. Device priced at \u20b9110518 with premium features and modern UI."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo marketing highlights camera quality and design aesthetics. Pricing around \u20b980161 with seasonal offers."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo marketing highlights camera quality and design aesthetics. Pricing around \u20b927255 with seasonal offers."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo offers fast charging technology and stylish design. Competitive pricing at \u20b950595 attracts mid-range buyers."
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-02-19",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Strong focus on design, performance, and user experience."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung mid-range device at \u20b958479 featuring long battery life, fast charging, and sleek design. Popular among young users."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo marketing highlights camera quality and design aesthetics. Pricing around \u20b995437 with seasonal offers."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo premium lineup includes flagship devices with cutting-edge hardware priced at \u20b977676."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo offers fast charging technology and stylish design. Competitive pricing at \u20b997905 attracts mid-range buyers."
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-02-20",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Special offer: cashback up to \u20b95710 with exchange benefits."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung smartphones emphasize battery optimization and smooth performance at \u20b994762."
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-02-21",
+    "change_type": "no_change",
+    "chunk": "SAMSUNG Special offer: cashback up to \u20b99626 with exchange benefits."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-02-22",
+    "change_type": "feature_change",
+    "chunk": "OPPO Strong focus on design, performance, and user experience."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung marketing highlights camera quality and design aesthetics. Pricing around \u20b973486 with seasonal offers."
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-02-23",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Strong focus on design, performance, and user experience."
   },
   {
     "brand": "oppo",
-    "chunk": "Oppo introduces AI-powered photography and improved night mode. Pricing starts at \u20b996046 with EMI options available."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo flagship smartphone priced at \u20b995143 with premium camera, AMOLED display, and Snapdragon processor. Offers include cashback up to \u20b913753 and exchange bonuses."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo offers fast charging technology and stylish design. Competitive pricing at \u20b953992 attracts mid-range buyers."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo marketing highlights camera quality and design aesthetics. Pricing around \u20b955789 with seasonal offers."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo flagship smartphone priced at \u20b918643 with premium camera, AMOLED display, and Snapdragon processor. Offers include cashback up to \u20b98905 and exchange bonuses."
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-02-24",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Mid-range device available at \u20b943236 offering great battery life and display."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung introduces AI-powered photography and improved night mode. Pricing starts at \u20b963689 with EMI options available."
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-02-25",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Special offer: cashback up to \u20b97347 with exchange benefits."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-02-26",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Mid-range device available at \u20b974773 offering great battery life and display."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung festive sale includes discount of \u20b913495 and bundled accessories. Strong competition in pricing segment."
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-02-27",
+    "change_type": "feature_change",
+    "chunk": "SAMSUNG AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-02-28",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Special offer: cashback up to \u20b97437 with exchange benefits."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung smartphones emphasize battery optimization and smooth performance at \u20b9108367."
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-02-29",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Flagship smartphone priced at \u20b990154 with premium camera and performance features."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-03-01",
+    "change_type": "no_change",
+    "chunk": "OPPO Special offer: cashback up to \u20b93413 with exchange benefits."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung marketing highlights camera quality and design aesthetics. Pricing around \u20b968591 with seasonal offers."
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-03-02",
+    "change_type": "feature_change",
+    "chunk": "SAMSUNG Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-03-03",
+    "change_type": "no_change",
+    "chunk": "OPPO Mid-range device available at \u20b976391 offering great battery life and display."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-03-04",
+    "change_type": "no_change",
+    "chunk": "OPPO Mid-range device available at \u20b9115142 offering great battery life and display."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung smartphones emphasize battery optimization and smooth performance at \u20b924356."
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-03-05",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Special offer: cashback up to \u20b94690 with exchange benefits."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung focuses on camera innovation and performance. Device priced at \u20b991002 with premium features and modern UI."
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-03-06",
+    "change_type": "no_change",
+    "chunk": "SAMSUNG Special offer: cashback up to \u20b95655 with exchange benefits."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung marketing highlights camera quality and design aesthetics. Pricing around \u20b922994 with seasonal offers."
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-03-07",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Mid-range device available at \u20b9110831 offering great battery life and display."
   },
   {
     "brand": "oppo",
-    "chunk": "Oppo smartphones emphasize battery optimization and smooth performance at \u20b9104628."
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-03-08",
+    "change_type": "no_change",
+    "chunk": "OPPO Mid-range device available at \u20b9118736 offering great battery life and display."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-03-09",
+    "change_type": "pricing_change",
+    "chunk": "OPPO AI-powered camera and fast charging make this device highly competitive."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung product strategy targets both premium and budget segments with prices ranging near \u20b983213."
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-03-10",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Strong focus on design, performance, and user experience."
   },
   {
     "brand": "oppo",
-    "chunk": "Oppo premium lineup includes flagship devices with cutting-edge hardware priced at \u20b925684."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo introduces AI-powered photography and improved night mode. Pricing starts at \u20b952588 with EMI options available."
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-03-11",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Special offer: cashback up to \u20b94071 with exchange benefits."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung mid-range device at \u20b979793 featuring long battery life, fast charging, and sleek design. Popular among young users."
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-03-12",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Strong focus on design, performance, and user experience."
   },
   {
     "brand": "oppo",
-    "chunk": "Oppo festive sale includes discount of \u20b93464 and bundled accessories. Strong competition in pricing segment."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo offers fast charging technology and stylish design. Competitive pricing at \u20b995009 attracts mid-range buyers."
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-03-13",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Flagship smartphone priced at \u20b9108889 with premium camera and performance features."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung premium lineup includes flagship devices with cutting-edge hardware priced at \u20b924768."
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-03-14",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Flagship smartphone priced at \u20b983375 with premium camera and performance features."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung offers fast charging technology and stylish design. Competitive pricing at \u20b940161 attracts mid-range buyers."
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-03-15",
+    "change_type": "no_change",
+    "chunk": "SAMSUNG Strong focus on design, performance, and user experience."
   },
   {
     "brand": "oppo",
-    "chunk": "Oppo premium lineup includes flagship devices with cutting-edge hardware priced at \u20b9104829."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo flagship smartphone priced at \u20b9112663 with premium camera, AMOLED display, and Snapdragon processor. Offers include cashback up to \u20b912915 and exchange bonuses."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo offers fast charging technology and stylish design. Competitive pricing at \u20b992902 attracts mid-range buyers."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo introduces AI-powered photography and improved night mode. Pricing starts at \u20b9105757 with EMI options available."
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-03-16",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Strong focus on design, performance, and user experience."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung introduces AI-powered photography and improved night mode. Pricing starts at \u20b919609 with EMI options available."
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-03-17",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Mid-range device available at \u20b973288 offering great battery life and display."
   },
   {
     "brand": "oppo",
-    "chunk": "Oppo product strategy targets both premium and budget segments with prices ranging near \u20b9111080."
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-03-18",
+    "change_type": "no_change",
+    "chunk": "OPPO Strong focus on design, performance, and user experience."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-03-19",
+    "change_type": "feature_change",
+    "chunk": "OPPO AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-03-20",
+    "change_type": "no_change",
+    "chunk": "OPPO AI-powered camera and fast charging make this device highly competitive."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung smartphones emphasize battery optimization and smooth performance at \u20b946234."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo product strategy targets both premium and budget segments with prices ranging near \u20b9111583."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo festive sale includes discount of \u20b914028 and bundled accessories. Strong competition in pricing segment."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo product strategy targets both premium and budget segments with prices ranging near \u20b9112598."
-  },
-  {
-    "brand": "oppo",
-    "chunk": "Oppo premium lineup includes flagship devices with cutting-edge hardware priced at \u20b9106948."
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-03-21",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG AI-powered camera and fast charging make this device highly competitive."
   },
   {
     "brand": "samsung",
-    "chunk": "Samsung introduces AI-powered photography and improved night mode. Pricing starts at \u20b926265 with EMI options available."
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-03-22",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Flagship smartphone priced at \u20b963473 with premium camera and performance features."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-03-23",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Flagship smartphone priced at \u20b957381 with premium camera and performance features."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-03-24",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Mid-range device available at \u20b990025 offering great battery life and display."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-03-25",
+    "change_type": "no_change",
+    "chunk": "SAMSUNG Flagship smartphone priced at \u20b920987 with premium camera and performance features."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-03-26",
+    "change_type": "no_change",
+    "chunk": "SAMSUNG Flagship smartphone priced at \u20b990816 with premium camera and performance features."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-03-27",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-03-28",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Flagship smartphone priced at \u20b919072 with premium camera and performance features."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-03-29",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Flagship smartphone priced at \u20b972873 with premium camera and performance features."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-03-30",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Special offer: cashback up to \u20b92860 with exchange benefits."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-03-31",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Mid-range device available at \u20b9100597 offering great battery life and display."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-04-01",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Special offer: cashback up to \u20b99027 with exchange benefits."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-04-02",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Mid-range device available at \u20b922606 offering great battery life and display."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-04-03",
+    "change_type": "pricing_change",
+    "chunk": "OPPO AI-powered camera and fast charging make this device highly competitive."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/smartphones/",
+    "snapshot": "2024-04-04",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Special offer: cashback up to \u20b910827 with exchange benefits."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-04-05",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Mid-range device available at \u20b988682 offering great battery life and display."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-04-06",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Flagship smartphone priced at \u20b924253 with premium camera and performance features."
+  },
+  {
+    "brand": "oppo",
+    "url": "https://www.oppo.com/in/offers/",
+    "snapshot": "2024-04-07",
+    "change_type": "pricing_change",
+    "chunk": "OPPO Special offer: cashback up to \u20b97625 with exchange benefits."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/offer/",
+    "snapshot": "2024-04-08",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG Flagship smartphone priced at \u20b940732 with premium camera and performance features."
+  },
+  {
+    "brand": "samsung",
+    "url": "https://www.samsung.com/in/smartphones/",
+    "snapshot": "2024-04-09",
+    "change_type": "pricing_change",
+    "chunk": "SAMSUNG AI-powered camera and fast charging make this device highly competitive."
   }
 ]

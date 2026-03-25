@@ -52,6 +52,18 @@ def insert_review(source, company, review_text):
         conn.commit()
 
 
+def insert_change(url, snapshot_date, old_text, new_text, change_type, confidence):
+    with engine.connect() as conn:
+        conn.execute(
+            text("""
+                INSERT INTO changes (url, snapshot_date, old_text, new_text, change_type, change_confidence)
+                VALUES (:url, :snap, :old, :new, :type, :conf)
+            """),
+            {"url": url, "snap": snapshot_date, "old": old_text, "new": new_text, "type": change_type, "conf": confidence}
+        )
+        conn.commit()
+
+
 # from sqlalchemy import create_engine, text
 # from utils.config import POSTGRES_URI
 

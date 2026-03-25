@@ -21,7 +21,9 @@ def run():
         vectors.append(emb)
         payloads.append({
             "text": c["chunk"],
-            "brand": c["brand"]
+            "brand": c["brand"],
+            "url": c.get("url", ""),
+            "change_type": c.get("change_type", "no_change")
         })
         ids.append(i)
 

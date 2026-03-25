@@ -1,0 +1,1922 @@
+[
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-01-01",
+    "timestamp_new": "2024-01-04",
+    "old_text": "SAMSUNG Special offer: cashback up to \u20b911977 with exchange benefits.",
+    "new_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive.",
+    "similarity": 0.30520710349082947,
+    "length_difference": 12,
+    "keyword_diffs": {
+      "\u20b9": -1,
+      "price": 0,
+      "discount": 0,
+      "offer": -1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-01-04",
+    "timestamp_new": "2024-01-06",
+    "old_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive.",
+    "new_text": "SAMSUNG Mid-range device available at \u20b9103854 offering great battery life and display.",
+    "similarity": 0.48893114924430847,
+    "length_difference": 6,
+    "keyword_diffs": {
+      "\u20b9": 1,
+      "price": 0,
+      "discount": 0,
+      "offer": 1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 1,
+      "camera": -1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-01-06",
+    "timestamp_new": "2024-01-17",
+    "old_text": "SAMSUNG Mid-range device available at \u20b9103854 offering great battery life and display.",
+    "new_text": "SAMSUNG Strong focus on design, performance, and user experience.",
+    "similarity": 0.5387272238731384,
+    "length_difference": -21,
+    "keyword_diffs": {
+      "\u20b9": -1,
+      "price": 0,
+      "discount": 0,
+      "offer": -1,
+      "feature": 0,
+      "premium": 0,
+      "battery": -1,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-01-17",
+    "timestamp_new": "2024-01-19",
+    "old_text": "SAMSUNG Strong focus on design, performance, and user experience.",
+    "new_text": "SAMSUNG Strong focus on design, performance, and user experience.",
+    "similarity": 1.0000001192092896,
+    "length_difference": 0,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": false
+  },
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-01-19",
+    "timestamp_new": "2024-01-21",
+    "old_text": "SAMSUNG Strong focus on design, performance, and user experience.",
+    "new_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive.",
+    "similarity": 0.5521159768104553,
+    "length_difference": 15,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 1
+    },
+    "numbers_changed": false
+  },
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-01-21",
+    "timestamp_new": "2024-01-31",
+    "old_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive.",
+    "new_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive.",
+    "similarity": 1.0000001192092896,
+    "length_difference": 0,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": false
+  },
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-01-31",
+    "timestamp_new": "2024-02-01",
+    "old_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive.",
+    "new_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive.",
+    "similarity": 1.0000001192092896,
+    "length_difference": 0,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": false
+  },
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-02-01",
+    "timestamp_new": "2024-02-02",
+    "old_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive.",
+    "new_text": "SAMSUNG Flagship smartphone priced at \u20b9113993 with premium camera and performance features.",
+    "similarity": 0.48437198996543884,
+    "length_difference": 11,
+    "keyword_diffs": {
+      "\u20b9": 1,
+      "price": 1,
+      "discount": 0,
+      "offer": 0,
+      "feature": 1,
+      "premium": 1,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-02-02",
+    "timestamp_new": "2024-02-03",
+    "old_text": "SAMSUNG Flagship smartphone priced at \u20b9113993 with premium camera and performance features.",
+    "new_text": "SAMSUNG Mid-range device available at \u20b968612 offering great battery life and display.",
+    "similarity": 0.6389601826667786,
+    "length_difference": -6,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": -1,
+      "discount": 0,
+      "offer": 1,
+      "feature": -1,
+      "premium": -1,
+      "battery": 1,
+      "camera": -1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-02-03",
+    "timestamp_new": "2024-02-05",
+    "old_text": "SAMSUNG Mid-range device available at \u20b968612 offering great battery life and display.",
+    "new_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive.",
+    "similarity": 0.47401827573776245,
+    "length_difference": -5,
+    "keyword_diffs": {
+      "\u20b9": -1,
+      "price": 0,
+      "discount": 0,
+      "offer": -1,
+      "feature": 0,
+      "premium": 0,
+      "battery": -1,
+      "camera": 1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-02-05",
+    "timestamp_new": "2024-02-09",
+    "old_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive.",
+    "new_text": "SAMSUNG Special offer: cashback up to \u20b911177 with exchange benefits.",
+    "similarity": 0.29812562465667725,
+    "length_difference": -12,
+    "keyword_diffs": {
+      "\u20b9": 1,
+      "price": 0,
+      "discount": 0,
+      "offer": 1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": -1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-02-09",
+    "timestamp_new": "2024-02-13",
+    "old_text": "SAMSUNG Special offer: cashback up to \u20b911177 with exchange benefits.",
+    "new_text": "SAMSUNG Special offer: cashback up to \u20b913079 with exchange benefits.",
+    "similarity": 0.9661036133766174,
+    "length_difference": 0,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-02-13",
+    "timestamp_new": "2024-02-15",
+    "old_text": "SAMSUNG Special offer: cashback up to \u20b913079 with exchange benefits.",
+    "new_text": "SAMSUNG Strong focus on design, performance, and user experience.",
+    "similarity": 0.43987464904785156,
+    "length_difference": -3,
+    "keyword_diffs": {
+      "\u20b9": -1,
+      "price": 0,
+      "discount": 0,
+      "offer": -1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-02-15",
+    "timestamp_new": "2024-02-20",
+    "old_text": "SAMSUNG Strong focus on design, performance, and user experience.",
+    "new_text": "SAMSUNG Special offer: cashback up to \u20b95710 with exchange benefits.",
+    "similarity": 0.4584454298019409,
+    "length_difference": 2,
+    "keyword_diffs": {
+      "\u20b9": 1,
+      "price": 0,
+      "discount": 0,
+      "offer": 1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-02-20",
+    "timestamp_new": "2024-02-21",
+    "old_text": "SAMSUNG Special offer: cashback up to \u20b95710 with exchange benefits.",
+    "new_text": "SAMSUNG Special offer: cashback up to \u20b99626 with exchange benefits.",
+    "similarity": 0.9377202391624451,
+    "length_difference": 0,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-02-21",
+    "timestamp_new": "2024-02-23",
+    "old_text": "SAMSUNG Special offer: cashback up to \u20b99626 with exchange benefits.",
+    "new_text": "SAMSUNG Strong focus on design, performance, and user experience.",
+    "similarity": 0.44507014751434326,
+    "length_difference": -2,
+    "keyword_diffs": {
+      "\u20b9": -1,
+      "price": 0,
+      "discount": 0,
+      "offer": -1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-02-23",
+    "timestamp_new": "2024-02-25",
+    "old_text": "SAMSUNG Strong focus on design, performance, and user experience.",
+    "new_text": "SAMSUNG Special offer: cashback up to \u20b97347 with exchange benefits.",
+    "similarity": 0.457367479801178,
+    "length_difference": 2,
+    "keyword_diffs": {
+      "\u20b9": 1,
+      "price": 0,
+      "discount": 0,
+      "offer": 1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-02-25",
+    "timestamp_new": "2024-02-29",
+    "old_text": "SAMSUNG Special offer: cashback up to \u20b97347 with exchange benefits.",
+    "new_text": "SAMSUNG Flagship smartphone priced at \u20b990154 with premium camera and performance features.",
+    "similarity": 0.534972608089447,
+    "length_difference": 23,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 1,
+      "discount": 0,
+      "offer": -1,
+      "feature": 1,
+      "premium": 1,
+      "battery": 0,
+      "camera": 1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-02-29",
+    "timestamp_new": "2024-03-05",
+    "old_text": "SAMSUNG Flagship smartphone priced at \u20b990154 with premium camera and performance features.",
+    "new_text": "SAMSUNG Special offer: cashback up to \u20b94690 with exchange benefits.",
+    "similarity": 0.5731281042098999,
+    "length_difference": -23,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": -1,
+      "discount": 0,
+      "offer": 1,
+      "feature": -1,
+      "premium": -1,
+      "battery": 0,
+      "camera": -1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-03-05",
+    "timestamp_new": "2024-03-06",
+    "old_text": "SAMSUNG Special offer: cashback up to \u20b94690 with exchange benefits.",
+    "new_text": "SAMSUNG Special offer: cashback up to \u20b95655 with exchange benefits.",
+    "similarity": 0.924323320388794,
+    "length_difference": 0,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-03-06",
+    "timestamp_new": "2024-03-12",
+    "old_text": "SAMSUNG Special offer: cashback up to \u20b95655 with exchange benefits.",
+    "new_text": "SAMSUNG Strong focus on design, performance, and user experience.",
+    "similarity": 0.43595772981643677,
+    "length_difference": -2,
+    "keyword_diffs": {
+      "\u20b9": -1,
+      "price": 0,
+      "discount": 0,
+      "offer": -1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-03-12",
+    "timestamp_new": "2024-03-15",
+    "old_text": "SAMSUNG Strong focus on design, performance, and user experience.",
+    "new_text": "SAMSUNG Strong focus on design, performance, and user experience.",
+    "similarity": 1.0000001192092896,
+    "length_difference": 0,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": false
+  },
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-03-15",
+    "timestamp_new": "2024-04-01",
+    "old_text": "SAMSUNG Strong focus on design, performance, and user experience.",
+    "new_text": "SAMSUNG Special offer: cashback up to \u20b99027 with exchange benefits.",
+    "similarity": 0.4488285779953003,
+    "length_difference": 2,
+    "keyword_diffs": {
+      "\u20b9": 1,
+      "price": 0,
+      "discount": 0,
+      "offer": 1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-04-01",
+    "timestamp_new": "2024-04-05",
+    "old_text": "SAMSUNG Special offer: cashback up to \u20b99027 with exchange benefits.",
+    "new_text": "SAMSUNG Mid-range device available at \u20b988682 offering great battery life and display.",
+    "similarity": 0.4644301235675812,
+    "length_difference": 18,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 1,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/smartphones/",
+    "timestamp_old": "2024-04-05",
+    "timestamp_new": "2024-04-09",
+    "old_text": "SAMSUNG Mid-range device available at \u20b988682 offering great battery life and display.",
+    "new_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive.",
+    "similarity": 0.4789544939994812,
+    "length_difference": -5,
+    "keyword_diffs": {
+      "\u20b9": -1,
+      "price": 0,
+      "discount": 0,
+      "offer": -1,
+      "feature": 0,
+      "premium": 0,
+      "battery": -1,
+      "camera": 1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/smartphones/",
+    "timestamp_old": "2024-01-02",
+    "timestamp_new": "2024-01-13",
+    "old_text": "OPPO Strong focus on design, performance, and user experience.",
+    "new_text": "OPPO Mid-range device available at \u20b935333 offering great battery life and display.",
+    "similarity": 0.6312713027000427,
+    "length_difference": 20,
+    "keyword_diffs": {
+      "\u20b9": 1,
+      "price": 0,
+      "discount": 0,
+      "offer": 1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 1,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/smartphones/",
+    "timestamp_old": "2024-01-13",
+    "timestamp_new": "2024-01-14",
+    "old_text": "OPPO Mid-range device available at \u20b935333 offering great battery life and display.",
+    "new_text": "OPPO AI-powered camera and fast charging make this device highly competitive.",
+    "similarity": 0.6320779323577881,
+    "length_difference": -5,
+    "keyword_diffs": {
+      "\u20b9": -1,
+      "price": 0,
+      "discount": 0,
+      "offer": -1,
+      "feature": 0,
+      "premium": 0,
+      "battery": -1,
+      "camera": 1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/smartphones/",
+    "timestamp_old": "2024-01-14",
+    "timestamp_new": "2024-01-20",
+    "old_text": "OPPO AI-powered camera and fast charging make this device highly competitive.",
+    "new_text": "OPPO Strong focus on design, performance, and user experience.",
+    "similarity": 0.6144078373908997,
+    "length_difference": -15,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": -1
+    },
+    "numbers_changed": false
+  },
+  {
+    "url": "https://www.oppo.com/in/smartphones/",
+    "timestamp_old": "2024-01-20",
+    "timestamp_new": "2024-01-24",
+    "old_text": "OPPO Strong focus on design, performance, and user experience.",
+    "new_text": "OPPO Strong focus on design, performance, and user experience.",
+    "similarity": 1.0,
+    "length_difference": 0,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": false
+  },
+  {
+    "url": "https://www.oppo.com/in/smartphones/",
+    "timestamp_old": "2024-01-24",
+    "timestamp_new": "2024-01-25",
+    "old_text": "OPPO Strong focus on design, performance, and user experience.",
+    "new_text": "OPPO Special offer: cashback up to \u20b95350 with exchange benefits.",
+    "similarity": 0.5350860357284546,
+    "length_difference": 2,
+    "keyword_diffs": {
+      "\u20b9": 1,
+      "price": 0,
+      "discount": 0,
+      "offer": 1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/smartphones/",
+    "timestamp_old": "2024-01-25",
+    "timestamp_new": "2024-01-27",
+    "old_text": "OPPO Special offer: cashback up to \u20b95350 with exchange benefits.",
+    "new_text": "OPPO Strong focus on design, performance, and user experience.",
+    "similarity": 0.5350860357284546,
+    "length_difference": -2,
+    "keyword_diffs": {
+      "\u20b9": -1,
+      "price": 0,
+      "discount": 0,
+      "offer": -1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/smartphones/",
+    "timestamp_old": "2024-01-27",
+    "timestamp_new": "2024-01-28",
+    "old_text": "OPPO Strong focus on design, performance, and user experience.",
+    "new_text": "OPPO AI-powered camera and fast charging make this device highly competitive.",
+    "similarity": 0.6144078373908997,
+    "length_difference": 15,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 1
+    },
+    "numbers_changed": false
+  },
+  {
+    "url": "https://www.oppo.com/in/smartphones/",
+    "timestamp_old": "2024-01-28",
+    "timestamp_new": "2024-01-29",
+    "old_text": "OPPO AI-powered camera and fast charging make this device highly competitive.",
+    "new_text": "OPPO Strong focus on design, performance, and user experience.",
+    "similarity": 0.6144078373908997,
+    "length_difference": -15,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": -1
+    },
+    "numbers_changed": false
+  },
+  {
+    "url": "https://www.oppo.com/in/smartphones/",
+    "timestamp_old": "2024-01-29",
+    "timestamp_new": "2024-02-08",
+    "old_text": "OPPO Strong focus on design, performance, and user experience.",
+    "new_text": "OPPO Mid-range device available at \u20b9109391 offering great battery life and display.",
+    "similarity": 0.6086844801902771,
+    "length_difference": 21,
+    "keyword_diffs": {
+      "\u20b9": 1,
+      "price": 0,
+      "discount": 0,
+      "offer": 1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 1,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/smartphones/",
+    "timestamp_old": "2024-02-08",
+    "timestamp_new": "2024-02-16",
+    "old_text": "OPPO Mid-range device available at \u20b9109391 offering great battery life and display.",
+    "new_text": "OPPO Mid-range device available at \u20b982318 offering great battery life and display.",
+    "similarity": 0.950800895690918,
+    "length_difference": -1,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/smartphones/",
+    "timestamp_old": "2024-02-16",
+    "timestamp_new": "2024-02-17",
+    "old_text": "OPPO Mid-range device available at \u20b982318 offering great battery life and display.",
+    "new_text": "OPPO Special offer: cashback up to \u20b92105 with exchange benefits.",
+    "similarity": 0.6082108020782471,
+    "length_difference": -18,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": -1,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/smartphones/",
+    "timestamp_old": "2024-02-17",
+    "timestamp_new": "2024-02-26",
+    "old_text": "OPPO Special offer: cashback up to \u20b92105 with exchange benefits.",
+    "new_text": "OPPO Mid-range device available at \u20b974773 offering great battery life and display.",
+    "similarity": 0.5967072248458862,
+    "length_difference": 18,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 1,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/smartphones/",
+    "timestamp_old": "2024-02-26",
+    "timestamp_new": "2024-02-28",
+    "old_text": "OPPO Mid-range device available at \u20b974773 offering great battery life and display.",
+    "new_text": "OPPO Special offer: cashback up to \u20b97437 with exchange benefits.",
+    "similarity": 0.63676917552948,
+    "length_difference": -18,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": -1,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/smartphones/",
+    "timestamp_old": "2024-02-28",
+    "timestamp_new": "2024-03-01",
+    "old_text": "OPPO Special offer: cashback up to \u20b97437 with exchange benefits.",
+    "new_text": "OPPO Special offer: cashback up to \u20b93413 with exchange benefits.",
+    "similarity": 0.9397318363189697,
+    "length_difference": 0,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/smartphones/",
+    "timestamp_old": "2024-03-01",
+    "timestamp_new": "2024-03-09",
+    "old_text": "OPPO Special offer: cashback up to \u20b93413 with exchange benefits.",
+    "new_text": "OPPO AI-powered camera and fast charging make this device highly competitive.",
+    "similarity": 0.3977576494216919,
+    "length_difference": 13,
+    "keyword_diffs": {
+      "\u20b9": -1,
+      "price": 0,
+      "discount": 0,
+      "offer": -1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/smartphones/",
+    "timestamp_old": "2024-03-09",
+    "timestamp_new": "2024-03-11",
+    "old_text": "OPPO AI-powered camera and fast charging make this device highly competitive.",
+    "new_text": "OPPO Special offer: cashback up to \u20b94071 with exchange benefits.",
+    "similarity": 0.3954443633556366,
+    "length_difference": -13,
+    "keyword_diffs": {
+      "\u20b9": 1,
+      "price": 0,
+      "discount": 0,
+      "offer": 1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": -1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/smartphones/",
+    "timestamp_old": "2024-03-11",
+    "timestamp_new": "2024-03-13",
+    "old_text": "OPPO Special offer: cashback up to \u20b94071 with exchange benefits.",
+    "new_text": "OPPO Flagship smartphone priced at \u20b9108889 with premium camera and performance features.",
+    "similarity": 0.615589439868927,
+    "length_difference": 24,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 1,
+      "discount": 0,
+      "offer": -1,
+      "feature": 1,
+      "premium": 1,
+      "battery": 0,
+      "camera": 1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/smartphones/",
+    "timestamp_old": "2024-03-13",
+    "timestamp_new": "2024-03-16",
+    "old_text": "OPPO Flagship smartphone priced at \u20b9108889 with premium camera and performance features.",
+    "new_text": "OPPO Strong focus on design, performance, and user experience.",
+    "similarity": 0.612200140953064,
+    "length_difference": -26,
+    "keyword_diffs": {
+      "\u20b9": -1,
+      "price": -1,
+      "discount": 0,
+      "offer": 0,
+      "feature": -1,
+      "premium": -1,
+      "battery": 0,
+      "camera": -1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/smartphones/",
+    "timestamp_old": "2024-03-16",
+    "timestamp_new": "2024-03-18",
+    "old_text": "OPPO Strong focus on design, performance, and user experience.",
+    "new_text": "OPPO Strong focus on design, performance, and user experience.",
+    "similarity": 1.0,
+    "length_difference": 0,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": false
+  },
+  {
+    "url": "https://www.oppo.com/in/smartphones/",
+    "timestamp_old": "2024-03-18",
+    "timestamp_new": "2024-03-19",
+    "old_text": "OPPO Strong focus on design, performance, and user experience.",
+    "new_text": "OPPO AI-powered camera and fast charging make this device highly competitive.",
+    "similarity": 0.6144078373908997,
+    "length_difference": 15,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 1
+    },
+    "numbers_changed": false
+  },
+  {
+    "url": "https://www.oppo.com/in/smartphones/",
+    "timestamp_old": "2024-03-19",
+    "timestamp_new": "2024-03-20",
+    "old_text": "OPPO AI-powered camera and fast charging make this device highly competitive.",
+    "new_text": "OPPO AI-powered camera and fast charging make this device highly competitive.",
+    "similarity": 1.0,
+    "length_difference": 0,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": false
+  },
+  {
+    "url": "https://www.oppo.com/in/smartphones/",
+    "timestamp_old": "2024-03-20",
+    "timestamp_new": "2024-03-29",
+    "old_text": "OPPO AI-powered camera and fast charging make this device highly competitive.",
+    "new_text": "OPPO Flagship smartphone priced at \u20b972873 with premium camera and performance features.",
+    "similarity": 0.6113033294677734,
+    "length_difference": 10,
+    "keyword_diffs": {
+      "\u20b9": 1,
+      "price": 1,
+      "discount": 0,
+      "offer": 0,
+      "feature": 1,
+      "premium": 1,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/smartphones/",
+    "timestamp_old": "2024-03-29",
+    "timestamp_new": "2024-04-03",
+    "old_text": "OPPO Flagship smartphone priced at \u20b972873 with premium camera and performance features.",
+    "new_text": "OPPO AI-powered camera and fast charging make this device highly competitive.",
+    "similarity": 0.6113033294677734,
+    "length_difference": -10,
+    "keyword_diffs": {
+      "\u20b9": -1,
+      "price": -1,
+      "discount": 0,
+      "offer": 0,
+      "feature": -1,
+      "premium": -1,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/smartphones/",
+    "timestamp_old": "2024-04-03",
+    "timestamp_new": "2024-04-04",
+    "old_text": "OPPO AI-powered camera and fast charging make this device highly competitive.",
+    "new_text": "OPPO Special offer: cashback up to \u20b910827 with exchange benefits.",
+    "similarity": 0.3949814438819885,
+    "length_difference": -12,
+    "keyword_diffs": {
+      "\u20b9": 1,
+      "price": 0,
+      "discount": 0,
+      "offer": 1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": -1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/offers/",
+    "timestamp_old": "2024-01-03",
+    "timestamp_new": "2024-01-08",
+    "old_text": "OPPO Strong focus on design, performance, and user experience.",
+    "new_text": "OPPO Mid-range device available at \u20b997388 offering great battery life and display.",
+    "similarity": 0.6236646771430969,
+    "length_difference": 20,
+    "keyword_diffs": {
+      "\u20b9": 1,
+      "price": 0,
+      "discount": 0,
+      "offer": 1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 1,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/offers/",
+    "timestamp_old": "2024-01-08",
+    "timestamp_new": "2024-01-16",
+    "old_text": "OPPO Mid-range device available at \u20b997388 offering great battery life and display.",
+    "new_text": "OPPO AI-powered camera and fast charging make this device highly competitive.",
+    "similarity": 0.6211295127868652,
+    "length_difference": -5,
+    "keyword_diffs": {
+      "\u20b9": -1,
+      "price": 0,
+      "discount": 0,
+      "offer": -1,
+      "feature": 0,
+      "premium": 0,
+      "battery": -1,
+      "camera": 1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/offers/",
+    "timestamp_old": "2024-01-16",
+    "timestamp_new": "2024-01-18",
+    "old_text": "OPPO AI-powered camera and fast charging make this device highly competitive.",
+    "new_text": "OPPO Flagship smartphone priced at \u20b948140 with premium camera and performance features.",
+    "similarity": 0.6039839386940002,
+    "length_difference": 10,
+    "keyword_diffs": {
+      "\u20b9": 1,
+      "price": 1,
+      "discount": 0,
+      "offer": 0,
+      "feature": 1,
+      "premium": 1,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/offers/",
+    "timestamp_old": "2024-01-18",
+    "timestamp_new": "2024-01-23",
+    "old_text": "OPPO Flagship smartphone priced at \u20b948140 with premium camera and performance features.",
+    "new_text": "OPPO Strong focus on design, performance, and user experience.",
+    "similarity": 0.5901436805725098,
+    "length_difference": -25,
+    "keyword_diffs": {
+      "\u20b9": -1,
+      "price": -1,
+      "discount": 0,
+      "offer": 0,
+      "feature": -1,
+      "premium": -1,
+      "battery": 0,
+      "camera": -1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/offers/",
+    "timestamp_old": "2024-01-23",
+    "timestamp_new": "2024-01-30",
+    "old_text": "OPPO Strong focus on design, performance, and user experience.",
+    "new_text": "OPPO Mid-range device available at \u20b967330 offering great battery life and display.",
+    "similarity": 0.6174933910369873,
+    "length_difference": 20,
+    "keyword_diffs": {
+      "\u20b9": 1,
+      "price": 0,
+      "discount": 0,
+      "offer": 1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 1,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/offers/",
+    "timestamp_old": "2024-01-30",
+    "timestamp_new": "2024-02-04",
+    "old_text": "OPPO Mid-range device available at \u20b967330 offering great battery life and display.",
+    "new_text": "OPPO Special offer: cashback up to \u20b911914 with exchange benefits.",
+    "similarity": 0.5677257776260376,
+    "length_difference": -17,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": -1,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/offers/",
+    "timestamp_old": "2024-02-04",
+    "timestamp_new": "2024-02-07",
+    "old_text": "OPPO Special offer: cashback up to \u20b911914 with exchange benefits.",
+    "new_text": "OPPO Special offer: cashback up to \u20b92172 with exchange benefits.",
+    "similarity": 0.9497143626213074,
+    "length_difference": -1,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/offers/",
+    "timestamp_old": "2024-02-07",
+    "timestamp_new": "2024-02-10",
+    "old_text": "OPPO Special offer: cashback up to \u20b92172 with exchange benefits.",
+    "new_text": "OPPO Mid-range device available at \u20b9102930 offering great battery life and display.",
+    "similarity": 0.6041122674942017,
+    "length_difference": 19,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 1,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/offers/",
+    "timestamp_old": "2024-02-10",
+    "timestamp_new": "2024-02-11",
+    "old_text": "OPPO Mid-range device available at \u20b9102930 offering great battery life and display.",
+    "new_text": "OPPO Flagship smartphone priced at \u20b977669 with premium camera and performance features.",
+    "similarity": 0.7200576663017273,
+    "length_difference": 4,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 1,
+      "discount": 0,
+      "offer": -1,
+      "feature": 1,
+      "premium": 1,
+      "battery": -1,
+      "camera": 1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/offers/",
+    "timestamp_old": "2024-02-11",
+    "timestamp_new": "2024-02-14",
+    "old_text": "OPPO Flagship smartphone priced at \u20b977669 with premium camera and performance features.",
+    "new_text": "OPPO Strong focus on design, performance, and user experience.",
+    "similarity": 0.6103229522705078,
+    "length_difference": -25,
+    "keyword_diffs": {
+      "\u20b9": -1,
+      "price": -1,
+      "discount": 0,
+      "offer": 0,
+      "feature": -1,
+      "premium": -1,
+      "battery": 0,
+      "camera": -1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/offers/",
+    "timestamp_old": "2024-02-14",
+    "timestamp_new": "2024-02-18",
+    "old_text": "OPPO Strong focus on design, performance, and user experience.",
+    "new_text": "OPPO AI-powered camera and fast charging make this device highly competitive.",
+    "similarity": 0.6144078373908997,
+    "length_difference": 15,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 1
+    },
+    "numbers_changed": false
+  },
+  {
+    "url": "https://www.oppo.com/in/offers/",
+    "timestamp_old": "2024-02-18",
+    "timestamp_new": "2024-02-22",
+    "old_text": "OPPO AI-powered camera and fast charging make this device highly competitive.",
+    "new_text": "OPPO Strong focus on design, performance, and user experience.",
+    "similarity": 0.6144078373908997,
+    "length_difference": -15,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": -1
+    },
+    "numbers_changed": false
+  },
+  {
+    "url": "https://www.oppo.com/in/offers/",
+    "timestamp_old": "2024-02-22",
+    "timestamp_new": "2024-02-24",
+    "old_text": "OPPO Strong focus on design, performance, and user experience.",
+    "new_text": "OPPO Mid-range device available at \u20b943236 offering great battery life and display.",
+    "similarity": 0.6159378290176392,
+    "length_difference": 20,
+    "keyword_diffs": {
+      "\u20b9": 1,
+      "price": 0,
+      "discount": 0,
+      "offer": 1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 1,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/offers/",
+    "timestamp_old": "2024-02-24",
+    "timestamp_new": "2024-03-03",
+    "old_text": "OPPO Mid-range device available at \u20b943236 offering great battery life and display.",
+    "new_text": "OPPO Mid-range device available at \u20b976391 offering great battery life and display.",
+    "similarity": 0.9437646269798279,
+    "length_difference": 0,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/offers/",
+    "timestamp_old": "2024-03-03",
+    "timestamp_new": "2024-03-04",
+    "old_text": "OPPO Mid-range device available at \u20b976391 offering great battery life and display.",
+    "new_text": "OPPO Mid-range device available at \u20b9115142 offering great battery life and display.",
+    "similarity": 0.9348151683807373,
+    "length_difference": 1,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/offers/",
+    "timestamp_old": "2024-03-04",
+    "timestamp_new": "2024-03-08",
+    "old_text": "OPPO Mid-range device available at \u20b9115142 offering great battery life and display.",
+    "new_text": "OPPO Mid-range device available at \u20b9118736 offering great battery life and display.",
+    "similarity": 0.9742716550827026,
+    "length_difference": 0,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/offers/",
+    "timestamp_old": "2024-03-08",
+    "timestamp_new": "2024-03-23",
+    "old_text": "OPPO Mid-range device available at \u20b9118736 offering great battery life and display.",
+    "new_text": "OPPO Flagship smartphone priced at \u20b957381 with premium camera and performance features.",
+    "similarity": 0.7087619304656982,
+    "length_difference": 4,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 1,
+      "discount": 0,
+      "offer": -1,
+      "feature": 1,
+      "premium": 1,
+      "battery": -1,
+      "camera": 1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/offers/",
+    "timestamp_old": "2024-03-23",
+    "timestamp_new": "2024-03-24",
+    "old_text": "OPPO Flagship smartphone priced at \u20b957381 with premium camera and performance features.",
+    "new_text": "OPPO Mid-range device available at \u20b990025 offering great battery life and display.",
+    "similarity": 0.685208261013031,
+    "length_difference": -5,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": -1,
+      "discount": 0,
+      "offer": 1,
+      "feature": -1,
+      "premium": -1,
+      "battery": 1,
+      "camera": -1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/offers/",
+    "timestamp_old": "2024-03-24",
+    "timestamp_new": "2024-03-30",
+    "old_text": "OPPO Mid-range device available at \u20b990025 offering great battery life and display.",
+    "new_text": "OPPO Special offer: cashback up to \u20b92860 with exchange benefits.",
+    "similarity": 0.5859624743461609,
+    "length_difference": -18,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": -1,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/offers/",
+    "timestamp_old": "2024-03-30",
+    "timestamp_new": "2024-04-02",
+    "old_text": "OPPO Special offer: cashback up to \u20b92860 with exchange benefits.",
+    "new_text": "OPPO Mid-range device available at \u20b922606 offering great battery life and display.",
+    "similarity": 0.5754755735397339,
+    "length_difference": 18,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 1,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.oppo.com/in/offers/",
+    "timestamp_old": "2024-04-02",
+    "timestamp_new": "2024-04-07",
+    "old_text": "OPPO Mid-range device available at \u20b922606 offering great battery life and display.",
+    "new_text": "OPPO Special offer: cashback up to \u20b97625 with exchange benefits.",
+    "similarity": 0.5662297010421753,
+    "length_difference": -18,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": -1,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-01-05",
+    "timestamp_new": "2024-01-07",
+    "old_text": "SAMSUNG Strong focus on design, performance, and user experience.",
+    "new_text": "SAMSUNG Special offer: cashback up to \u20b912997 with exchange benefits.",
+    "similarity": 0.43377235531806946,
+    "length_difference": 3,
+    "keyword_diffs": {
+      "\u20b9": 1,
+      "price": 0,
+      "discount": 0,
+      "offer": 1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-01-07",
+    "timestamp_new": "2024-01-09",
+    "old_text": "SAMSUNG Special offer: cashback up to \u20b912997 with exchange benefits.",
+    "new_text": "SAMSUNG Strong focus on design, performance, and user experience.",
+    "similarity": 0.43377238512039185,
+    "length_difference": -3,
+    "keyword_diffs": {
+      "\u20b9": -1,
+      "price": 0,
+      "discount": 0,
+      "offer": -1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-01-09",
+    "timestamp_new": "2024-01-10",
+    "old_text": "SAMSUNG Strong focus on design, performance, and user experience.",
+    "new_text": "SAMSUNG Special offer: cashback up to \u20b910739 with exchange benefits.",
+    "similarity": 0.4452207684516907,
+    "length_difference": 3,
+    "keyword_diffs": {
+      "\u20b9": 1,
+      "price": 0,
+      "discount": 0,
+      "offer": 1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-01-10",
+    "timestamp_new": "2024-01-11",
+    "old_text": "SAMSUNG Special offer: cashback up to \u20b910739 with exchange benefits.",
+    "new_text": "SAMSUNG Flagship smartphone priced at \u20b962737 with premium camera and performance features.",
+    "similarity": 0.5260423421859741,
+    "length_difference": 22,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 1,
+      "discount": 0,
+      "offer": -1,
+      "feature": 1,
+      "premium": 1,
+      "battery": 0,
+      "camera": 1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-01-11",
+    "timestamp_new": "2024-01-12",
+    "old_text": "SAMSUNG Flagship smartphone priced at \u20b962737 with premium camera and performance features.",
+    "new_text": "SAMSUNG Special offer: cashback up to \u20b91127 with exchange benefits.",
+    "similarity": 0.5559546947479248,
+    "length_difference": -23,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": -1,
+      "discount": 0,
+      "offer": 1,
+      "feature": -1,
+      "premium": -1,
+      "battery": 0,
+      "camera": -1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-01-12",
+    "timestamp_new": "2024-01-15",
+    "old_text": "SAMSUNG Special offer: cashback up to \u20b91127 with exchange benefits.",
+    "new_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive.",
+    "similarity": 0.29602938890457153,
+    "length_difference": 13,
+    "keyword_diffs": {
+      "\u20b9": -1,
+      "price": 0,
+      "discount": 0,
+      "offer": -1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-01-15",
+    "timestamp_new": "2024-01-22",
+    "old_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive.",
+    "new_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive.",
+    "similarity": 1.0000001192092896,
+    "length_difference": 0,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": false
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-01-22",
+    "timestamp_new": "2024-01-26",
+    "old_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive.",
+    "new_text": "SAMSUNG Strong focus on design, performance, and user experience.",
+    "similarity": 0.5521159768104553,
+    "length_difference": -15,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": -1
+    },
+    "numbers_changed": false
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-01-26",
+    "timestamp_new": "2024-02-06",
+    "old_text": "SAMSUNG Strong focus on design, performance, and user experience.",
+    "new_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive.",
+    "similarity": 0.5521159768104553,
+    "length_difference": 15,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 1
+    },
+    "numbers_changed": false
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-02-06",
+    "timestamp_new": "2024-02-12",
+    "old_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive.",
+    "new_text": "SAMSUNG Mid-range device available at \u20b951752 offering great battery life and display.",
+    "similarity": 0.503505289554596,
+    "length_difference": 5,
+    "keyword_diffs": {
+      "\u20b9": 1,
+      "price": 0,
+      "discount": 0,
+      "offer": 1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 1,
+      "camera": -1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-02-12",
+    "timestamp_new": "2024-02-19",
+    "old_text": "SAMSUNG Mid-range device available at \u20b951752 offering great battery life and display.",
+    "new_text": "SAMSUNG Strong focus on design, performance, and user experience.",
+    "similarity": 0.5499898791313171,
+    "length_difference": -20,
+    "keyword_diffs": {
+      "\u20b9": -1,
+      "price": 0,
+      "discount": 0,
+      "offer": -1,
+      "feature": 0,
+      "premium": 0,
+      "battery": -1,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-02-19",
+    "timestamp_new": "2024-02-27",
+    "old_text": "SAMSUNG Strong focus on design, performance, and user experience.",
+    "new_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive.",
+    "similarity": 0.5521159768104553,
+    "length_difference": 15,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 1
+    },
+    "numbers_changed": false
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-02-27",
+    "timestamp_new": "2024-03-02",
+    "old_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive.",
+    "new_text": "SAMSUNG Strong focus on design, performance, and user experience.",
+    "similarity": 0.5521159768104553,
+    "length_difference": -15,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": -1
+    },
+    "numbers_changed": false
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-03-02",
+    "timestamp_new": "2024-03-07",
+    "old_text": "SAMSUNG Strong focus on design, performance, and user experience.",
+    "new_text": "SAMSUNG Mid-range device available at \u20b9110831 offering great battery life and display.",
+    "similarity": 0.5138986706733704,
+    "length_difference": 21,
+    "keyword_diffs": {
+      "\u20b9": 1,
+      "price": 0,
+      "discount": 0,
+      "offer": 1,
+      "feature": 0,
+      "premium": 0,
+      "battery": 1,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-03-07",
+    "timestamp_new": "2024-03-10",
+    "old_text": "SAMSUNG Mid-range device available at \u20b9110831 offering great battery life and display.",
+    "new_text": "SAMSUNG Strong focus on design, performance, and user experience.",
+    "similarity": 0.5138986706733704,
+    "length_difference": -21,
+    "keyword_diffs": {
+      "\u20b9": -1,
+      "price": 0,
+      "discount": 0,
+      "offer": -1,
+      "feature": 0,
+      "premium": 0,
+      "battery": -1,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-03-10",
+    "timestamp_new": "2024-03-14",
+    "old_text": "SAMSUNG Strong focus on design, performance, and user experience.",
+    "new_text": "SAMSUNG Flagship smartphone priced at \u20b983375 with premium camera and performance features.",
+    "similarity": 0.5355302691459656,
+    "length_difference": 25,
+    "keyword_diffs": {
+      "\u20b9": 1,
+      "price": 1,
+      "discount": 0,
+      "offer": 0,
+      "feature": 1,
+      "premium": 1,
+      "battery": 0,
+      "camera": 1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-03-14",
+    "timestamp_new": "2024-03-17",
+    "old_text": "SAMSUNG Flagship smartphone priced at \u20b983375 with premium camera and performance features.",
+    "new_text": "SAMSUNG Mid-range device available at \u20b973288 offering great battery life and display.",
+    "similarity": 0.6495360136032104,
+    "length_difference": -5,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": -1,
+      "discount": 0,
+      "offer": 1,
+      "feature": -1,
+      "premium": -1,
+      "battery": 1,
+      "camera": -1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-03-17",
+    "timestamp_new": "2024-03-21",
+    "old_text": "SAMSUNG Mid-range device available at \u20b973288 offering great battery life and display.",
+    "new_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive.",
+    "similarity": 0.4763886034488678,
+    "length_difference": -5,
+    "keyword_diffs": {
+      "\u20b9": -1,
+      "price": 0,
+      "discount": 0,
+      "offer": -1,
+      "feature": 0,
+      "premium": 0,
+      "battery": -1,
+      "camera": 1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-03-21",
+    "timestamp_new": "2024-03-22",
+    "old_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive.",
+    "new_text": "SAMSUNG Flagship smartphone priced at \u20b963473 with premium camera and performance features.",
+    "similarity": 0.5074312686920166,
+    "length_difference": 10,
+    "keyword_diffs": {
+      "\u20b9": 1,
+      "price": 1,
+      "discount": 0,
+      "offer": 0,
+      "feature": 1,
+      "premium": 1,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-03-22",
+    "timestamp_new": "2024-03-25",
+    "old_text": "SAMSUNG Flagship smartphone priced at \u20b963473 with premium camera and performance features.",
+    "new_text": "SAMSUNG Flagship smartphone priced at \u20b920987 with premium camera and performance features.",
+    "similarity": 0.9256504774093628,
+    "length_difference": 0,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-03-25",
+    "timestamp_new": "2024-03-26",
+    "old_text": "SAMSUNG Flagship smartphone priced at \u20b920987 with premium camera and performance features.",
+    "new_text": "SAMSUNG Flagship smartphone priced at \u20b990816 with premium camera and performance features.",
+    "similarity": 0.9412931203842163,
+    "length_difference": 0,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-03-26",
+    "timestamp_new": "2024-03-27",
+    "old_text": "SAMSUNG Flagship smartphone priced at \u20b990816 with premium camera and performance features.",
+    "new_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive.",
+    "similarity": 0.5076203942298889,
+    "length_difference": -10,
+    "keyword_diffs": {
+      "\u20b9": -1,
+      "price": -1,
+      "discount": 0,
+      "offer": 0,
+      "feature": -1,
+      "premium": -1,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-03-27",
+    "timestamp_new": "2024-03-28",
+    "old_text": "SAMSUNG AI-powered camera and fast charging make this device highly competitive.",
+    "new_text": "SAMSUNG Flagship smartphone priced at \u20b919072 with premium camera and performance features.",
+    "similarity": 0.48197871446609497,
+    "length_difference": 10,
+    "keyword_diffs": {
+      "\u20b9": 1,
+      "price": 1,
+      "discount": 0,
+      "offer": 0,
+      "feature": 1,
+      "premium": 1,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-03-28",
+    "timestamp_new": "2024-03-31",
+    "old_text": "SAMSUNG Flagship smartphone priced at \u20b919072 with premium camera and performance features.",
+    "new_text": "SAMSUNG Mid-range device available at \u20b9100597 offering great battery life and display.",
+    "similarity": 0.6849424242973328,
+    "length_difference": -4,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": -1,
+      "discount": 0,
+      "offer": 1,
+      "feature": -1,
+      "premium": -1,
+      "battery": 1,
+      "camera": -1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-03-31",
+    "timestamp_new": "2024-04-06",
+    "old_text": "SAMSUNG Mid-range device available at \u20b9100597 offering great battery life and display.",
+    "new_text": "SAMSUNG Flagship smartphone priced at \u20b924253 with premium camera and performance features.",
+    "similarity": 0.594467043876648,
+    "length_difference": 4,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 1,
+      "discount": 0,
+      "offer": -1,
+      "feature": 1,
+      "premium": 1,
+      "battery": -1,
+      "camera": 1
+    },
+    "numbers_changed": true
+  },
+  {
+    "url": "https://www.samsung.com/in/offer/",
+    "timestamp_old": "2024-04-06",
+    "timestamp_new": "2024-04-08",
+    "old_text": "SAMSUNG Flagship smartphone priced at \u20b924253 with premium camera and performance features.",
+    "new_text": "SAMSUNG Flagship smartphone priced at \u20b940732 with premium camera and performance features.",
+    "similarity": 0.8536413311958313,
+    "length_difference": 0,
+    "keyword_diffs": {
+      "\u20b9": 0,
+      "price": 0,
+      "discount": 0,
+      "offer": 0,
+      "feature": 0,
+      "premium": 0,
+      "battery": 0,
+      "camera": 0
+    },
+    "numbers_changed": true
+  }
+]

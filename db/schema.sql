@@ -26,3 +26,13 @@ CREATE TABLE reviews (
     rating FLOAT,
     date TIMESTAMP
 );
+
+CREATE TABLE changes (
+    id SERIAL PRIMARY KEY,
+    url TEXT,
+    snapshot_date TIMESTAMP,
+    old_text TEXT,
+    new_text TEXT,
+    change_type TEXT,
+    change_confidence FLOAT
+);

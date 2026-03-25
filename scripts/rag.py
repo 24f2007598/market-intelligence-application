@@ -2,7 +2,8 @@ from qdrant_client import QdrantClient
 from sentence_transformers import SentenceTransformer
 from google import genai
 import os
-
+# from scripts.structured_extraction import extract_structured_data
+# from scripts.csv_writer import save_to_csv
 from utils.config import COLLECTION_NAME
 from db.db import engine
 from sqlalchemy import text
@@ -18,13 +19,25 @@ client = QdrantClient("localhost", port=6333)
 embed_model = SentenceTransformer("all-MiniLM-L6-v2")
 
 
-
-def retrieve_context(query, k=5):
+def retrieve_context(query, k=5, change_filter=None):
     vector = embed_model.encode(query).tolist()
+
+    query_filter = None
+    if change_filter:
+        from qdrant_client.http.models import Filter, FieldCondition, MatchValue
+        query_filter = Filter(
+            must=[
+                FieldCondition(
+                    key="change_type",
+                    match=MatchValue(value=change_filter)
+                )
+            ]
+        )
 
     results = client.query_points(
         collection_name=COLLECTION_NAME,
         query=vector,
+        query_filter=query_filter,
         limit=k
     )
 
@@ -42,11 +55,15 @@ def retrieve_context(query, k=5):
 
     return qdrant_context + "\n\n" + postgres_context
 
-def generate_answer(query:str):
-    context = retrieve_context(query)
+def generate_answer(query:str, change_filter=None):
+    context = retrieve_context(query, change_filter=change_filter)
+
+    system_insight = ""
+    if change_filter:
+        system_insight = f"\nNote: The user is specifically asking about a '{change_filter}'. Focus your answer on this aspect based on the retrieved data.\n"
 
     prompt = f"""
-You are a market intelligence analyst.
+You are a market intelligence analyst.{system_insight}
 
 Context:
 {context}
@@ -64,6 +81,15 @@ Give a clear, concise answer with insights.
 
     return response.text
 
+# def run_rag(query, llm):
+#     rag_output = your_existing_rag_logic(query)
+
+#     # 🔥 PASS QUERY HERE
+#     structured_data = extract_structured_data(llm, query, rag_output)
+
+#     save_to_csv(structured_data)
+
+#     return rag_output
 
 # if __name__ == "__main__":
 #     while True:

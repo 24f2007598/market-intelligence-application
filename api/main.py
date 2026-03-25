@@ -30,3 +30,8 @@ def home():
 def rag_endpoint(req: QueryRequest):
     answer = generate_answer(req.query)
     return {"answer": answer}
+
+# @app.post("/query")
+# def query_rag(request: QueryRequest):
+#     result = run_rag(request.query, llm)
+#     return {"response": result}    

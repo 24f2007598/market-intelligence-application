@@ -114,13 +114,21 @@ sys.path.append(os.path.dirname(os.path.dirname(__file__)))
 #     pass  # backend not loaded — UI still works
 
 st.set_page_config(
-    page_title="Market AI Intelligence System",
+    page_title="VectorTransformers Intelligence System",
     layout="wide",
     initial_sidebar_state="collapsed"
 )
 
 our_company = "ACME Corp"
 competitor  = "Globex Inc"
+
+if "page" not in st.session_state:
+    st.session_state.page = "main"
+
+if st.session_state.page == "ml":
+    from ml_dashboard import render_ml_dashboard
+    render_ml_dashboard()
+    st.stop()
 
 # ─── Global page CSS (injected into main Streamlit frame) ─────────────────────
 st.markdown("""
@@ -131,7 +139,7 @@ html{scroll-behavior:smooth}
 html,body,[data-testid="stAppViewContainer"],[data-testid="stApp"]{
   background:#0a0a0a!important;color:#f0f0f0!important;
   font-family:'Inter','Segoe UI',sans-serif;overflow-x:hidden}
-[data-testid="stHeader"],[data-testid="stToolbar"],[data-testid="stSidebar"],footer{display:none!important}
+header, [data-testid="stHeader"], [data-testid="stToolbar"], [data-testid="stSidebar"], .stDeployButton, footer { display: none !important; visibility: hidden !important; }
 [data-testid="stAppViewContainer"]>.main>.block-container{padding:0!important;max-width:100%!important}
 
 /* NAV BAR */
@@ -214,11 +222,10 @@ iframe{border:none!important;display:block}
 # ─── Fixed Nav Bar ────────────────────────────────────────────────────────────
 st.markdown(
     '<div class="nav-bar">'
-    '<a class="nav-logo" href="#hero">Market<span>AI</span></a>'
+    '<a class="nav-logo" href="#hero">Vector<span>Transformers</span></a>'
     '<ul class="nav-links">'
     '<li><a href="#query">Query Engine</a></li>'
     '<li><a href="#insights">Insights &amp; Tables</a></li>'
-    '<li><a href="#powerbi">Power BI</a></li>'
     '<li><a href="#datasources">Data Sources</a></li>'
     '</ul></div>',
     unsafe_allow_html=True
@@ -289,9 +296,8 @@ body{background:#0a0a0a;overflow:hidden;font-family:'Inter',sans-serif}
       <div class="glow g1"></div>
       <div class="icon">&#11.104;</div>
       <div class="tag">AI-Powered Intelligence</div>
-      <div class="title">Welcome to <span class="g">Market AI</span><br>Intelligence System</div>
+      <div class="title">Welcome to <span class="g">VectorTransformers</span><br>Intelligence System</div>
       <div class="sub">Harness artificial intelligence to decode your competitive landscape in real-time with precision and speed.</div>
-      <a class="cta" href="#query">Start Querying &#81.1;</a>
     </div>
     <div class="sl s2">
       <div class="glow g2"></div>
@@ -299,7 +305,6 @@ body{background:#0a0a0a;overflow:hidden;font-family:'Inter',sans-serif}
       <div class="tag">Micro-Insights Engine</div>
       <div class="title">Real-Time <span class="g">Sentiment</span><br>&amp; Market Signals</div>
       <div class="sub">Automatically extract sentiment trends, competitor weaknesses and hidden market opportunities from live data.</div>
-      <a class="cta" href="#insights">View Insights &#81.1;</a>
     </div>
     <div class="sl s3">
       <div class="glow g3"></div>
@@ -307,15 +312,13 @@ body{background:#0a0a0a;overflow:hidden;font-family:'Inter',sans-serif}
       <div class="tag">RAG Engine</div>
       <div class="title">Ask Anything About<br>Your <span class="g">Market</span></div>
       <div class="sub">Our Retrieval-Augmented Generation engine delivers precise, grounded strategic intelligence with zero hallucinations.</div>
-      <a class="cta" href="#query">Ask Now &#81.1;</a>
     </div>
     <div class="sl s4">
       <div class="glow g4"></div>
       <div class="icon">&#128200;</div>
       <div class="tag">Executive Dashboards</div>
-      <div class="title">Power BI <span class="g">Dashboards</span><br>at a Glance</div>
-      <div class="sub">Integrated Power BI reports give leadership a single pane of glass for all competitive intelligence metrics.</div>
-      <a class="cta" href="#powerbi">See Dashboards &#81.1;</a>
+      <div class="title">Interactive <span class="g">Dashboards</span><br>at a Glance</div>
+      <div class="sub">Integrated visual analytics give leadership a single pane of glass for all competitive intelligence metrics.</div>
     </div>
   </div>
   <div class="dots">
@@ -354,6 +357,13 @@ st.markdown(
     unsafe_allow_html=True
 )
 
+st.write("")
+col_ml1, col_ml2, col_ml3 = st.columns([1, 2, 1])
+with col_ml2:
+    if st.button("🧠 View ML Model Insights Dashboard", use_container_width=True):
+        st.session_state.page = "ml"
+        st.rerun()
+
 # ─── Feature Cards ────────────────────────────────────────────────────────────
 st.markdown(
     '<div class="sec-wrap">'
@@ -364,10 +374,26 @@ st.markdown(
     '<div class="f-card"><div class="fi">&#128269;</div><h3>Deep Competitor Analysis</h3><p>Automatically crawl and analyse competitor websites, pricing pages, and product updates in real-time.</p></div>'
     '<div class="f-card"><div class="fi">&#128172;</div><h3>Sentiment Intelligence</h3><p>NLP-powered sentiment analysis on thousands of reviews surfacing key topics and emotional trends.</p></div>'
     '<div class="f-card"><div class="fi">&#9889;</div><h3>RAG-Powered Q&amp;A</h3><p>Ask natural-language questions and receive grounded, context-aware strategic answers instantly.</p></div>'
-    '<div class="f-card"><div class="fi">&#128200;</div><h3>Executive Reporting</h3><p>Auto-generated Power BI dashboards and PDF briefs ready for C-suite consumption.</p></div>'
+    '<div class="f-card"><div class="fi">&#128200;</div><h3>Executive Reporting</h3><p>Auto-generated analytical dashboards and PDF briefs ready for C-suite consumption.</p></div>'
     '</div></div>',
     unsafe_allow_html=True
 )
+
+# ─── VISUALIZATION CHARTS (CHARTLY INTEGRATION) ───────────────────────────────
+st.markdown('<div id="insights" style="scroll-margin-top:64px;"></div>', unsafe_allow_html=True)
+st.markdown(
+    '<div class="sec-wrap">'
+    '<div class="eyebrow">Visual Analytics</div>'
+    '<div class="sec-title">Insights &amp; Tables</div>'
+    '<div class="gold-line"></div>'
+    '</div>',
+    unsafe_allow_html=True
+)
+try:
+    from visualization.chartly_client import render_executive_charts
+    render_executive_charts()
+except Exception as e:
+    st.error(f"Failed to load Chartly module: {e}")
 
 # ─── QUERY SECTION ────────────────────────────────────────────────────────────
 st.markdown('<div id="query" style="scroll-margin-top:64px;"></div>', unsafe_allow_html=True)
@@ -390,165 +416,37 @@ with col_c:
     if user_query:
         run_query = st.button("⚡  Generate Strategic Insight", use_container_width=True)
 
-if user_query:
-    st.markdown(
-        '<p style="text-align:center;color:#2FFF00;margin:.5rem 0 1rem;font-size:.85rem;">'
-        '&#10003; Query received — scroll down for insights &amp; dashboards.</p>',
-        unsafe_allow_html=True
-    )
-
-# ─── INSIGHTS & TABLES SECTION ───────────────────────────────────────────────
-st.markdown('<div id="insights" style="scroll-margin-top:64px;"></div>', unsafe_allow_html=True)
-st.markdown(
-    '<div class="sec-wrap">'
-    '<div class="eyebrow">Analysis Engine</div>'
-    '<div class="sec-title">Micro-Insights &amp; Strategic Tables</div>'
-    '<div class="gold-line"></div>'
-    '</div>',
-    unsafe_allow_html=True
-)
-
-tab1, tab2, tab3 = st.tabs(["📊 Micro-Insights", "🤖 RAG Strategist", "📁 Data Sources"])
-
-mock_data = pd.DataFrame({
-    "competitor":      [our_company, competitor, our_company, competitor],
-    "aspect":          ["pricing", "pricing", "support", "support"],
-    "sentiment_score": [0.8, -0.2, 0.1, 0.9]
-})
-
-with tab1:
-    st.subheader("Comparative Micro-Insights")
-    st.caption("Sentiment advantages based on recent reviews and messaging.")
-    st.dataframe(mock_data, use_container_width=True)
-    try:
-        agg      = compute_aspect_sentiment(mock_data)
-        insights = generate_micro_insights(our_company, agg)
-        st.subheader("Generated Strategic Insights")
-        if insights:
-            for ins in insights:
-                if ins["advantage_score"] > 0.3:
-                    st.success(f"**{ins['aspect'].title()}**: {ins['insight']}")
-                elif ins["advantage_score"] < -0.3:
-                    st.error(f"**{ins['aspect'].title()}**: {ins['insight']}")
-                else:
-                    st.info(f"**{ins['aspect'].title()}**: {ins['insight']}")
-        else:
-            st.write("No insights generated yet.")
-    except Exception:
-        st.info("Backend not connected — showing sample data above.")
-
-with tab2:
-    st.subheader("Strategic LLM Querying")
-
-    rag_query = user_query if user_query else st.text_input(
-        "Ask the intelligence engine:", "What are the major shifts in the market?"
-    )
-
-    generate_clicked = st.button("⚡ Generate Insight")
-
-    if run_query or generate_clicked:
-
-        if not rag_query.strip():
-            st.warning("Please enter a query.")
-            st.stop()
-
-        with st.spinner("🔍 Retrieving and analyzing market data..."):
-
+if run_query:
+    if not user_query.strip():
+        st.warning("Please enter a query.")
+    else:
+        with st.spinner("🔍 Retrieving and analyzing market data via RAG engine..."):
             try:
                 res = requests.post(
                     "http://localhost:8000/rag",
-                    json={"query": rag_query}
+                    json={"query": user_query}
                 )
-
                 if res.status_code == 200:
-                    response = res.json()["answer"]
+                    response = res.json().get("answer", "No answer found in response.")
                 else:
-                    response = "Error from backend"
-
+                    response = f"Error from backend: {res.status_code}"
             except Exception:
-                response = "Backend not connected. Make sure FastAPI server is running."
+                response = "Backend not connected. Make sure FastAPI server is running on port 8000."
 
-        st.divider()
-        st.write("## 📊 Strategic Insight")
-        st.markdown(response)
-    
-with tab3:
-    st.subheader("Data Sources & Agent Status")
-    c1, c2, c3 = st.columns(3)
-    c1.metric("Websites Scraped",  "14",    "+2")
-    c2.metric("Reviews Processed", "2,450", "+150")
-    c3.metric("Wayback Snapshots", "5",     "0")
-
-# ─── POWER BI SECTION (via components.html for guaranteed rendering) ──────────
-st.markdown('<div id="powerbi" style="scroll-margin-top:64px;"></div>', unsafe_allow_html=True)
-st.markdown(
-    '<div class="sec-wrap">'
-    '<div class="eyebrow">Executive Dashboards</div>'
-    '<div class="sec-title">Power BI Reports</div>'
-    '<div class="gold-line"></div>'
-    '</div>',
-    unsafe_allow_html=True
-)
-
-PBI_HTML = """
-<!DOCTYPE html>
-<html>
-<head>
-<meta charset="utf-8">
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
-*{margin:0;padding:0;box-sizing:border-box}
-body{background:#0a0a0a;font-family:'Inter',sans-serif;padding:0 0 2rem}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:1.4rem}
-.card{background:#111;border:1px solid rgba(237, 64, 64,0.14);border-radius:14px;
-  overflow:hidden;transition:border-color .25s,transform .25s,box-shadow .25s;cursor:pointer}
-.card:hover{border-color:#2FFF00;transform:translateY(-4px);box-shadow:0 14px 40px rgba(237, 64, 64,.12)}
-.header{padding:1.2rem 1.5rem;border-bottom:1px solid rgba(237, 64, 64,.1);
-  display:flex;align-items:center;gap:.9rem}
-.header .ic{font-size:1.7rem}
-.header h3{font-size:.92rem;font-weight:700;color:#2FFF00;margin:0}
-.header p{font-size:.74rem;color:#555;margin-top:2px}
-.body{height:180px;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:.8rem;
-  background:repeating-linear-gradient(45deg,rgba(237, 64, 64,.02) 0,
-  rgba(237, 64, 64,.02) 2px,transparent 2px,transparent 16px);
-  color:#3a3a3a;font-size:.8rem}
-.badge{background:rgba(237, 64, 64,.08);border:1px solid rgba(237, 64, 64,.22);
-  color:#2FFF00;border-radius:6px;padding:5px 14px;font-size:.76rem;font-weight:700;
-  cursor:pointer;transition:background .2s}
-.badge:hover{background:rgba(237, 64, 64,.16)}
-</style>
-</head>
-<body>
-<div class="grid">
-  <div class="card">
-    <div class="header"><span class="ic">&#128202;</span>
-      <div><h3>Sentiment Overview</h3><p>Real-time sentiment across all competitors</p></div></div>
-    <div class="body"><span>&#128225; Connect your Power BI embed URL</span>
-      <span class="badge">+ Add Report</span></div>
-  </div>
-  <div class="card">
-    <div class="header"><span class="ic">&#128185;</span>
-      <div><h3>Market Share Trends</h3><p>Historical competitive positioning</p></div></div>
-    <div class="body"><span>&#128225; Connect your Power BI embed URL</span>
-      <span class="badge">+ Add Report</span></div>
-  </div>
-  <div class="card">
-    <div class="header"><span class="ic">&#128506;</span>
-      <div><h3>Geographic Intelligence</h3><p>Regional market penetration heatmap</p></div></div>
-    <div class="body"><span>&#128225; Connect your Power BI embed URL</span>
-      <span class="badge">+ Add Report</span></div>
-  </div>
-  <div class="card">
-    <div class="header"><span class="ic">&#9888;</span>
-      <div><h3>Risk &amp; Opportunity Radar</h3><p>AI-scored strategic risks and wins</p></div></div>
-    <div class="body"><span>&#128225; Connect your Power BI embed URL</span>
-      <span class="badge">+ Add Report</span></div>
-  </div>
-</div>
-</body>
-</html>
-"""
-components.html(PBI_HTML, height=500, scrolling=False)
+        st.markdown(
+            '<div class="sec-wrap" style="padding-top:2rem;padding-bottom:1rem;">'
+            '<div class="eyebrow">Generative AI Engine</div>'
+            '<div class="sec-title">Strategic Insight</div>'
+            '<div class="gold-line"></div>'
+            '</div>',
+            unsafe_allow_html=True
+        )
+        c_left, c_mid, c_right = st.columns([0.5, 9, 0.5])
+        with c_mid:
+            if "Backend not connected" in response:
+                st.error(response)
+            else:
+                st.markdown(response)
 
 # ─── DATA SOURCES METRICS ────────────────────────────────────────────────────
 st.markdown('<div id="datasources" style="scroll-margin-top:64px;"></div>', unsafe_allow_html=True)
@@ -571,7 +469,7 @@ d5.metric("Accuracy Rate",     "98%",   "+2%")
 st.markdown(
     '<div style="background:#050505;border-top:1px solid rgba(237, 64, 64,.1);'
     'padding:1.8rem 6vw;display:flex;justify-content:space-between;flex-wrap:wrap;gap:.8rem;">'
-    '<p style="font-size:.75rem;color:#3a3a3a;">&#169; 2026 <span style="color:#2FFF00;">Market AI Intelligence System</span>. All rights reserved.</p>'
+    '<p style="font-size:.75rem;color:#3a3a3a;">&#169; 2026 <span style="color:#2FFF00;">VectorTransformers</span>. All rights reserved.</p>'
     '<p style="font-size:.75rem;color:#3a3a3a;">Powered by RAG &bull; NLP &bull; Agentic Crawlers</p>'
     '</div>',
     unsafe_allow_html=True

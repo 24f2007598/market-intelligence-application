@@ -1,7 +1,8 @@
 # Market Intelligence & Competitor Analysis Platform
 
 An AI-powered system that monitors competitor websites, detects meaningful changes, performs whitespace (market gap) analysis, generates ML-driven insights, analyzes sentiment, and presents everything through an interactive dashboard.
-
+![Main Dashboard](assets/dashboard_main.png)
+![Insights Dashboard](assets/dashboard_insights.png)
 ---
 
 ## Overview

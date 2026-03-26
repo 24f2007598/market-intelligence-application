@@ -1,4 +1,4 @@
-<img width="637" height="299" alt="image" src="https://github.com/user-attachments/assets/87d0ec69-b1b0-4079-b7c2-bb9c51d3e7e9" /># Market Intelligence & Competitor Analysis Platform
+# Market Intelligence & Competitor Analysis Platform
 
 An AI-powered system that monitors competitor websites, detects meaningful changes, performs whitespace (market gap) analysis, generates ML-driven insights, analyzes sentiment, and presents everything through an interactive dashboard.
 

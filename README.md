@@ -2,8 +2,9 @@
 
 An AI-powered system that monitors competitor websites, detects meaningful changes, performs whitespace (market gap) analysis, generates ML-driven insights, analyzes sentiment, and presents everything through an interactive dashboard.
 
-<img width="637" height="299" alt="image" src="https://github.com/user-attachments/assets/c04b5154-9c19-41e4-854a-9e6009ae4ba8" />
 <img width="536" height="332" alt="image" src="https://github.com/user-attachments/assets/76f8a191-bfa6-49d4-80a3-63eaadc0597e" />
+<img width="637" height="299" alt="image" src="https://github.com/user-attachments/assets/c04b5154-9c19-41e4-854a-9e6009ae4ba8" />
+
 
 
 ---

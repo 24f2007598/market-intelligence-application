@@ -102,4 +102,61 @@ Example:
 ---
 
 ## 🏗️ Architecture
+Data Ingestion (Scraping / Wayback)
+↓
+Cleaning & Normalization
+↓
+Chunking
+↓
+Embedding Generation
+↓
+Vector Storage (Qdrant)
+↓
+Change Detection
+↓
+ML + Sentiment Analysis
+↓
+RAG Pipeline
+↓
+Natural Language Output
 
+
+---
+
+## ⚙️ Tech Stack
+
+### AI / ML
+- Sentence Transformers (`all-MiniLM-L6-v2`)
+- Custom ML models  
+- Sentiment analysis  
+
+### Backend
+- Python  
+- FastAPI  
+
+### RAG & Embeddings
+- Qdrant (vector database)  
+- HuggingFace embeddings  
+
+### Data Collection
+- Playwright  
+- Wayback Machine  
+
+### Storage
+- JSON / database (snapshots)  
+- Qdrant (vector storage)  
+
+### Frontend
+- Streamlit  
+
+### DevOps
+- Docker  
+
+---
+
+## 🛠️ Setup
+
+### 1. Clone Repository
+```bash
+git clone https://github.com/your-repo/market-intelligence.git
+cd market-intelligence

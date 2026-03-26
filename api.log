@@ -20,3 +20,5 @@ INFO:     127.0.0.1:36916 - "POST /rag HTTP/1.1" 200 OK
 INFO:     127.0.0.1:35034 - "POST /whitespace HTTP/1.1" 200 OK
 INFO:     127.0.0.1:55040 - "POST /whitespace HTTP/1.1" 200 OK
 INFO:     127.0.0.1:39426 - "POST /whitespace HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51572 - "POST /rag HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51762 - "POST /whitespace HTTP/1.1" 200 OK

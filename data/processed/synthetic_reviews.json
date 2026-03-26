@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "87c3d8bf-6c01-496c-8dd3-b31b64642f65",
+    "product": "Samsung",
+    "review_text": "Build quality feels premium and solid. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-06T05:34:02.166052"
+  },
+  {
+    "id": "9747b90a-557d-4fe7-b467-a893f2bf0ccc",
+    "product": "Samsung",
+    "review_text": "Standard features, nothing new.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-18T05:34:02.166088"
+  },
+  {
+    "id": "cce9aa56-c44e-4d09-8ab2-7b13c5b067b4",
+    "product": "OnePlus",
+    "review_text": "Smooth performance and fast UI. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-16T05:34:02.166101"
+  },
+  {
+    "id": "ef9e5930-48b8-451b-8251-417efda3dd75",
+    "product": "Apple",
+    "review_text": "Battery drains too quickly. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-02T05:34:02.166109"
+  },
+  {
+    "id": "e42338c8-9477-4e34-98e3-59c3ba24c277",
+    "product": "OnePlus",
+    "review_text": "Standard features, nothing new.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-14T05:34:02.166118"
+  },
+  {
+    "id": "bdf13b09-de25-4d0a-a4ef-e735152ab174",
+    "product": "Samsung",
+    "review_text": "Amazing camera quality, very sharp images. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-03T05:34:02.166128"
+  },
+  {
+    "id": "231fa625-8f14-49a3-86f1-89a1449425ed",
+    "product": "Samsung",
+    "review_text": "Build quality feels premium and solid. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-01T05:34:02.166137"
+  },
+  {
+    "id": "8dd6daf6-ecea-4e0c-8418-90fbfc8d9695",
+    "product": "OnePlus",
+    "review_text": "The battery life is excellent and lasts all day. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-10T05:34:02.166144"
+  },
+  {
+    "id": "7ddff6a5-ee4a-4e5d-86d8-366da7f225dc",
+    "product": "Apple",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-02-27T05:34:02.166151"
+  },
+  {
+    "id": "51158224-e265-47d5-bef2-aee6fb185972",
+    "product": "Apple",
+    "review_text": "Great value for money, highly recommend. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-02-26T05:34:02.166158"
+  },
+  {
+    "id": "a1781a43-4ec0-43a4-b779-852f7ec853a4",
+    "product": "Oppo",
+    "review_text": "Build quality feels premium and solid. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-25T05:34:02.166164"
+  },
+  {
+    "id": "f4b9e9b8-184c-4195-b88e-92b9b21c8623",
+    "product": "Apple",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-02T05:34:02.166171"
+  },
+  {
+    "id": "60239efe-1c19-42c2-8380-1c4fa583fada",
+    "product": "Samsung",
+    "review_text": "Not worth the price. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-02-26T05:34:02.166178"
+  },
+  {
+    "id": "7b8a4288-04fe-46d0-8312-e5f310594c78",
+    "product": "OnePlus",
+    "review_text": "The battery life is excellent and lasts all day. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-01T05:34:02.166184"
+  },
+  {
+    "id": "d0336aa6-a693-49e6-910f-c9916ed8a099",
+    "product": "Samsung",
+    "review_text": "The battery life is excellent and lasts all day. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-23T05:34:02.166190"
+  },
+  {
+    "id": "8f76e288-bc0e-4663-b016-53c3167220f3",
+    "product": "OnePlus",
+    "review_text": "The battery life is excellent and lasts all day. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-18T05:34:02.166197"
+  },
+  {
+    "id": "0bdf45a8-7a65-4dc4-8ed7-ab03e48ae3cf",
+    "product": "OnePlus",
+    "review_text": "Smooth performance and fast UI. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-15T05:34:02.166204"
+  },
+  {
+    "id": "6a49f31b-f0e2-42d5-8929-2d8c79870f70",
+    "product": "Apple",
+    "review_text": "Smooth performance and fast UI. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-04T05:34:02.166224"
+  },
+  {
+    "id": "2821e6b8-40a4-485d-a787-1c2750671664",
+    "product": "OnePlus",
+    "review_text": "Camera performance is disappointing. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-16T05:34:02.166233"
+  },
+  {
+    "id": "8f0ddc1e-a1f2-4dcc-a215-83421940b288",
+    "product": "Apple",
+    "review_text": "Camera performance is disappointing. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-02-27T05:34:02.166239"
+  },
+  {
+    "id": "d4450dd7-b315-48c1-b421-81ca804aa386",
+    "product": "Oppo",
+    "review_text": "Amazing camera quality, very sharp images. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-14T05:34:02.166246"
+  },
+  {
+    "id": "092525af-2774-47c8-985a-2609a863a390",
+    "product": "Oppo",
+    "review_text": "Standard features, nothing new.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-09T05:34:02.166252"
+  },
+  {
+    "id": "fee77194-d692-47d6-8b10-532a3f705064",
+    "product": "Oppo",
+    "review_text": "Standard features, nothing new.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-25T05:34:02.166259"
+  },
+  {
+    "id": "561deeef-4479-422f-8f26-234feed7899c",
+    "product": "Oppo",
+    "review_text": "Amazing camera quality, very sharp images. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-05T05:34:02.166268"
+  },
+  {
+    "id": "ea530f64-ae5b-4539-92b3-4bfd578126a1",
+    "product": "Apple",
+    "review_text": "The phone works as expected.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-25T05:34:02.166274"
+  },
+  {
+    "id": "833096e7-e8b1-4866-b920-bad73dc2bcd5",
+    "product": "OnePlus",
+    "review_text": "Amazing camera quality, very sharp images. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-20T05:34:02.166282"
+  },
+  {
+    "id": "07368b08-d14d-493c-a1b9-3310e7ec7a9b",
+    "product": "OnePlus",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-16T05:34:02.166289"
+  },
+  {
+    "id": "a1f6eff5-9e70-4540-832e-53593bdb8805",
+    "product": "Oppo",
+    "review_text": "Build quality feels premium and solid. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-23T05:34:02.166295"
+  },
+  {
+    "id": "346f9b43-c654-4bdd-837d-d5051badcc2b",
+    "product": "OnePlus",
+    "review_text": "Smooth performance and fast UI. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-16T05:34:02.166305"
+  },
+  {
+    "id": "92e02596-3c5d-49d1-a8b6-a06f556b4f1c",
+    "product": "Apple",
+    "review_text": "Great value for money, highly recommend. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-20T05:34:02.166311"
+  },
+  {
+    "id": "2e95787d-b75b-4616-a2ba-8f60b11ab4d4",
+    "product": "Oppo",
+    "review_text": "Overpriced for the features offered. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-12T05:34:02.166318"
+  },
+  {
+    "id": "4297b4d9-e2e8-4c1d-aef0-ff9289f15c3e",
+    "product": "Apple",
+    "review_text": "Overpriced for the features offered. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-02-25T05:34:02.166324"
+  },
+  {
+    "id": "5614792c-1713-4e85-b315-629676ac1749",
+    "product": "Samsung",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-24T05:34:02.166331"
+  },
+  {
+    "id": "e02549ea-babd-4aeb-8c34-fd33d20837d0",
+    "product": "OnePlus",
+    "review_text": "Standard features, nothing new.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-11T05:34:02.166337"
+  },
+  {
+    "id": "1e6d3e00-9060-4cb5-92b6-11df60633911",
+    "product": "Samsung",
+    "review_text": "Standard features, nothing new.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-03T05:34:02.166343"
+  },
+  {
+    "id": "0dd38dfd-75bb-4e87-be5e-b188353b4bd8",
+    "product": "Samsung",
+    "review_text": "The phone works as expected.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-18T05:34:02.166349"
+  },
+  {
+    "id": "a0a7de01-d18f-4e17-92eb-d747ef9012cd",
+    "product": "Apple",
+    "review_text": "Average performance overall.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-15T05:34:02.166355"
+  },
+  {
+    "id": "faab15b5-737f-4798-b9f1-b626d3a4d2c3",
+    "product": "Apple",
+    "review_text": "Great value for money, highly recommend. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-06T05:34:02.166364"
+  },
+  {
+    "id": "bbb8e301-b386-400b-ba20-f789f9f03cda",
+    "product": "Apple",
+    "review_text": "Overpriced for the features offered. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-21T05:34:02.166370"
+  },
+  {
+    "id": "24cc3d3e-d2f6-4702-8b1f-f2bbddec8520",
+    "product": "Samsung",
+    "review_text": "Great value for money, highly recommend. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-22T05:34:02.166376"
+  },
+  {
+    "id": "d11c7463-8e75-4710-b4c6-de0f5d7a304b",
+    "product": "Oppo",
+    "review_text": "Build quality feels premium and solid. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-16T05:34:02.166382"
+  },
+  {
+    "id": "1bf97bf7-8fdf-4e04-8991-427856f8f66b",
+    "product": "Samsung",
+    "review_text": "Camera performance is disappointing. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-11T05:34:02.166389"
+  },
+  {
+    "id": "90d5fe82-b61f-4554-aaeb-dc87f0d27ded",
+    "product": "Apple",
+    "review_text": "The phone works as expected.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-12T05:34:02.166394"
+  },
+  {
+    "id": "594a5424-5576-4776-b18a-8d5170edf449",
+    "product": "Apple",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-24T05:34:02.166400"
+  },
+  {
+    "id": "e6a8ba5c-6f84-4af9-9a05-e91693855c45",
+    "product": "Oppo",
+    "review_text": "The battery life is excellent and lasts all day. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-22T05:34:02.166407"
+  },
+  {
+    "id": "acb083a6-9f00-4745-b0dd-460e2cf0e3e7",
+    "product": "OnePlus",
+    "review_text": "Amazing camera quality, very sharp images. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-17T05:34:02.166415"
+  },
+  {
+    "id": "e190a3c9-a122-42c6-9a28-ad6fd1fcebef",
+    "product": "Samsung",
+    "review_text": "Not worth the price. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-04T05:34:02.166422"
+  },
+  {
+    "id": "bad88666-8ac3-4803-9111-2c256a0ed188",
+    "product": "Oppo",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-14T05:34:02.166428"
+  },
+  {
+    "id": "9a6d4036-e30a-4a07-b98f-14a489a06ae5",
+    "product": "OnePlus",
+    "review_text": "Great value for money, highly recommend. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-04T05:34:02.166435"
+  },
+  {
+    "id": "136e2f5f-bb22-4e1d-99cf-c3cd5618f2de",
+    "product": "Oppo",
+    "review_text": "The battery life is excellent and lasts all day. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-26T05:34:02.166441"
+  },
+  {
+    "id": "5d32fdcc-c454-419b-91f0-f539aef458f9",
+    "product": "Oppo",
+    "review_text": "Average performance overall.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-18T05:34:02.166450"
+  },
+  {
+    "id": "534d2659-2ff1-405f-b81f-4eb4d260b076",
+    "product": "Samsung",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-07T05:34:02.166457"
+  },
+  {
+    "id": "c534b55f-513b-44d7-a7e4-686ae95920c9",
+    "product": "Apple",
+    "review_text": "Standard features, nothing new.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-02-24T05:34:02.166463"
+  },
+  {
+    "id": "57d3e424-594f-465d-89db-f874801b292a",
+    "product": "Samsung",
+    "review_text": "Battery drains too quickly. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-06T05:34:02.166470"
+  },
+  {
+    "id": "26aa2ff4-b999-443b-a400-f70f3fc9f706",
+    "product": "Apple",
+    "review_text": "The phone works as expected.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-22T05:34:02.166476"
+  },
+  {
+    "id": "98b046e3-02d1-46f3-9a05-01506615379b",
+    "product": "Samsung",
+    "review_text": "Amazing camera quality, very sharp images. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-02-27T05:34:02.166482"
+  },
+  {
+    "id": "e10dafa3-1eb4-4e9d-b3cb-56a180d62d41",
+    "product": "Oppo",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-18T05:34:02.166489"
+  },
+  {
+    "id": "42aa796e-91c2-4b4a-8062-57e7c63e2939",
+    "product": "Apple",
+    "review_text": "Average performance overall.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-06T05:34:02.166495"
+  },
+  {
+    "id": "3f1ca0b0-b18d-411d-b657-49835e654fc2",
+    "product": "OnePlus",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-16T05:34:02.166501"
+  },
+  {
+    "id": "686486e4-c37e-4675-b7b2-b7f3a4e3750b",
+    "product": "Samsung",
+    "review_text": "Battery drains too quickly. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-02-28T05:34:02.166508"
+  },
+  {
+    "id": "b1301731-2593-4476-9bfb-dcda68d67567",
+    "product": "Samsung",
+    "review_text": "Overpriced for the features offered. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-11T05:34:02.166515"
+  },
+  {
+    "id": "d21fd1a6-b998-4736-92f3-03ce4f8278a2",
+    "product": "Oppo",
+    "review_text": "Amazing camera quality, very sharp images. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-25T05:34:02.166522"
+  },
+  {
+    "id": "7b216859-0ee8-480d-924d-7ea6f3f7d30c",
+    "product": "Samsung",
+    "review_text": "Camera performance is disappointing. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-11T05:34:02.166528"
+  },
+  {
+    "id": "5eb49a32-4a25-4eaa-8263-5ec1f87137df",
+    "product": "Apple",
+    "review_text": "The phone works as expected.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-09T05:34:02.166534"
+  },
+  {
+    "id": "c7501138-65e9-470b-af0a-75b5ee98d037",
+    "product": "Oppo",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-16T05:34:02.166542"
+  },
+  {
+    "id": "64477579-ba2b-4828-a34d-9f0600df28d3",
+    "product": "OnePlus",
+    "review_text": "Great value for money, highly recommend. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-23T05:34:02.166549"
+  },
+  {
+    "id": "207b734f-174d-4fde-8308-08a2c6aa0a65",
+    "product": "OnePlus",
+    "review_text": "Average performance overall.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-15T05:34:02.166555"
+  },
+  {
+    "id": "d34c766b-d8ef-46b8-968e-c5310bdb84a1",
+    "product": "Samsung",
+    "review_text": "The phone works as expected.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-10T05:34:02.166562"
+  },
+  {
+    "id": "dc897b55-872e-44d8-8722-b0fba80c3d9c",
+    "product": "Oppo",
+    "review_text": "Camera performance is disappointing. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-02-26T05:34:02.166570"
+  },
+  {
+    "id": "6edfe536-ba39-406b-9660-d21b00075f58",
+    "product": "Oppo",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-25T05:34:02.166576"
+  },
+  {
+    "id": "8b74e01a-325f-4d41-92a9-899caf176d3c",
+    "product": "Samsung",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-22T05:34:02.166584"
+  },
+  {
+    "id": "f3a85837-aa09-4835-acdb-ca8be3fa5cfe",
+    "product": "Samsung",
+    "review_text": "Not worth the price. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-20T05:34:02.166590"
+  },
+  {
+    "id": "04adf05f-79b2-45b1-84a4-91756c7ca9fd",
+    "product": "Oppo",
+    "review_text": "The phone works as expected.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-01T05:34:02.166597"
+  },
+  {
+    "id": "7a65f11f-cd96-4358-a12b-71751cc06aac",
+    "product": "OnePlus",
+    "review_text": "The battery life is excellent and lasts all day. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-04T05:34:02.166603"
+  },
+  {
+    "id": "f586d5cc-8488-4dac-be66-b6326b7d8142",
+    "product": "Samsung",
+    "review_text": "Build quality feels premium and solid. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-02-27T05:34:02.166612"
+  },
+  {
+    "id": "f1b81686-9c60-4276-b955-ddaef1f17fbd",
+    "product": "Apple",
+    "review_text": "The phone works as expected.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-22T05:34:02.166618"
+  },
+  {
+    "id": "6f1885aa-25ea-4bcb-85c8-843011a88335",
+    "product": "OnePlus",
+    "review_text": "Build quality feels premium and solid. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-01T05:34:02.166625"
+  },
+  {
+    "id": "465e9ac9-27df-4e2e-bd81-2029ea3749ef",
+    "product": "Oppo",
+    "review_text": "Amazing camera quality, very sharp images. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-09T05:34:02.166631"
+  },
+  {
+    "id": "9b382f17-88ab-441d-8fd9-03181787a1d1",
+    "product": "OnePlus",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-02-28T05:34:02.166637"
+  },
+  {
+    "id": "c3d2d2b8-eb40-496e-a45b-c65b7642a5d6",
+    "product": "OnePlus",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-02T05:34:02.166644"
+  },
+  {
+    "id": "2323d3e9-1d48-4fe7-a6e3-e3685eedfd4f",
+    "product": "Oppo",
+    "review_text": "Build quality feels premium and solid. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-02-26T05:34:02.166651"
+  },
+  {
+    "id": "a72afce4-3f0a-43b9-907f-4c2f8a1b9ba8",
+    "product": "Samsung",
+    "review_text": "Average performance overall.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-01T05:34:02.166657"
+  },
+  {
+    "id": "ea90324d-78a0-4673-bfc0-1ff6d7b6fc80",
+    "product": "OnePlus",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-13T05:34:02.166663"
+  },
+  {
+    "id": "cd42ba5f-0e42-4565-989a-15178e4ad546",
+    "product": "OnePlus",
+    "review_text": "Average performance overall.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-21T05:34:02.166669"
+  },
+  {
+    "id": "57032def-da6e-4d12-bae6-07461dcf93e6",
+    "product": "Oppo",
+    "review_text": "Build quality feels premium and solid. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-02-27T05:34:02.166677"
+  },
+  {
+    "id": "18908270-86ed-479a-b36d-1758e77940ed",
+    "product": "OnePlus",
+    "review_text": "Build quality feels premium and solid. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-16T05:34:02.166683"
+  },
+  {
+    "id": "b8c73d71-cf0c-4892-90d4-ca15cfdcc763",
+    "product": "Oppo",
+    "review_text": "The battery life is excellent and lasts all day. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-02T05:34:02.166690"
+  },
+  {
+    "id": "b55414c0-bcc4-48a6-aa0e-988024293d1c",
+    "product": "Apple",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-22T05:34:02.166697"
+  },
+  {
+    "id": "625f58ee-a25c-481c-b835-220600f6e1dd",
+    "product": "Oppo",
+    "review_text": "The phone works as expected.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-08T05:34:02.166703"
+  },
+  {
+    "id": "8373b076-37eb-4e56-92a1-67ab6b0d7f2a",
+    "product": "Oppo",
+    "review_text": "The phone works as expected.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-20T05:34:02.166709"
+  },
+  {
+    "id": "a1153413-31ea-435d-84c7-1c4f2dd3f86d",
+    "product": "OnePlus",
+    "review_text": "The battery life is excellent and lasts all day. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-24T05:34:02.166716"
+  },
+  {
+    "id": "046a213c-175e-48e8-9cf4-253557ba29ec",
+    "product": "Apple",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-02-25T05:34:02.166722"
+  },
+  {
+    "id": "0cb684fa-2af3-4bb7-a906-638fe1bc696f",
+    "product": "Apple",
+    "review_text": "The phone works as expected.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-07T05:34:02.166730"
+  },
+  {
+    "id": "787f826a-ac7b-4bee-bd95-834fd4d7c628",
+    "product": "Apple",
+    "review_text": "Amazing camera quality, very sharp images. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-02-26T05:34:02.166737"
+  },
+  {
+    "id": "40670ef6-f8cf-4cc0-8550-18db409ed26b",
+    "product": "OnePlus",
+    "review_text": "Build quality feels premium and solid. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-18T05:34:02.166743"
+  },
+  {
+    "id": "a75af6d2-4b59-4a6c-9f5a-b1ac1d80255f",
+    "product": "Apple",
+    "review_text": "The battery life is excellent and lasts all day. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-23T05:34:02.166751"
+  },
+  {
+    "id": "e86c6b63-44e0-4970-85ce-2b7dfc1a0ed7",
+    "product": "OnePlus",
+    "review_text": "Battery drains too quickly. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-22T05:34:02.166757"
+  },
+  {
+    "id": "5d0a5982-b839-4728-acd2-a58fac792be6",
+    "product": "Samsung",
+    "review_text": "Overpriced for the features offered. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-12T05:34:02.166764"
+  },
+  {
+    "id": "bec4be3b-649e-49ea-8a0b-9e7dc65b8c2e",
+    "product": "Apple",
+    "review_text": "Average performance overall.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-01T05:34:02.166770"
+  },
+  {
+    "id": "d955ddb1-a004-4a43-a56c-82f8089220fa",
+    "product": "OnePlus",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-02-27T05:34:02.166776"
+  },
+  {
+    "id": "87950086-fdbe-449e-a64b-3f75abe1c698",
+    "product": "Samsung",
+    "review_text": "Camera performance is disappointing. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-19T05:34:02.166782"
+  },
+  {
+    "id": "783e40af-d61a-4888-a342-efd21ec0a973",
+    "product": "Apple",
+    "review_text": "Battery drains too quickly. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-19T05:34:02.166788"
+  },
+  {
+    "id": "74af1ea9-7d06-4dad-821f-e2ff67ed7f15",
+    "product": "OnePlus",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-19T05:34:02.166794"
+  },
+  {
+    "id": "0cf66fb1-6ded-4a02-99bb-e6ee857ee039",
+    "product": "Apple",
+    "review_text": "Amazing camera quality, very sharp images. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-24T05:34:02.166803"
+  },
+  {
+    "id": "68e3c7c4-b40e-43c4-bca3-743e55ff58e2",
+    "product": "Apple",
+    "review_text": "Smooth performance and fast UI. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-01T05:34:02.166809"
+  },
+  {
+    "id": "464cd5f7-27dd-44b5-a905-21691c1eccec",
+    "product": "Apple",
+    "review_text": "The phone works as expected.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-16T05:34:02.166816"
+  },
+  {
+    "id": "f09d1495-a9a2-4169-94b3-daa1d2db4917",
+    "product": "Oppo",
+    "review_text": "Average performance overall.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-19T05:34:02.166822"
+  },
+  {
+    "id": "2fbb83e5-09df-4cd5-ba41-0988f277be9e",
+    "product": "Oppo",
+    "review_text": "The battery life is excellent and lasts all day. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-10T05:34:02.166828"
+  },
+  {
+    "id": "6b7cef37-f17c-4c98-b764-756e53787e2f",
+    "product": "OnePlus",
+    "review_text": "Overpriced for the features offered. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-02-27T05:34:02.166834"
+  },
+  {
+    "id": "15727a19-a9ff-4257-979b-986951219163",
+    "product": "Apple",
+    "review_text": "Overpriced for the features offered. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-08T05:34:02.166841"
+  },
+  {
+    "id": "347567bc-075c-4f3c-87b4-6120d5831eca",
+    "product": "OnePlus",
+    "review_text": "Average performance overall.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-02-26T05:34:02.166847"
+  },
+  {
+    "id": "a07bcdb6-2ae4-4b0f-91aa-8c1c49ec056f",
+    "product": "Apple",
+    "review_text": "Smooth performance and fast UI. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-15T05:34:02.166854"
+  },
+  {
+    "id": "38a14aee-7763-4970-810d-16717d5c482e",
+    "product": "Apple",
+    "review_text": "Camera performance is disappointing. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-08T05:34:02.166860"
+  },
+  {
+    "id": "9a4b7b92-2067-412a-a232-dbecd924f408",
+    "product": "Samsung",
+    "review_text": "The battery life is excellent and lasts all day. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-02-28T05:34:02.166866"
+  },
+  {
+    "id": "a428f488-0b02-4597-8bdf-ec2ea9053b9f",
+    "product": "Oppo",
+    "review_text": "Battery drains too quickly. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-16T05:34:02.166874"
+  },
+  {
+    "id": "b68d47d7-b60b-40ff-9ddd-1f8c9539442c",
+    "product": "OnePlus",
+    "review_text": "The battery life is excellent and lasts all day. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-02-24T05:34:02.166882"
+  },
+  {
+    "id": "95ae12dc-a350-43bb-b17d-2e23e82edbc3",
+    "product": "Oppo",
+    "review_text": "Great value for money, highly recommend. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-02-26T05:34:02.166888"
+  },
+  {
+    "id": "d00a34f1-9381-41e4-bc3e-d5e412e1f0fc",
+    "product": "Apple",
+    "review_text": "Standard features, nothing new.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-01T05:34:02.166895"
+  },
+  {
+    "id": "1aec3678-6952-4754-8e5f-0e61f610861e",
+    "product": "OnePlus",
+    "review_text": "Camera performance is disappointing. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-02-27T05:34:02.166901"
+  },
+  {
+    "id": "7e2cd06f-d6e3-4d0d-a9df-64680a176f32",
+    "product": "OnePlus",
+    "review_text": "Build quality feels premium and solid. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-10T05:34:02.166907"
+  },
+  {
+    "id": "7d93b9aa-b3e4-42bb-beb5-6b0019fad529",
+    "product": "Samsung",
+    "review_text": "Standard features, nothing new.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-05T05:34:02.166914"
+  },
+  {
+    "id": "c5342009-92a5-4dce-8487-12713a604641",
+    "product": "Samsung",
+    "review_text": "Great value for money, highly recommend. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-08T05:34:02.166920"
+  },
+  {
+    "id": "e0092072-13ac-4154-bcd0-28918e2bf63e",
+    "product": "OnePlus",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-05T05:34:02.166926"
+  },
+  {
+    "id": "0fc5cc03-0b87-4801-9e1c-412d8a779a4f",
+    "product": "Apple",
+    "review_text": "Great value for money, highly recommend. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-03T05:34:02.166934"
+  },
+  {
+    "id": "d148fec4-c613-416d-8cdc-a5b12a78c2c2",
+    "product": "Samsung",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-02-25T05:34:02.166940"
+  },
+  {
+    "id": "c8ff5c80-3800-4749-a825-ffb67ceaacf6",
+    "product": "Samsung",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-02T05:34:02.166946"
+  },
+  {
+    "id": "294d09e6-a5a5-4012-adc3-50fcf4d3536d",
+    "product": "Samsung",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-15T05:34:02.166953"
+  },
+  {
+    "id": "53a17f97-235f-4b1a-aec3-0468956e4559",
+    "product": "Samsung",
+    "review_text": "Not worth the price. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-03T05:34:02.166959"
+  },
+  {
+    "id": "f49764c4-379c-46fb-8848-c6248eaf68f0",
+    "product": "Oppo",
+    "review_text": "Camera performance is disappointing. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-07T05:34:02.166965"
+  },
+  {
+    "id": "c3d7f649-2247-4ea4-8b3d-ab122d4cee0b",
+    "product": "OnePlus",
+    "review_text": "Great value for money, highly recommend. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-13T05:34:02.166972"
+  },
+  {
+    "id": "90718fd4-a3ae-4122-bf6e-2417dfb05990",
+    "product": "Samsung",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-06T05:34:02.166978"
+  },
+  {
+    "id": "ab915fd6-b16c-4b86-bef0-f6dfbe1b3dc4",
+    "product": "Apple",
+    "review_text": "Standard features, nothing new.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-07T05:34:02.166984"
+  },
+  {
+    "id": "8270daf5-9a16-4a4d-b928-ce0bcb8eb179",
+    "product": "Apple",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-24T05:34:02.166990"
+  },
+  {
+    "id": "88143f31-32ce-41d5-8695-2a3fa3092c73",
+    "product": "Oppo",
+    "review_text": "The phone works as expected.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-08T05:34:02.166996"
+  },
+  {
+    "id": "1ddb16c0-62b7-4004-901c-b974dde8da9c",
+    "product": "Oppo",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-01T05:34:02.167002"
+  },
+  {
+    "id": "a3f85d9b-823f-4c7b-ab20-9681acb328df",
+    "product": "Oppo",
+    "review_text": "Overpriced for the features offered. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-06T05:34:02.167009"
+  },
+  {
+    "id": "bb2ffb40-70eb-450c-8e25-04410b0a77b0",
+    "product": "Samsung",
+    "review_text": "The battery life is excellent and lasts all day. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-20T05:34:02.167016"
+  },
+  {
+    "id": "2f0bb91e-7a52-4757-a351-c10c12d3cda8",
+    "product": "Oppo",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-02-28T05:34:02.167023"
+  },
+  {
+    "id": "eccfacf6-ae71-479f-b7eb-3291b35de178",
+    "product": "Apple",
+    "review_text": "Battery drains too quickly. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-21T05:34:02.167030"
+  },
+  {
+    "id": "b2d43f4c-e572-48d2-be90-c1e9da883210",
+    "product": "OnePlus",
+    "review_text": "Battery drains too quickly. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-04T05:34:02.167036"
+  },
+  {
+    "id": "df186d6e-e87b-4488-a130-24d9b44ae075",
+    "product": "OnePlus",
+    "review_text": "The phone works as expected.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-12T05:34:02.167042"
+  },
+  {
+    "id": "cbe665e7-6cde-4137-b92b-4f818c923cee",
+    "product": "Samsung",
+    "review_text": "Amazing camera quality, very sharp images. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-09T05:34:02.167049"
+  },
+  {
+    "id": "e0dba15c-137d-489d-bbdf-3edd2c3ccbd1",
+    "product": "OnePlus",
+    "review_text": "Great value for money, highly recommend. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-07T05:34:02.167057"
+  },
+  {
+    "id": "35bfa84a-13ab-41ea-9507-dea8c2b51f4e",
+    "product": "Apple",
+    "review_text": "Average performance overall.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-08T05:34:02.167063"
+  },
+  {
+    "id": "d69e2d5b-3c78-44cf-ad56-fca78025708f",
+    "product": "Samsung",
+    "review_text": "Not worth the price. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-02-27T05:34:02.167070"
+  },
+  {
+    "id": "7f7037cd-c9bd-4795-a2fd-836f7567cc13",
+    "product": "Apple",
+    "review_text": "Great value for money, highly recommend. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-25T05:34:02.167076"
+  },
+  {
+    "id": "b1ecd14e-c99a-4226-ba80-e70d6d82fcb4",
+    "product": "OnePlus",
+    "review_text": "Standard features, nothing new.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-02T05:34:02.167082"
+  },
+  {
+    "id": "ecae92ed-3b23-42d9-bc1b-6d3862883eb2",
+    "product": "OnePlus",
+    "review_text": "Amazing camera quality, very sharp images. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-11T05:34:02.167089"
+  },
+  {
+    "id": "7400bce9-fdae-4a64-aa6b-acbc75ff08d3",
+    "product": "Apple",
+    "review_text": "Smooth performance and fast UI. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-16T05:34:02.167095"
+  },
+  {
+    "id": "9576b353-ed95-4c16-b5dc-688cbeb3a618",
+    "product": "Apple",
+    "review_text": "The phone works as expected.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-11T05:34:02.167102"
+  },
+  {
+    "id": "86787723-53b3-4c9a-b39d-e449588d07f6",
+    "product": "OnePlus",
+    "review_text": "Smooth performance and fast UI. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-16T05:34:02.167108"
+  },
+  {
+    "id": "6ab073f8-9507-409e-a831-8c98ccba4ae0",
+    "product": "OnePlus",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-04T05:34:02.167114"
+  },
+  {
+    "id": "4ebc9153-86e8-4b2e-8503-4379b4d41609",
+    "product": "Samsung",
+    "review_text": "Camera performance is disappointing. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-02-28T05:34:02.167120"
+  },
+  {
+    "id": "35a4c948-cc99-4ce6-90d6-7963e1cdbf31",
+    "product": "OnePlus",
+    "review_text": "The phone works as expected.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-04T05:34:02.167127"
+  },
+  {
+    "id": "3ddb59d6-edd0-42fb-b144-72b679ff752b",
+    "product": "Samsung",
+    "review_text": "Overpriced for the features offered. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-14T05:34:02.167133"
+  },
+  {
+    "id": "7dcae731-cd46-4542-ab58-a664c1e7df8e",
+    "product": "Oppo",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-07T05:34:02.167139"
+  },
+  {
+    "id": "12a4ddde-c7a8-4305-96ee-e76833d19a89",
+    "product": "Samsung",
+    "review_text": "Not worth the price. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-09T05:34:02.167145"
+  },
+  {
+    "id": "446d1408-860a-4e72-9fc4-e8a43e05d3ab",
+    "product": "Oppo",
+    "review_text": "The battery life is excellent and lasts all day. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-17T05:34:02.167152"
+  },
+  {
+    "id": "554d261d-3f50-454d-805c-d121c6bfa8b2",
+    "product": "OnePlus",
+    "review_text": "Great value for money, highly recommend. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-23T05:34:02.167161"
+  },
+  {
+    "id": "38409278-e5bf-48c8-873e-e53dac8f159a",
+    "product": "OnePlus",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-23T05:34:02.167167"
+  },
+  {
+    "id": "5c3fcc17-fd1b-4d9e-aece-e001975d3537",
+    "product": "Samsung",
+    "review_text": "Amazing camera quality, very sharp images. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-10T05:34:02.167174"
+  },
+  {
+    "id": "2637173e-b7dd-4fed-a452-f45e065500f9",
+    "product": "Oppo",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-18T05:34:02.167180"
+  },
+  {
+    "id": "d26c8535-81a2-4385-8f35-e28c41f310a2",
+    "product": "Apple",
+    "review_text": "Average performance overall.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-21T05:34:02.167188"
+  },
+  {
+    "id": "fbbbbaef-a404-495c-a4eb-facb28f4e700",
+    "product": "Oppo",
+    "review_text": "Camera performance is disappointing. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-21T05:34:02.167194"
+  },
+  {
+    "id": "75696f76-aa80-4655-9909-e4fd86436e85",
+    "product": "Samsung",
+    "review_text": "Camera performance is disappointing. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-15T05:34:02.167200"
+  },
+  {
+    "id": "b2d130dc-f47c-4585-a06b-dfac169fae80",
+    "product": "Samsung",
+    "review_text": "Overpriced for the features offered. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-22T05:34:02.167206"
+  },
+  {
+    "id": "b1891032-c644-460a-8160-d6a7e47934e1",
+    "product": "Apple",
+    "review_text": "Standard features, nothing new.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-04T05:34:02.167218"
+  },
+  {
+    "id": "b6523a38-7e06-40b2-a7c9-037f3136950d",
+    "product": "Apple",
+    "review_text": "Camera performance is disappointing. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-06T05:34:02.167225"
+  },
+  {
+    "id": "e2ce74cf-57a9-44f8-bf1e-3eae5625ccf9",
+    "product": "Apple",
+    "review_text": "Average performance overall.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-22T05:34:02.167231"
+  },
+  {
+    "id": "4c508642-5853-4190-b4fd-96cf2e5bd3da",
+    "product": "Samsung",
+    "review_text": "The battery life is excellent and lasts all day. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-02T05:34:02.167238"
+  },
+  {
+    "id": "d271f579-8b5a-434d-9e5a-44cf6ec5a2fa",
+    "product": "OnePlus",
+    "review_text": "Build quality feels premium and solid. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-06T05:34:02.167244"
+  },
+  {
+    "id": "ef635866-dafb-4828-b878-de37093c8d2c",
+    "product": "Apple",
+    "review_text": "Camera performance is disappointing. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-12T05:34:02.167250"
+  },
+  {
+    "id": "39052f46-e810-42e5-bf81-4e7e47dc57a9",
+    "product": "Oppo",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-13T05:34:02.167256"
+  },
+  {
+    "id": "b34feac9-f723-4d87-b70b-d4272f5d431e",
+    "product": "Oppo",
+    "review_text": "Great value for money, highly recommend. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-08T05:34:02.167263"
+  },
+  {
+    "id": "6b803db7-5a2a-4eb8-9d5e-1c3e5de4e68e",
+    "product": "Apple",
+    "review_text": "Standard features, nothing new.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-16T05:34:02.167269"
+  },
+  {
+    "id": "c9120dba-9933-4d6a-9279-d464292d5742",
+    "product": "OnePlus",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-03T05:34:02.167276"
+  },
+  {
+    "id": "865a7ad9-fd02-4709-80ab-ae6427cc68b6",
+    "product": "Oppo",
+    "review_text": "Not worth the price. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-02-24T05:34:02.167281"
+  },
+  {
+    "id": "fe62d89c-82a8-4a1f-b19e-bc77f3ef6f1f",
+    "product": "Oppo",
+    "review_text": "Not worth the price. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-15T05:34:02.167288"
+  },
+  {
+    "id": "9eaddb7b-c8f9-49c1-a962-057d9cb9dec9",
+    "product": "OnePlus",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-08T05:34:02.167294"
+  },
+  {
+    "id": "38caf5c5-d3d7-4a42-a71f-6252f2e6f734",
+    "product": "Oppo",
+    "review_text": "Average performance overall.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-09T05:34:02.167300"
+  },
+  {
+    "id": "73d64803-f3d6-4fbe-9c7f-818661a19e2e",
+    "product": "Samsung",
+    "review_text": "The phone works as expected.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-11T05:34:02.167311"
+  },
+  {
+    "id": "22b19621-ce5d-472c-b190-7efdec670225",
+    "product": "OnePlus",
+    "review_text": "Not worth the price. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-02T05:34:02.167319"
+  },
+  {
+    "id": "2f9d4e5c-444f-44e7-9bdf-138c20d4575e",
+    "product": "Apple",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-06T05:34:02.167325"
+  },
+  {
+    "id": "22089416-6fb9-49bc-9078-83329e240384",
+    "product": "OnePlus",
+    "review_text": "Overpriced for the features offered. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-20T05:34:02.167331"
+  },
+  {
+    "id": "c598a3f5-da1f-4fbc-be29-f98b85f10845",
+    "product": "Oppo",
+    "review_text": "Average performance overall.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-03T05:34:02.167337"
+  },
+  {
+    "id": "ce7abc3f-a07b-48e9-8509-ed419104eae4",
+    "product": "OnePlus",
+    "review_text": "Great value for money, highly recommend. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-02-28T05:34:02.167344"
+  },
+  {
+    "id": "66f0a965-b649-47aa-85c5-bf2bb9045d70",
+    "product": "Samsung",
+    "review_text": "Camera performance is disappointing. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-01T05:34:02.167351"
+  },
+  {
+    "id": "069db9c0-8183-4c98-a8c7-e803841d16f5",
+    "product": "OnePlus",
+    "review_text": "Camera performance is disappointing. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-03T05:34:02.167357"
+  },
+  {
+    "id": "aee86aa9-9144-4584-9133-ec6b5e76b569",
+    "product": "Samsung",
+    "review_text": "Smooth performance and fast UI. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-18T05:34:02.167363"
+  },
+  {
+    "id": "39a7b46f-e45f-4a5f-bde4-3fac145ab809",
+    "product": "Samsung",
+    "review_text": "Standard features, nothing new.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-05T05:34:02.167369"
+  },
+  {
+    "id": "a6b5b630-2588-4eec-b7e1-d32400717bc4",
+    "product": "OnePlus",
+    "review_text": "The battery life is excellent and lasts all day. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-01T05:34:02.167375"
+  },
+  {
+    "id": "05b82d39-09bc-4124-b91e-67b0612395ad",
+    "product": "Apple",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-22T05:34:02.167381"
+  },
+  {
+    "id": "3d9d83e2-bdc7-4ebc-b626-0dbfbeb8b0ef",
+    "product": "Apple",
+    "review_text": "Battery drains too quickly. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-09T05:34:02.167387"
+  },
+  {
+    "id": "b841e1d6-06ad-4a62-a5e6-d8461c644dc8",
+    "product": "Apple",
+    "review_text": "The phone works as expected.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-07T05:34:02.167393"
+  },
+  {
+    "id": "d2863833-5f24-48b2-934b-a0b5f557af29",
+    "product": "Apple",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-17T05:34:02.167401"
+  },
+  {
+    "id": "31384f7c-337f-4334-a907-c47867c94d80",
+    "product": "Samsung",
+    "review_text": "Smooth performance and fast UI. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-10T05:34:02.167410"
+  },
+  {
+    "id": "955a47aa-a359-474b-aa95-ff06eab170d8",
+    "product": "Apple",
+    "review_text": "Not worth the price. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-22T05:34:02.167421"
+  },
+  {
+    "id": "8961be48-98fb-445c-b257-72a28d919a89",
+    "product": "Apple",
+    "review_text": "Standard features, nothing new.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-01T05:34:02.167430"
+  },
+  {
+    "id": "d39bf3aa-9cfb-42e6-9744-e791c5aae8a4",
+    "product": "OnePlus",
+    "review_text": "Build quality feels premium and solid. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-09T05:34:02.167438"
+  },
+  {
+    "id": "9272b694-b4a0-4d0a-8f3a-56ce466fb342",
+    "product": "Apple",
+    "review_text": "Smooth performance and fast UI. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-17T05:34:02.167448"
+  },
+  {
+    "id": "01b21229-3333-4acc-85b3-f1037ea3fd22",
+    "product": "Apple",
+    "review_text": "Camera performance is disappointing. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-13T05:34:02.167455"
+  },
+  {
+    "id": "3c27bb85-3b94-4c0a-b49a-18464d80425a",
+    "product": "OnePlus",
+    "review_text": "Battery drains too quickly. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-26T05:34:02.167462"
+  },
+  {
+    "id": "b2ad1b76-b282-4fc0-9fad-10a9a64b3e16",
+    "product": "Apple",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-25T05:34:02.167469"
+  },
+  {
+    "id": "bd88fc7f-7bc3-44dd-a5b3-e5d80a029ff0",
+    "product": "Samsung",
+    "review_text": "Build quality feels premium and solid. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-20T05:34:02.167477"
+  },
+  {
+    "id": "6344673c-0580-445d-8d77-8ea32000b231",
+    "product": "Oppo",
+    "review_text": "Smooth performance and fast UI. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-02-24T05:34:02.167484"
+  },
+  {
+    "id": "4318fcbd-1468-4139-b647-e6185cab459b",
+    "product": "Oppo",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-12T05:34:02.167490"
+  },
+  {
+    "id": "e70f9dfb-a171-4c6f-b1c7-e22a6feb3f13",
+    "product": "Oppo",
+    "review_text": "Build quality feels premium and solid. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-22T05:34:02.167498"
+  },
+  {
+    "id": "2a21e624-d12b-41c5-8968-17b234ba3a88",
+    "product": "Oppo",
+    "review_text": "Overpriced for the features offered. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-01T05:34:02.167558"
+  },
+  {
+    "id": "ae9be2fa-bc5f-49de-9833-370157551dd9",
+    "product": "Oppo",
+    "review_text": "Smooth performance and fast UI. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-02-27T05:34:02.167565"
+  },
+  {
+    "id": "6c6ebdce-ecd4-4140-a569-b994d11684ad",
+    "product": "Samsung",
+    "review_text": "Amazing camera quality, very sharp images. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-23T05:34:02.167572"
+  },
+  {
+    "id": "67288436-409c-4442-b0e5-fd1bc07699d5",
+    "product": "OnePlus",
+    "review_text": "Battery drains too quickly. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-15T05:34:02.167580"
+  },
+  {
+    "id": "01667c1c-08d1-451b-82ff-47d6724b998e",
+    "product": "OnePlus",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-03T05:34:02.167587"
+  },
+  {
+    "id": "307120bb-34dd-4c3b-81a1-356a4451904a",
+    "product": "OnePlus",
+    "review_text": "Not worth the price. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-15T05:34:02.167593"
+  },
+  {
+    "id": "fdc2f5d0-1085-472a-a0dd-eaa54e43a906",
+    "product": "OnePlus",
+    "review_text": "Amazing camera quality, very sharp images. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-24T05:34:02.167599"
+  },
+  {
+    "id": "b48457da-7d48-41c3-b9a8-cefdf551bd40",
+    "product": "Samsung",
+    "review_text": "Amazing camera quality, very sharp images. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-11T05:34:02.167606"
+  },
+  {
+    "id": "923a3003-b711-498a-9703-2aeb51a3b4c1",
+    "product": "Samsung",
+    "review_text": "Standard features, nothing new.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-15T05:34:02.167612"
+  },
+  {
+    "id": "8c86549e-30d7-459d-af54-211ad6d17f9c",
+    "product": "OnePlus",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-22T05:34:02.167617"
+  },
+  {
+    "id": "2dd0d478-ba6f-4f50-9ab1-1153e800000b",
+    "product": "Apple",
+    "review_text": "Build quality feels premium and solid. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-10T05:34:02.167624"
+  },
+  {
+    "id": "9b8dc152-4dee-411f-a8cc-eba005430c59",
+    "product": "Apple",
+    "review_text": "Great value for money, highly recommend. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-20T05:34:02.167630"
+  },
+  {
+    "id": "38f16929-82c2-4972-8955-bbe224988d2d",
+    "product": "Samsung",
+    "review_text": "Great value for money, highly recommend. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-02-25T05:34:02.167636"
+  },
+  {
+    "id": "4aafa8a1-7303-483b-9db6-9f06fc365c07",
+    "product": "Oppo",
+    "review_text": "Camera performance is disappointing. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-09T05:34:02.167642"
+  },
+  {
+    "id": "b95242d2-3e09-4e88-a151-8c6889a29acc",
+    "product": "Apple",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-01T05:34:02.167649"
+  },
+  {
+    "id": "2f6ebbd3-5b57-45cb-8a0b-3bdd7818162a",
+    "product": "Samsung",
+    "review_text": "Battery drains too quickly. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-03T05:34:02.167655"
+  },
+  {
+    "id": "3ad2e002-6439-4583-bb53-c34a29e02462",
+    "product": "Oppo",
+    "review_text": "Build quality feels premium and solid. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-04T05:34:02.167662"
+  },
+  {
+    "id": "d47e7e06-76e1-4eb9-9f51-ae4f78ac0976",
+    "product": "OnePlus",
+    "review_text": "Build quality feels premium and solid. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-09T05:34:02.167668"
+  },
+  {
+    "id": "05906b5b-3539-40ce-aa8e-ab29459c940f",
+    "product": "OnePlus",
+    "review_text": "Not worth the price. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-04T05:34:02.167674"
+  },
+  {
+    "id": "e4959f02-b315-469a-b183-17ea2a21d766",
+    "product": "Samsung",
+    "review_text": "Not worth the price. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-24T05:34:02.167680"
+  },
+  {
+    "id": "89352a0c-5991-4134-b2a5-05092bcb65b3",
+    "product": "Oppo",
+    "review_text": "Amazing camera quality, very sharp images. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-17T05:34:02.167687"
+  },
+  {
+    "id": "6f55b294-b8ed-4c29-bda9-8710b710342a",
+    "product": "OnePlus",
+    "review_text": "Smooth performance and fast UI. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-07T05:34:02.167694"
+  },
+  {
+    "id": "faa13a74-f826-4c87-9a3a-316e45ecc0ba",
+    "product": "Samsung",
+    "review_text": "Great value for money, highly recommend. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-06T05:34:02.167700"
+  },
+  {
+    "id": "7f654468-f7b3-44ec-8943-9ff0ac3196bb",
+    "product": "Apple",
+    "review_text": "Camera performance is disappointing. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-14T05:34:02.167706"
+  },
+  {
+    "id": "9a66511c-efea-416d-a7d4-7028de567075",
+    "product": "Oppo",
+    "review_text": "Average performance overall.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-19T05:34:02.167712"
+  },
+  {
+    "id": "8b6b8925-50ff-42e2-beab-59d4d3636868",
+    "product": "Oppo",
+    "review_text": "Standard features, nothing new.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-02T05:34:02.167718"
+  },
+  {
+    "id": "082a800b-d81f-47b8-b447-e3bc32fe5f7e",
+    "product": "Oppo",
+    "review_text": "Amazing camera quality, very sharp images. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-02-26T05:34:02.167726"
+  },
+  {
+    "id": "4ab91d55-e6a0-46b0-a1f4-4fdb6926fe3f",
+    "product": "OnePlus",
+    "review_text": "Standard features, nothing new.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-19T05:34:02.167733"
+  },
+  {
+    "id": "2d10c8ab-46f1-45fd-bf99-3446bc249d80",
+    "product": "Apple",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-07T05:34:02.167739"
+  },
+  {
+    "id": "dbda442c-6241-4008-a19b-9d48e4199e05",
+    "product": "Apple",
+    "review_text": "Not worth the price. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-18T05:34:02.167745"
+  },
+  {
+    "id": "06447093-1510-4542-9d92-f3c65419100a",
+    "product": "Oppo",
+    "review_text": "Amazing camera quality, very sharp images. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-02-27T05:34:02.167751"
+  },
+  {
+    "id": "05ed1bc3-d6c4-429d-87e8-92959c019268",
+    "product": "Apple",
+    "review_text": "Camera performance is disappointing. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-19T05:34:02.167758"
+  },
+  {
+    "id": "0957c0ef-c559-4345-a061-3f44b746a349",
+    "product": "OnePlus",
+    "review_text": "Smooth performance and fast UI. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-06T05:34:02.167764"
+  },
+  {
+    "id": "c502d1b1-ab53-43d7-8211-7f3e4ca952da",
+    "product": "Samsung",
+    "review_text": "Battery drains too quickly. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-12T05:34:02.167770"
+  },
+  {
+    "id": "ed611731-f499-4be1-a33b-a686f731b04e",
+    "product": "Apple",
+    "review_text": "Build quality feels premium and solid. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-18T05:34:02.167777"
+  },
+  {
+    "id": "b9ffa535-a538-4113-b14b-aa1b803e71ce",
+    "product": "Samsung",
+    "review_text": "Average performance overall.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-08T05:34:02.167784"
+  },
+  {
+    "id": "d9a6fe35-126f-4e96-817e-5e9d298750c5",
+    "product": "OnePlus",
+    "review_text": "Battery drains too quickly. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-05T05:34:02.167790"
+  },
+  {
+    "id": "1b39cd00-5378-4935-92d9-8219ae6fea46",
+    "product": "Oppo",
+    "review_text": "Not worth the price. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-26T05:34:02.167796"
+  },
+  {
+    "id": "4f486858-d367-4eb1-aa24-d2a30c204d34",
+    "product": "OnePlus",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-26T05:34:02.167802"
+  },
+  {
+    "id": "ed9e1fd9-b63b-4528-88c4-60a11a3e108e",
+    "product": "Apple",
+    "review_text": "Smooth performance and fast UI. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-02-28T05:34:02.167808"
+  },
+  {
+    "id": "ea91a76d-d218-4228-8e92-a8f0a2a89cdb",
+    "product": "Apple",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-10T05:34:02.167815"
+  },
+  {
+    "id": "27059b2a-a930-4955-a176-88b018a60a59",
+    "product": "Oppo",
+    "review_text": "Amazing camera quality, very sharp images. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-01T05:34:02.167822"
+  },
+  {
+    "id": "d2e7ad1b-8a8c-4850-9d12-a9c0aadd54ee",
+    "product": "Samsung",
+    "review_text": "Camera performance is disappointing. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-12T05:34:02.167828"
+  },
+  {
+    "id": "f3f3b998-9d3d-44ab-be7f-8e7f988d14c2",
+    "product": "Samsung",
+    "review_text": "Great value for money, highly recommend. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-18T05:34:02.167835"
+  },
+  {
+    "id": "d79699b0-1352-4c82-91c4-f6dd8c858b98",
+    "product": "Samsung",
+    "review_text": "Build quality feels premium and solid. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-17T05:34:02.167841"
+  },
+  {
+    "id": "5d3fb758-0742-49bc-b9a4-ac25f0881c58",
+    "product": "OnePlus",
+    "review_text": "Great value for money, highly recommend. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-17T05:34:02.167848"
+  },
+  {
+    "id": "3eaf8bc3-1595-4bdf-9941-65f84e6574f9",
+    "product": "Oppo",
+    "review_text": "Great value for money, highly recommend. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-02-28T05:34:02.167854"
+  },
+  {
+    "id": "d0c74b60-3ee3-42a8-b60e-2be505ebef68",
+    "product": "Oppo",
+    "review_text": "Great value for money, highly recommend. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-25T05:34:02.167861"
+  },
+  {
+    "id": "f0ceb232-8277-4c74-94d9-e37c68841dc5",
+    "product": "Oppo",
+    "review_text": "Smooth performance and fast UI. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-08T05:34:02.167868"
+  },
+  {
+    "id": "cd9afe51-b6c4-4caf-a1f3-c049e11c42eb",
+    "product": "Oppo",
+    "review_text": "Standard features, nothing new.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-24T05:34:02.167874"
+  },
+  {
+    "id": "f35f536d-fe4a-4f5f-9860-7abd0c54a5e0",
+    "product": "Samsung",
+    "review_text": "Not worth the price. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-17T05:34:02.167880"
+  },
+  {
+    "id": "ed686ab7-cbe1-4b30-b83e-8c0de2658ac6",
+    "product": "Oppo",
+    "review_text": "Overpriced for the features offered. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-04T05:34:02.167886"
+  },
+  {
+    "id": "5e2eecfd-9eff-448c-8bf7-60bd6eba43e0",
+    "product": "Samsung",
+    "review_text": "Overpriced for the features offered. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-22T05:34:02.167892"
+  },
+  {
+    "id": "89651f9f-72ab-4a9f-b774-43e4674ec988",
+    "product": "Samsung",
+    "review_text": "The phone works as expected.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-02-28T05:34:02.167899"
+  },
+  {
+    "id": "3d76b29a-9a83-4a89-9b4a-acc900e98c4a",
+    "product": "Oppo",
+    "review_text": "Amazing camera quality, very sharp images. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-02T05:34:02.167906"
+  },
+  {
+    "id": "3c27c9b0-fb67-4ce5-94ed-63c2d79ede75",
+    "product": "Samsung",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-08T05:34:02.167912"
+  },
+  {
+    "id": "77c479a8-ca22-4531-b467-579a0f8d36f6",
+    "product": "Samsung",
+    "review_text": "Battery drains too quickly. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-07T05:34:02.167918"
+  },
+  {
+    "id": "7926db03-fa3d-4171-a4d7-309aab2ae090",
+    "product": "OnePlus",
+    "review_text": "Amazing camera quality, very sharp images. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-20T05:34:02.167924"
+  },
+  {
+    "id": "657b7a74-bb5d-4e2c-980a-8e578231654f",
+    "product": "Samsung",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-02-25T05:34:02.167930"
+  },
+  {
+    "id": "e91c013f-7e1b-4977-b503-04e87c89d533",
+    "product": "Apple",
+    "review_text": "Great value for money, highly recommend. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-18T05:34:02.167936"
+  },
+  {
+    "id": "c1e1f652-a792-40ea-ad59-25278e295ea7",
+    "product": "Apple",
+    "review_text": "Battery drains too quickly. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-02-28T05:34:02.167942"
+  },
+  {
+    "id": "4821acb9-0898-484f-9495-af423b948fcd",
+    "product": "OnePlus",
+    "review_text": "The phone works as expected.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-02-24T05:34:02.167948"
+  },
+  {
+    "id": "380a41a9-0ac3-4bd4-a9ef-d542e119152b",
+    "product": "Apple",
+    "review_text": "Amazing camera quality, very sharp images. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-22T05:34:02.167956"
+  },
+  {
+    "id": "f15f173a-7a8f-42cc-9691-b955d8282b93",
+    "product": "Oppo",
+    "review_text": "Build quality feels premium and solid. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-22T05:34:02.167963"
+  },
+  {
+    "id": "ae3b70ca-584a-45fa-b4b9-52f03b9bc8a7",
+    "product": "Samsung",
+    "review_text": "Build quality feels premium and solid. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-02-28T05:34:02.167970"
+  },
+  {
+    "id": "4dcc1a5f-d4cf-456b-8180-a5ab4f84b3b2",
+    "product": "Oppo",
+    "review_text": "Overpriced for the features offered. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-20T05:34:02.167976"
+  },
+  {
+    "id": "75cd9779-3979-497e-acb8-d79454624199",
+    "product": "OnePlus",
+    "review_text": "The phone works as expected.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-16T05:34:02.167983"
+  },
+  {
+    "id": "6f4e9944-db64-491f-bf05-2f6d0d4faf95",
+    "product": "Apple",
+    "review_text": "Build quality feels premium and solid. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-21T05:34:02.167990"
+  },
+  {
+    "id": "5a5be197-4b41-442b-86bc-f0271bb72159",
+    "product": "Apple",
+    "review_text": "The battery life is excellent and lasts all day. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-04T05:34:02.167996"
+  },
+  {
+    "id": "710316f2-b43a-4e75-b5c6-e23fcfbd2fc9",
+    "product": "Samsung",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-21T05:34:02.168002"
+  },
+  {
+    "id": "9131aceb-4641-4b66-9bc6-d51520bdea99",
+    "product": "Samsung",
+    "review_text": "The battery life is excellent and lasts all day. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-02-24T05:34:02.168009"
+  },
+  {
+    "id": "99ff75e8-2a64-414b-9c64-1dfcd57e505a",
+    "product": "Apple",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-05T05:34:02.168015"
+  },
+  {
+    "id": "7355344b-6a80-40bf-8335-000b5ff9cf64",
+    "product": "Samsung",
+    "review_text": "Great value for money, highly recommend. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-03T05:34:02.168021"
+  },
+  {
+    "id": "64970e7f-903c-42b8-98c0-8a0c070018e9",
+    "product": "OnePlus",
+    "review_text": "Average performance overall.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-14T05:34:02.168030"
+  },
+  {
+    "id": "6024b394-6a54-4f8f-aa2d-d123ec4b198f",
+    "product": "Apple",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-02-24T05:34:02.168036"
+  },
+  {
+    "id": "7bd35de7-6008-48b2-a8b6-b3a9b6861a22",
+    "product": "Oppo",
+    "review_text": "Average performance overall.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-02-24T05:34:02.168042"
+  },
+  {
+    "id": "07759ddb-64f1-4943-abb8-8e9361ef01ad",
+    "product": "OnePlus",
+    "review_text": "The phone works as expected.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-21T05:34:02.168048"
+  },
+  {
+    "id": "9d84e4e2-8849-4587-a0f9-e0417aa39892",
+    "product": "Oppo",
+    "review_text": "Average performance overall.",
+    "rating": 3,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-02-28T05:34:02.168054"
+  },
+  {
+    "id": "bec65445-6620-4ec2-8136-d0d5ab7228bd",
+    "product": "Samsung",
+    "review_text": "Great value for money, highly recommend. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-17T05:34:02.168061"
+  },
+  {
+    "id": "decd6142-63e9-4c37-96ce-4aacc4d28b6e",
+    "product": "Apple",
+    "review_text": "Nothing exceptional but decent.",
+    "rating": 2,
+    "sentiment_label": "neutral",
+    "timestamp": "2026-03-03T05:34:02.168067"
+  },
+  {
+    "id": "791d0fac-4514-4be0-bd4b-bbbb9733e005",
+    "product": "Apple",
+    "review_text": "Camera performance is disappointing. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-12T05:34:02.168073"
+  },
+  {
+    "id": "bc9d386d-b3e8-45d2-ac66-1ab43b373201",
+    "product": "OnePlus",
+    "review_text": "Great value for money, highly recommend. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-02-25T05:34:02.168079"
+  },
+  {
+    "id": "b0b97306-8462-4372-9c42-873e64c3fd7c",
+    "product": "Samsung",
+    "review_text": "Camera performance is disappointing. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-02-25T05:34:02.168085"
+  },
+  {
+    "id": "201192ca-2e4f-416c-b134-31cbd96d12b1",
+    "product": "Apple",
+    "review_text": "Camera performance is disappointing. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-23T05:34:02.168091"
+  },
+  {
+    "id": "060d1ef9-9670-4473-b50e-c9cb15a41356",
+    "product": "Samsung",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-02-25T05:34:02.168097"
+  },
+  {
+    "id": "34bf2879-ae70-4b01-a145-f8207108e649",
+    "product": "Samsung",
+    "review_text": "Smooth performance and fast UI. I really like this device.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-01T05:34:02.168104"
+  },
+  {
+    "id": "14fa7a2b-199d-45da-9016-e21e90fdd882",
+    "product": "Samsung",
+    "review_text": "UI is laggy and slow sometimes. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-18T05:34:02.168110"
+  },
+  {
+    "id": "d09aae49-ba9c-456c-a100-b64a00aa7801",
+    "product": "Oppo",
+    "review_text": "Smooth performance and fast UI. I really like this phone.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-11T05:34:02.168116"
+  },
+  {
+    "id": "fc4e0129-d638-424e-b177-b35203e2d0a0",
+    "product": "Oppo",
+    "review_text": "Build quality feels premium and solid. I really like this phone.",
+    "rating": 5,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-04T05:34:02.168125"
+  },
+  {
+    "id": "fa13f786-27c3-43d1-9232-d16400f07673",
+    "product": "Samsung",
+    "review_text": "Not worth the price. I regret buying this.",
+    "rating": 2,
+    "sentiment_label": "negative",
+    "timestamp": "2026-02-25T05:34:02.168131"
+  },
+  {
+    "id": "2059fbb0-acf6-45d0-a2b8-5faadb5609c9",
+    "product": "Apple",
+    "review_text": "Amazing camera quality, very sharp images. I really like this device.",
+    "rating": 4,
+    "sentiment_label": "positive",
+    "timestamp": "2026-03-26T05:34:02.168137"
+  },
+  {
+    "id": "1538b74e-477c-4b9e-b7a1-d5e38d8b9ca5",
+    "product": "OnePlus",
+    "review_text": "Overpriced for the features offered. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-22T05:34:02.168143"
+  },
+  {
+    "id": "9ebf0048-e89f-4f66-a862-25e663f247d8",
+    "product": "OnePlus",
+    "review_text": "Not worth the price. I regret buying this.",
+    "rating": 1,
+    "sentiment_label": "negative",
+    "timestamp": "2026-03-08T05:34:02.168150"
+  }
+]

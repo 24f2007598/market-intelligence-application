@@ -490,6 +490,8 @@ if submit_ws and comp1 and comp2:
             res = requests.post("http://localhost:8000/whitespace", json=payload)
             if res.status_code == 200:
                 st.session_state.ws_response = res.json().get("answer", "")
+                st.session_state.ws_comp1 = comp1
+                st.session_state.ws_comp2 = comp2
             else:
                 st.session_state.ws_response = f"Error from backend: {res.status_code}"
         except Exception:
@@ -499,7 +501,7 @@ if "ws_response" in st.session_state:
     st.markdown(
         '<div class="sec-wrap" style="padding-top:2rem;padding-bottom:1rem;">'
         '<div class="eyebrow">Comparison Results</div>'
-        '<div class="sec-title">Whitespace Recommendations</div>'
+        '<div class="sec-title">Whitespace Benchmarking</div>'
         '<div class="gold-line"></div>'
         '</div>',
         unsafe_allow_html=True
@@ -509,7 +511,33 @@ if "ws_response" in st.session_state:
         if "Backend not connected" in st.session_state.ws_response or "Error from backend" in st.session_state.ws_response:
             st.error(st.session_state.ws_response)
         else:
-            st.markdown(f'<div style="padding:0 4vw;font-size:1.1rem;line-height:1.8;color:#ddd;">\n\n{st.session_state.ws_response}\n\n</div>', unsafe_allow_html=True)
+            try:
+                from sqlalchemy import text
+                from db.db import engine
+                
+                c1 = st.session_state.get("ws_comp1", "").lower()
+                c2 = st.session_state.get("ws_comp2", "").lower()
+                
+                if c1 and c2:
+                    q = text(
+                        "SELECT company, sentiment_label, COUNT(*) as count "
+                        "FROM reviews WHERE LOWER(company) IN (:c1, :c2) AND sentiment_label IS NOT NULL "
+                        "GROUP BY company, sentiment_label"
+                    )
+                    with engine.connect() as conn:
+                        res_db = conn.execute(q, {"c1": c1, "c2": c2}).fetchall()
+                    
+                    if res_db:
+                        df = pd.DataFrame(res_db, columns=["Company", "Sentiment", "Count"])
+                        pivot_df = df.pivot(index='Sentiment', columns='Company', values='Count').fillna(0)
+                        
+                        st.markdown(f"#### 📊 {c1.capitalize()} vs {c2.capitalize()} Sentiment Distribution")
+                        st.bar_chart(pivot_df, use_container_width=True)
+                        st.write("")
+            except Exception as e:
+                pass # Fail silently gracefully if db misses
+                    
+            st.markdown(f'<div style="padding:0;font-size:1.1rem;line-height:1.8;color:#ddd;">\n\n{st.session_state.ws_response}\n\n</div>', unsafe_allow_html=True)
 
 # ─── DATA SOURCES METRICS ────────────────────────────────────────────────────
 st.markdown('<div id="datasources" style="scroll-margin-top:64px;"></div>', unsafe_allow_html=True)

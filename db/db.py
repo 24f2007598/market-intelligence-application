@@ -93,6 +93,77 @@ def insert_change(url, snapshot_date, old_text, new_text, change_type, confidenc
         conn.commit()
 
 
+import psycopg2
+from psycopg2.extras import execute_batch
+from utils.config import DB_CONFIG
+
+
+def get_connection():
+    return psycopg2.connect(**DB_CONFIG)
+
+
+# -----------------------------
+# INSERT REVIEWS
+# -----------------------------
+def insert_reviews(reviews):
+    conn = get_connection()
+    cur = conn.cursor()
+
+    query = """
+    INSERT INTO reviews (id, product, text, rating, sentiment_label, timestamp, source)
+    VALUES (%s, %s, %s, %s, %s, %s, %s)
+    """
+
+    values = [
+        (
+            r["id"],
+            r["product"],
+            r["review_text"],
+            r["rating"],
+            r["sentiment_label"],
+            r["timestamp"],
+            "synthetic"
+        )
+        for r in reviews
+    ]
+
+    execute_batch(cur, query, values)
+    conn.commit()
+
+    cur.close()
+    conn.close()
+
+
+# -----------------------------
+# INSERT CHANGES
+# -----------------------------
+def insert_changes(changes):
+    conn = get_connection()
+    cur = conn.cursor()
+
+    query = """
+    INSERT INTO changes (url, old_text, new_text, change_type, timestamp, source)
+    VALUES (%s, %s, %s, %s, %s, %s)
+    """
+
+    values = [
+        (
+            c["url"],
+            c["old_text"],
+            c["new_text"],
+            c["change_type"],
+            c["timestamp"],
+            "synthetic"
+        )
+        for c in changes
+    ]
+
+    execute_batch(cur, query, values)
+    conn.commit()
+
+    cur.close()
+    conn.close()
+
 # from sqlalchemy import create_engine, text
 # from utils.config import POSTGRES_URI
 

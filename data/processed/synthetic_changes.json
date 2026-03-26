@@ -1,0 +1,1402 @@
+[
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "Price is $687",
+    "new_text": "Price updated to $810",
+    "change_type": "pricing_change",
+    "timestamp": "2026-02-28T05:34:02.168159"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-18T05:34:02.168163"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Price is $556",
+    "new_text": "Price updated to $613",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-03T05:34:02.168168"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "Price is $712",
+    "new_text": "Price updated to $799",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-05T05:34:02.168172"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-20T05:34:02.168174"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-17T05:34:02.168177"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "Price is $847",
+    "new_text": "Price updated to $912",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-03T05:34:02.168180"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Security updates",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-14T05:34:02.168183"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Battery optimization",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-03T05:34:02.168186"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-02T05:34:02.168189"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "Price is $684",
+    "new_text": "Price updated to $851",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-01T05:34:02.168192"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-09T05:34:02.168194"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-26T05:34:02.168196"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-02-25T05:34:02.168199"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Fast charging",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-22T05:34:02.168202"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-17T05:34:02.168204"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Fast charging",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-22T05:34:02.168206"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-01T05:34:02.168208"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-09T05:34:02.168214"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Battery optimization",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-10T05:34:02.168216"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Price is $632",
+    "new_text": "Price updated to $683",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-14T05:34:02.168220"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-02T05:34:02.168222"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "Price is $897",
+    "new_text": "Price updated to $1075",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-19T05:34:02.168227"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-16T05:34:02.168229"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Price is $725",
+    "new_text": "Price updated to $869",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-12T05:34:02.168232"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-06T05:34:02.168234"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-11T05:34:02.168236"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-04T05:34:02.168239"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: New UI design",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-26T05:34:02.168241"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-12T05:34:02.168243"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-07T05:34:02.168245"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Battery optimization",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-24T05:34:02.168248"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-14T05:34:02.168250"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: New UI design",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-18T05:34:02.168254"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-08T05:34:02.168257"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-02-26T05:34:02.168259"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-10T05:34:02.168261"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-09T05:34:02.168263"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: AI camera enhancement",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-06T05:34:02.168266"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Battery optimization",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-19T05:34:02.168268"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Price is $567",
+    "new_text": "Price updated to $618",
+    "change_type": "pricing_change",
+    "timestamp": "2026-02-24T05:34:02.168271"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "Price is $546",
+    "new_text": "Price updated to $679",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-16T05:34:02.168274"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Price is $552",
+    "new_text": "Price updated to $682",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-14T05:34:02.168277"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Price is $924",
+    "new_text": "Price updated to $1026",
+    "change_type": "pricing_change",
+    "timestamp": "2026-02-24T05:34:02.168280"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-04T05:34:02.168282"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Price is $528",
+    "new_text": "Price updated to $632",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-12T05:34:02.168285"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Price is $812",
+    "new_text": "Price updated to $946",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-21T05:34:02.168288"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-20T05:34:02.168290"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-02-27T05:34:02.168293"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: AI camera enhancement",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-06T05:34:02.168295"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-16T05:34:02.168297"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Fast charging",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-03T05:34:02.168300"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-06T05:34:02.168302"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-26T05:34:02.168304"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-23T05:34:02.168307"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Price is $746",
+    "new_text": "Price updated to $834",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-10T05:34:02.168309"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Price is $936",
+    "new_text": "Price updated to $1006",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-18T05:34:02.168312"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "Price is $918",
+    "new_text": "Price updated to $1034",
+    "change_type": "pricing_change",
+    "timestamp": "2026-02-25T05:34:02.168316"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Price is $630",
+    "new_text": "Price updated to $699",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-01T05:34:02.168319"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-16T05:34:02.168321"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-02-27T05:34:02.168323"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-02-26T05:34:02.168325"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Price is $941",
+    "new_text": "Price updated to $1102",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-14T05:34:02.168330"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Battery optimization",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-04T05:34:02.168332"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Price is $812",
+    "new_text": "Price updated to $980",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-25T05:34:02.168335"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Battery optimization",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-11T05:34:02.168339"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Price is $993",
+    "new_text": "Price updated to $1139",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-16T05:34:02.168343"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-12T05:34:02.168345"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-13T05:34:02.168347"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-15T05:34:02.168349"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-07T05:34:02.168351"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Security updates",
+    "change_type": "feature_change",
+    "timestamp": "2026-02-24T05:34:02.168354"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: New UI design",
+    "change_type": "feature_change",
+    "timestamp": "2026-02-27T05:34:02.168356"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Battery optimization",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-07T05:34:02.168359"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-11T05:34:02.168361"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-16T05:34:02.168363"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Price is $739",
+    "new_text": "Price updated to $802",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-21T05:34:02.168368"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-05T05:34:02.168370"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Security updates",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-22T05:34:02.168373"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: New UI design",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-09T05:34:02.168376"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: AI camera enhancement",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-16T05:34:02.168378"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Security updates",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-11T05:34:02.168381"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: New UI design",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-23T05:34:02.168383"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-17T05:34:02.168385"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "Price is $791",
+    "new_text": "Price updated to $940",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-25T05:34:02.168388"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-11T05:34:02.168391"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Fast charging",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-10T05:34:02.168393"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Security updates",
+    "change_type": "feature_change",
+    "timestamp": "2026-02-26T05:34:02.168395"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: New UI design",
+    "change_type": "feature_change",
+    "timestamp": "2026-02-24T05:34:02.168398"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-17T05:34:02.168400"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-02T05:34:02.168402"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-02-24T05:34:02.168405"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "Price is $509",
+    "new_text": "Price updated to $695",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-21T05:34:02.168408"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Fast charging",
+    "change_type": "feature_change",
+    "timestamp": "2026-02-24T05:34:02.168410"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Price is $892",
+    "new_text": "Price updated to $1043",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-02T05:34:02.168413"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-19T05:34:02.168415"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-04T05:34:02.168418"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "Price is $882",
+    "new_text": "Price updated to $965",
+    "change_type": "pricing_change",
+    "timestamp": "2026-02-28T05:34:02.168422"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Battery optimization",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-10T05:34:02.168425"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "Price is $572",
+    "new_text": "Price updated to $631",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-16T05:34:02.168428"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-03T05:34:02.168430"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "Price is $906",
+    "new_text": "Price updated to $1085",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-19T05:34:02.168433"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "Price is $606",
+    "new_text": "Price updated to $775",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-03T05:34:02.168436"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-21T05:34:02.168438"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-13T05:34:02.168440"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Price is $965",
+    "new_text": "Price updated to $1078",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-05T05:34:02.168445"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "Price is $991",
+    "new_text": "Price updated to $1166",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-07T05:34:02.168449"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-16T05:34:02.168451"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-14T05:34:02.168453"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Battery optimization",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-23T05:34:02.168456"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Battery optimization",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-17T05:34:02.168458"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Price is $845",
+    "new_text": "Price updated to $935",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-21T05:34:02.168461"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-10T05:34:02.168463"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-02-25T05:34:02.168466"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-24T05:34:02.168468"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-02-24T05:34:02.168470"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-02-27T05:34:02.168474"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-18T05:34:02.168476"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-02-25T05:34:02.168478"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Price is $665",
+    "new_text": "Price updated to $846",
+    "change_type": "pricing_change",
+    "timestamp": "2026-02-24T05:34:02.168481"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-02-27T05:34:02.168483"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: AI camera enhancement",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-11T05:34:02.168486"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-18T05:34:02.168488"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Battery optimization",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-09T05:34:02.168491"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-02-25T05:34:02.168493"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-19T05:34:02.168495"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: AI camera enhancement",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-19T05:34:02.168498"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-26T05:34:02.168500"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Price is $743",
+    "new_text": "Price updated to $936",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-05T05:34:02.168503"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Price is $635",
+    "new_text": "Price updated to $730",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-10T05:34:02.168508"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-02-27T05:34:02.168510"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Security updates",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-02T05:34:02.168512"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Battery optimization",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-22T05:34:02.168515"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-15T05:34:02.168517"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Battery optimization",
+    "change_type": "feature_change",
+    "timestamp": "2026-02-24T05:34:02.168520"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-15T05:34:02.168522"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-05T05:34:02.168524"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: New UI design",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-24T05:34:02.168527"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "Price is $546",
+    "new_text": "Price updated to $679",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-19T05:34:02.168530"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-02-25T05:34:02.168532"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-17T05:34:02.168534"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-16T05:34:02.168536"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "Price is $860",
+    "new_text": "Price updated to $1046",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-17T05:34:02.168539"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-16T05:34:02.168542"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "Price is $601",
+    "new_text": "Price updated to $719",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-12T05:34:02.168544"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-10T05:34:02.168547"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-02-24T05:34:02.168549"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: New UI design",
+    "change_type": "feature_change",
+    "timestamp": "2026-02-26T05:34:02.168551"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-01T05:34:02.168554"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-14T05:34:02.168556"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-02-27T05:34:02.168558"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-12T05:34:02.168561"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-04T05:34:02.168564"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Battery optimization",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-09T05:34:02.168567"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-13T05:34:02.168569"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Price is $989",
+    "new_text": "Price updated to $1179",
+    "change_type": "pricing_change",
+    "timestamp": "2026-02-24T05:34:02.168572"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "Price is $626",
+    "new_text": "Price updated to $782",
+    "change_type": "pricing_change",
+    "timestamp": "2026-02-24T05:34:02.168575"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-23T05:34:02.168577"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-16T05:34:02.168579"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-23T05:34:02.168581"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: AI camera enhancement",
+    "change_type": "feature_change",
+    "timestamp": "2026-02-28T05:34:02.168584"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Price is $835",
+    "new_text": "Price updated to $971",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-03T05:34:02.168590"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-02-28T05:34:02.168593"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: New UI design",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-22T05:34:02.168596"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-13T05:34:02.168598"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Price is $725",
+    "new_text": "Price updated to $858",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-12T05:34:02.168601"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Battery optimization",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-14T05:34:02.168603"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-02-25T05:34:02.168606"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Security updates",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-19T05:34:02.168608"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-02-25T05:34:02.168610"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Price is $889",
+    "new_text": "Price updated to $1070",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-15T05:34:02.168613"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Security updates",
+    "change_type": "feature_change",
+    "timestamp": "2026-02-28T05:34:02.168616"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Price is $596",
+    "new_text": "Price updated to $761",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-25T05:34:02.168619"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Fast charging",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-20T05:34:02.168622"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Battery optimization",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-25T05:34:02.168625"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-04T05:34:02.168627"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-20T05:34:02.168629"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Battery optimization",
+    "change_type": "feature_change",
+    "timestamp": "2026-02-28T05:34:02.168632"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "Price is $713",
+    "new_text": "Price updated to $819",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-09T05:34:02.168634"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-23T05:34:02.168637"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Security updates",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-05T05:34:02.168639"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Price is $609",
+    "new_text": "Price updated to $803",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-25T05:34:02.168642"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-03T05:34:02.168644"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-13T05:34:02.168647"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-24T05:34:02.168649"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-12T05:34:02.168651"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-07T05:34:02.168653"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-04T05:34:02.168656"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Price is $707",
+    "new_text": "Price updated to $876",
+    "change_type": "pricing_change",
+    "timestamp": "2026-02-24T05:34:02.168659"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Battery optimization",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-24T05:34:02.168661"
+  },
+  {
+    "url": "https://www.apple.com/iphone",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Security updates",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-21T05:34:02.168664"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-24T05:34:02.168666"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-19T05:34:02.168669"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: New UI design",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-25T05:34:02.168672"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Battery optimization",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-16T05:34:02.168675"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-06T05:34:02.168677"
+  },
+  {
+    "url": "https://www.oneplus.com/store",
+    "old_text": "Best phone for everyone",
+    "new_text": "The ultimate flagship experience for professionals",
+    "change_type": "messaging_change",
+    "timestamp": "2026-03-17T05:34:02.168679"
+  },
+  {
+    "url": "https://www.samsung.com/pricing",
+    "old_text": "This phone includes standard features",
+    "new_text": "New feature added: Fast charging",
+    "change_type": "feature_change",
+    "timestamp": "2026-03-04T05:34:02.168683"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "Price is $688",
+    "new_text": "Price updated to $830",
+    "change_type": "pricing_change",
+    "timestamp": "2026-03-10T05:34:02.168689"
+  },
+  {
+    "url": "https://www.oppo.com/pricing",
+    "old_text": "This is a product page with basic details",
+    "new_text": "This is a product page with basic details",
+    "change_type": "no_change",
+    "timestamp": "2026-03-23T05:34:02.168691"
+  }
+]

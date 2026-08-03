@@ -104,9 +104,15 @@ import streamlit as st
 import streamlit.components.v1 as components
 import pandas as pd
 import sys, os
-import requests
 
 sys.path.append(os.path.dirname(os.path.dirname(__file__)))
+
+# Load RAG functions directly — no local FastAPI server needed on Streamlit Cloud
+try:
+    from scripts.rag import generate_answer, generate_whitespace_analysis
+    _rag_available = True
+except Exception as _rag_err:
+    _rag_available = False
 
 # try:
 #     from nlp.insight_engine import generate_micro_insights, compute_aspect_sentiment
@@ -430,17 +436,13 @@ if run_query:
         st.warning("Please enter a query.")
     else:
         with st.spinner("🔍 Retrieving and analyzing market data via RAG engine..."):
-            try:
-                res = requests.post(
-                    "http://localhost:8000/rag",
-                    json={"query": user_query}
-                )
-                if res.status_code == 200:
-                    st.session_state.rag_response = res.json().get("answer", "No answer found in response.")
-                else:
-                    st.session_state.rag_response = f"Error from backend: {res.status_code}"
-            except Exception:
-                st.session_state.rag_response = "Backend not connected. Make sure FastAPI server is running on port 8000."
+            if _rag_available:
+                try:
+                    st.session_state.rag_response = generate_answer(user_query)
+                except Exception as e:
+                    st.session_state.rag_response = f"⚠️ RAG Error: {str(e)}"
+            else:
+                st.session_state.rag_response = f"⚠️ RAG engine failed to load. Check GEMINI_API_KEY is set in secrets."
 
 if "rag_response" in st.session_state:
     st.markdown(
@@ -485,17 +487,16 @@ with c_ws2:
 
 if submit_ws and comp1 and comp2:
     with st.spinner(f"Analyzing datasets and previous trends for {comp1} and {comp2}..."):
-        try:
-            payload = {"company1": comp1, "company2": comp2, "query": ws_query if ws_query else "General whitespace and feature gaps"}
-            res = requests.post("http://localhost:8000/whitespace", json=payload)
-            if res.status_code == 200:
-                st.session_state.ws_response = res.json().get("answer", "")
+        if _rag_available:
+            try:
+                focus = ws_query if ws_query else "General whitespace and feature gaps"
+                st.session_state.ws_response = generate_whitespace_analysis(comp1, comp2, focus)
                 st.session_state.ws_comp1 = comp1
                 st.session_state.ws_comp2 = comp2
-            else:
-                st.session_state.ws_response = f"Error from backend: {res.status_code}"
-        except Exception:
-            st.session_state.ws_response = "Backend not connected. Ensure FastAPI is running on port 8000."
+            except Exception as e:
+                st.session_state.ws_response = f"⚠️ Analysis Error: {str(e)}"
+        else:
+            st.session_state.ws_response = "⚠️ RAG engine failed to load. Check GEMINI_API_KEY is set in secrets."
 
 if "ws_response" in st.session_state:
     st.markdown(

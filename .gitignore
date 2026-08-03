@@ -4,3 +4,22 @@ __pycache__/
 *.pyo
 venv/
 .venv/
+
+# Logs
+*.log
+api.log
+
+# Databases / generated
+chroma_db/
+*.db
+*.sqlite3
+
+# Data & models (if large)
+data/
+models/
+*.pkl
+*.h5
+
+# Secrets
+.env
+*.key
